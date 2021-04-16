@@ -6,7 +6,7 @@ Questions we need to answer for First Segment:
 * Questions we hope to answer with the data
 * Description of the communication protocols
 
-Visualization:
+Visualization - Brainstorming ideas:
 
 * What do we want the dashboard to contain?
 * Should there be interactive maps and graphs?
