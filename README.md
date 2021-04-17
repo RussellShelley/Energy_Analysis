@@ -7,7 +7,7 @@ Questions we need to answer for First Segment Deliverable:
 * Description of the source of data
     * Data will be sourced from the California Energy Commission, the US Census Bureau, and Data.Gov. 
 * Questions we hope to answer with the data
-    * 
+    * Can we predict if someone is likely to own an electric vehicle based on demographic and geographic location? 
 * Description of the communication protocols
     - slack (final_project_energy channel)
     - zoom check-in 10am Sunday 17th (PST)
