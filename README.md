@@ -1,5 +1,5 @@
 # Energy_Analysis
-Questions we need to answer for First Segment: 
+Questions we need to answer for First Segment Deliverable:  
 * Selected topic
     * Likelihood of owning an electric vehicle in comparison to demographic and geographic location such as proximity to charging stations, household income, and more. 
 * Reason we selected the topic
