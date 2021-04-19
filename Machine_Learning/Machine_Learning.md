@@ -1,10 +1,3 @@
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Machine Learning Overview
 
