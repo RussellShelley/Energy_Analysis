@@ -12,7 +12,7 @@ Visualization - Brainstorming ideas:
 * Should there be interactive maps and graphs?
 * Add a segment for the ML predictive results?
 
-### Visualization
+### Visualization - Steps
 * User input field for zip code and maybe household number
 * table to update with added ML prediction on whether an EV will be purchased or not?
 * Create charts and graphs with number of vehicle sales, EV charging station locations, household income, demographics.
