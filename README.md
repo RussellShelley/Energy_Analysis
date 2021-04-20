@@ -1,5 +1,5 @@
 # Energy_Analysis
-Questions we need to answer for First Segment Deliverable:  
+## Project Overview
 * Selected topic
     * Likelihood of owning an electric vehicle in comparison to demographic and geographic location such as proximity to charging stations, household income, and more. 
 * Reason we selected the topic
@@ -11,3 +11,10 @@ Questions we need to answer for First Segment Deliverable:
 * Description of the communication protocols
     - slack (final_project_energy channel)
     - zoom check-in 10am Sunday 17th (PST)
+
+## Machine Learning Model
+In this machine learning analysis, we are looking to explore the relationships of many different demographic and environmental variables with electric vehicle ownership and/or electric vehicle charing stations.
+
+We have compiled census data on demographics (gender, age, family size, race, income) at the census tract and block level across the state of California. We have also downloaded a geojson of air pollution levels from 1986-2010, and we are creating an API to pull EV charging location points from OpenChargeMap.org.
+
+Our hopes are to explore the likelihood of EV ownership within a given zipcode (or) census tract (or) census block (whichever our data best lends itself to), in order to provide homeowners potential recomendations on EV ownership suitability in their region. We also hope to explore the relationship between EV charging stations and actual EV ownership (is the ratio consistent? Are some communities underserved?), the relationship between air pollution and EV charging stations (is EV adoption occuring in communities with high levels of airborne pollution?), as well as the relationships between familial demographics (ages, household size, etc.) and EV ownership.
