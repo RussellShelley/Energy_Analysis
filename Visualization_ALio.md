@@ -1,6 +1,6 @@
 ## Visualization - Steps and thought process
 
-The presentation will be displayed via `Google Slides, as well as, an interactive webpage hosted by `GitHub Pages` using `HTML`, `CSS` and `Javascript`
+The presentation will be displayed via `Google Slides`, as well as, an interactive webpage hosted by `GitHub Pages` using `HTML`, `CSS` and `Javascript`
 
 * User input field for zip code and maybe household number
 * table to update with added ML prediction on whether an EV will be purchased or not?
