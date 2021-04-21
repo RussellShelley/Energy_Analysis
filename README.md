@@ -24,7 +24,7 @@ The purpose of this project is to explore an overall analysis of the electric ve
 * Data is collected and preprocessed in `Jupyter Notebook` using `Pandas` and `Python`.
 * Preprocessed data is connected and imported into `Postgres` using `pgAdmin`.
 * The database is then connected to the Machine Learning model that has been created using `Jupyter Notebook`
-* The presentation will be displayed via `Google Slides, as well as, an interactive webpage hosted by `GitHub Pages` using `HTML`, `CSS` and `Javascript`
+* The presentation will be displayed via `Google Slides`, as well as, an interactive webpage hosted by `GitHub Pages` using `HTML`, `CSS` and `Javascript`
 
 ## Machine Learning Model
 
