@@ -36,7 +36,7 @@ Our hopes are to explore the likelihood of EV ownership within a given zipcode (
 
 ## Visualization
 
-Working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
+We will incorporate visualizations into `Google Slides`, as well as create an interactive webpage. A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/ALio/Visualization/Images/Webpagedraft1.png)
 
@@ -50,7 +50,7 @@ Working draft of webpage can be found [here](https://amylio.github.io/Project_We
 
 * Russell Shelley - [GitHub Repository Owner](https://github.com/RussellShelley/Energy_Analysis)
 * Angela Haverly - [Technology Master](https://github.com/RussellShelley/Energy_Analysis/tree/a_haverly)
-* Robbe Verholte - [Machine Learning Architect](https://github.com/RussellShelley/Energy_Analysis/tree/r_verhofste)
+* Robbe Verhofste - [Machine Learning Architect](https://github.com/RussellShelley/Energy_Analysis/tree/r_verhofste)
 * Daniele Ruiz - [Database Guru](https://github.com/RussellShelley/Energy_Analysis/tree/d_ruiz)
 * Valerie Achoa - [Data Analysis Expert](https://github.com/RussellShelley/Energy_Analysis/tree/va_achoa)
 * Amy Lio - [Visualization and Experience Manager](https://github.com/RussellShelley/Energy_Analysis/tree/ALio)
