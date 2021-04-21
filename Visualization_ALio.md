@@ -19,3 +19,5 @@ Visualization - Brainstorming ideas:
 * Utilize Valerie’s tableau for map/census visualization for webpage?
 * Create an API call to update charging station map?
 * Using MongoDB and flask to connect database to webpage for interactivity
+
+A draft webpage is being hosted at: https://amylio.github.io/Project_Web_Test/
