@@ -1,1 +1,0 @@
-.always-print,.visible-print{display:inherit!important}.hidden-print{display:none!important}.container-fluid{padding:0}#print_header{margin-bottom:18px}@-moz-document url-prefix(){#print_header{margin-top:40px}}#main_content{width:100%;margin:0}table.fixedHeader-floating{display:none!important}.map_canvas img{max-width:none!important}.map_canvas a[href]:after{content:none}
