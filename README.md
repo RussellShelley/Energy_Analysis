@@ -65,6 +65,8 @@ We will incorporate visualizations into `Google Slides`, as well as create an in
 
 ## Team Communication Protocols
 * `Slack`- #final_project_energy channel
-* `Zoom` - Week 1 check-in 10am Sunday, April 17th (PST)
+* `Zoom`
+	* Week 1 check-in 10am Sunday, April 17th (PST)
+	* Week 2 TBD
 
 
