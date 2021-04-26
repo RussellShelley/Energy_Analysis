@@ -1,0 +1,2655 @@
+zip,primary_city,state,county,area_codes,country,latitude,longitude
+90001,Los Angeles,CA,Los Angeles County,323,US,33.97,-118.24
+90002,Los Angeles,CA,Los Angeles County,"323,562",US,33.94,-118.24
+90003,Los Angeles,CA,Los Angeles County,323,US,33.96,-118.27
+90004,Los Angeles,CA,Los Angeles County,323,US,34.07,-118.31
+90005,Los Angeles,CA,Los Angeles County,"213,310,323,562,626,000",US,34.06,-118.31
+90006,Los Angeles,CA,Los Angeles County,"213,323",US,34.05,-118.29
+90007,Los Angeles,CA,Los Angeles County,"213,323",US,34.02,-118.28
+90008,Los Angeles,CA,Los Angeles County,323,US,34.01,-118.35
+90009,Los Angeles,CA,Los Angeles County,213,US,33.94,-118.38
+90010,Los Angeles,CA,Los Angeles County,"213,310,562,626,818,000",US,34.06,-118.32
+90011,Los Angeles,CA,Los Angeles County,323,US,34,-118.25
+90012,Los Angeles,CA,Los Angeles County,"818,323",US,34.06,-118.24
+90013,Los Angeles,CA,Los Angeles County,"213,310,323,424,562,000,000,000",US,34.05,-118.24
+90014,Los Angeles,CA,Los Angeles County,"213,323,562,626,818,000,000,000",US,34.04,-118.25
+90015,Los Angeles,CA,Los Angeles County,"310,323,424,562,626,000,000",US,34.03,-118.26
+90016,Los Angeles,CA,Los Angeles County,213,US,34.02,-118.35
+90017,Los Angeles,CA,Los Angeles County,"310,818,213,323,424,000,000",US,34.05,-118.26
+90018,Los Angeles,CA,Los Angeles County,"213,323",US,34.02,-118.31
+90019,Los Angeles,CA,Los Angeles County,323,US,34.04,-118.34
+90020,Los Angeles,CA,Los Angeles County,"213,310,323,562,626,000",US,34.07,-118.31
+90021,Los Angeles,CA,Los Angeles County,213,US,34.03,-118.24
+90022,Los Angeles,CA,Los Angeles County,"562,323",US,34.02,-118.15
+90023,Los Angeles,CA,Los Angeles County,323,US,34.02,-118.2
+90024,Los Angeles,CA,Los Angeles County,"323,818,310",US,34.06,-118.43
+90025,Los Angeles,CA,Los Angeles County,"310,424,818",US,34.04,-118.44
+90026,Los Angeles,CA,Los Angeles County,213,US,34.07,-118.26
+90027,Los Angeles,CA,Los Angeles County,"323,818",US,34.12,-118.28
+90028,Los Angeles,CA,Los Angeles County,"818,323",US,34.1,-118.32
+90029,Los Angeles,CA,Los Angeles County,323,US,34.09,-118.29
+90030,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.23
+90031,Los Angeles,CA,Los Angeles County,323,US,34.09,-118.21
+90032,Los Angeles,CA,Los Angeles County,626,US,34.08,-118.17
+90033,Los Angeles,CA,Los Angeles County,323,US,34.04,-118.21
+90034,Los Angeles,CA,Los Angeles County,"310,424",US,34.03,-118.4
+90035,Los Angeles,CA,Los Angeles County,"310,424",US,34.05,-118.38
+90036,Los Angeles,CA,Los Angeles County,323,US,34.06,-118.35
+90037,Los Angeles,CA,Los Angeles County,"213,323,310,424",US,34,-118.28
+90038,Los Angeles,CA,Los Angeles County,"323,818",US,34.09,-118.33
+90039,Los Angeles,CA,Los Angeles County,213,US,34.11,-118.26
+90040,Los Angeles,CA,Los Angeles County,"323,562",US,33.99,-118.14
+90041,Los Angeles,CA,Los Angeles County,"323,626",US,34.13,-118.2
+90042,Los Angeles,CA,Los Angeles County,"323,626",US,34.11,-118.19
+90043,Los Angeles,CA,Los Angeles County,323,US,33.98,-118.33
+90044,Los Angeles,CA,Los Angeles County,"213,310,323",US,33.95,-118.29
+90045,Los Angeles,CA,Los Angeles County,323,US,33.95,-118.4
+90046,Los Angeles,CA,Los Angeles County,323,US,34.11,-118.36
+90047,Los Angeles,CA,Los Angeles County,323,US,33.95,-118.31
+90048,Los Angeles,CA,Los Angeles County,"310,323",US,34.07,-118.37
+90049,Los Angeles,CA,Los Angeles County,"310,818",US,34.08,-118.49
+90050,Los Angeles,CA,Los Angeles County,213,US,34.12,-118.2
+90051,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.24
+90052,Los Angeles,CA,Los Angeles County,213,US,33.97,-118.25
+90053,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.23
+90054,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.23
+90055,Los Angeles,CA,Los Angeles County,213,US,34.04,-118.25
+90056,Los Angeles,CA,Los Angeles County,323,US,33.99,-118.37
+90057,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.27
+90058,Los Angeles,CA,Los Angeles County,323,US,34,-118.21
+90059,Los Angeles,CA,Los Angeles County,"213,310",US,33.93,-118.25
+90060,Los Angeles,CA,Los Angeles County,213,US,33.99,-118.42
+90061,Los Angeles,CA,Los Angeles County,"323,213,310",US,33.92,-118.27
+90062,Los Angeles,CA,Los Angeles County,323,US,34,-118.31
+90063,Los Angeles,CA,Los Angeles County,323,US,34.04,-118.18
+90064,Los Angeles,CA,Los Angeles County,"310,818",US,34.03,-118.43
+90065,Los Angeles,CA,Los Angeles County,323,US,34.1,-118.22
+90066,Los Angeles,CA,Los Angeles County,"310,424",US,34,-118.43
+90067,Los Angeles,CA,Los Angeles County,"310,323",US,34.06,-118.41
+90068,Los Angeles,CA,Los Angeles County,323,US,34.13,-118.33
+90069,West Hollywood,CA,Los Angeles County,"323,818",US,34.09,-118.38
+90070,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.31
+90071,Los Angeles,CA,Los Angeles County,"213,310,562,626,424,000,000,000",US,34.05,-118.25
+90072,Los Angeles,CA,Los Angeles County,213,US,34.09,-118.3
+90073,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.45
+90074,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.26
+90075,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.31
+90076,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.31
+90077,Los Angeles,CA,Los Angeles County,"310,818",US,34.1,-118.45
+90078,Los Angeles,CA,Los Angeles County,213,US,34.1,-118.32
+90079,Los Angeles,CA,Los Angeles County,"213,323,424,626,747,000",US,34.04,-118.26
+90080,Los Angeles,CA,Los Angeles County,213,US,33.95,-118.39
+90081,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.26
+90082,Los Angeles,CA,Los Angeles County,213,US,34,-118.27
+90083,Los Angeles,CA,Los Angeles County,213,US,33.95,-118.39
+90084,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.26
+90086,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.23
+90087,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.23
+90088,Los Angeles,CA,Los Angeles County,213,US,34.05,-118.26
+90089,Los Angeles,CA,Los Angeles County,213,US,34.02,-118.29
+90090,Dodgertown,CA,Los Angeles County,213,US,34.07,-118.24
+90091,Los Angeles,CA,Los Angeles County,213,US,33.99,-118.15
+90093,Los Angeles,CA,Los Angeles County,213,US,34.09,-118.33
+90094,Playa Vista,CA,Los Angeles County,323,US,33.98,-118.42
+90095,Los Angeles,CA,Los Angeles County,213,US,34.07,-118.44
+90096,Los Angeles,CA,Los Angeles County,213,US,33.96,-118.17
+90099,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.23
+90101,Los Angeles,CA,Los Angeles County,213,US,33.99,-118.16
+90102,Los Angeles,CA,Los Angeles County,213,US,34.01,-118.19
+90103,Los Angeles,CA,Los Angeles County,213,US,33.99,-118.16
+90189,Los Angeles,CA,Los Angeles County,213,US,34.06,-118.25
+90201,Bell Gardens,CA,Los Angeles County,323,US,33.97,-118.15
+90202,Bell,CA,Los Angeles County,323,US,33.96,-118.15
+90209,Beverly Hills,CA,Los Angeles County,310,US,34.07,-118.39
+90210,Beverly Hills,CA,Los Angeles County,"310,323,424",US,34.09,-118.41
+90211,Beverly Hills,CA,Los Angeles County,"310,323,424",US,34.06,-118.38
+90212,Beverly Hills,CA,Los Angeles County,"323,424,310",US,34.06,-118.4
+90213,Beverly Hills,CA,Los Angeles County,310,US,34.05,-118.4
+90220,Compton,CA,Los Angeles County,"310,323,562,424",US,33.87,-118.24
+90221,Compton,CA,Los Angeles County,"310,323,424,562",US,33.87,-118.21
+90222,Compton,CA,Los Angeles County,"424,310,323,562",US,33.91,-118.23
+90223,Compton,CA,Los Angeles County,310,US,33.89,-118.22
+90224,Compton,CA,Los Angeles County,310,US,33.87,-118.26
+90230,Culver City,CA,Los Angeles County,"310,323,424",US,33.99,-118.39
+90231,Culver City,CA,Los Angeles County,310,US,33.99,-118.39
+90232,Culver City,CA,Los Angeles County,"310,323,424",US,34.02,-118.39
+90233,Culver City,CA,Los Angeles County,310,US,33.98,-118.38
+90239,Downey,CA,Los Angeles County,562,US,33.93,-118.11
+90240,Downey,CA,Los Angeles County,562,US,33.95,-118.12
+90241,Downey,CA,Los Angeles County,562,US,33.94,-118.13
+90242,Downey,CA,Los Angeles County,562,US,33.92,-118.14
+90245,El Segundo,CA,Los Angeles County,"310,424",US,33.91,-118.4
+90247,Gardena,CA,Los Angeles County,"213,310,323,424,562",US,33.89,-118.29
+90248,Gardena,CA,Los Angeles County,"213,310,323,424,562",US,33.88,-118.28
+90249,Gardena,CA,Los Angeles County,"213,310,323,424,562",US,33.89,-118.31
+90250,Hawthorne,CA,Los Angeles County,"310,323,424",US,33.91,-118.34
+90251,Hawthorne,CA,Los Angeles County,310,US,33.91,-118.36
+90254,Hermosa Beach,CA,Los Angeles County,"310,424",US,33.86,-118.39
+90255,Huntington Park,CA,Los Angeles County,323,US,33.97,-118.21
+90260,Lawndale,CA,Los Angeles County,310,US,33.88,-118.35
+90261,Lawndale,CA,Los Angeles County,310,US,33.89,-118.37
+90262,Lynwood,CA,Los Angeles County,,US,33.92,-118.2
+90263,Malibu,CA,Los Angeles County,"310,424",US,34.04,-118.71
+90264,Malibu,CA,Los Angeles County,310,US,34.04,-118.77
+90265,Malibu,CA,Los Angeles County,"310,424",US,34.06,-118.81
+90266,Manhattan Beach,CA,Los Angeles County,310,US,33.88,-118.4
+90267,Manhattan Beach,CA,Los Angeles County,310,US,33.87,-118.39
+90270,Maywood,CA,Los Angeles County,323,US,33.99,-118.19
+90272,Pacific Palisades,CA,Los Angeles County,,US,34.07,-118.54
+90274,Palos Verdes Peninsula,CA,Los Angeles County,310,US,33.77,-118.34
+90275,Rancho Palos Verdes,CA,Los Angeles County,,US,33.75,-118.31
+90277,Redondo Beach,CA,Los Angeles County,"310,424",US,33.83,-118.38
+90278,Redondo Beach,CA,Los Angeles County,"424,310",US,33.87,-118.37
+90280,South Gate,CA,Los Angeles County,323,US,33.94,-118.2
+90290,Topanga,CA,Los Angeles County,310,US,34.1,-118.6
+90291,Venice,CA,Los Angeles County,,US,33.99,-118.46
+90292,Marina Del Rey,CA,Los Angeles County,,US,33.98,-118.46
+90293,Playa Del Rey,CA,Los Angeles County,213,US,33.94,-118.44
+90294,Venice,CA,Los Angeles County,213,US,33.98,-118.47
+90295,Marina Del Rey,CA,Los Angeles County,310,US,33.97,-118.43
+90296,Playa Del Rey,CA,Los Angeles County,213,US,33.95,-118.44
+90301,Inglewood,CA,Los Angeles County,"323,310,424",US,33.95,-118.36
+90302,Inglewood,CA,Los Angeles County,"424,310,323",US,33.97,-118.35
+90303,Inglewood,CA,Los Angeles County,310,US,33.93,-118.33
+90304,Inglewood,CA,Los Angeles County,"310,424",US,33.94,-118.36
+90305,Inglewood,CA,Los Angeles County,"310,424",US,33.95,-118.33
+90306,Inglewood,CA,Los Angeles County,310,US,33.95,-118.35
+90307,Inglewood,CA,Los Angeles County,310,US,33.95,-118.37
+90308,Inglewood,CA,Los Angeles County,310,US,33.95,-118.35
+90309,Inglewood,CA,Los Angeles County,310,US,33.97,-118.35
+90310,Inglewood,CA,Los Angeles County,310,US,33.93,-118.32
+90311,Inglewood,CA,Los Angeles County,"310,424,323",US,33.95,-118.35
+90312,Inglewood,CA,Los Angeles County,310,US,33.96,-118.35
+90313,Inglewood,CA,Los Angeles County,310,US,33.96,-118.35
+90397,Inglewood,CA,Los Angeles County,310,US,33.96,-118.35
+90398,Inglewood,CA,Los Angeles County,310,US,33.96,-118.35
+90401,Santa Monica,CA,Los Angeles County,"310,424",US,34.01,-118.49
+90402,Santa Monica,CA,Los Angeles County,310,US,34.03,-118.5
+90403,Santa Monica,CA,Los Angeles County,"310,424",US,34.03,-118.49
+90404,Santa Monica,CA,Los Angeles County,"310,424",US,34.02,-118.47
+90405,Santa Monica,CA,Los Angeles County,"310,424",US,34.01,-118.46
+90406,Santa Monica,CA,Los Angeles County,310,US,34.01,-118.49
+90407,Santa Monica,CA,Los Angeles County,310,US,34.01,-118.49
+90408,Santa Monica,CA,Los Angeles County,310,US,34.02,-118.48
+90409,Santa Monica,CA,Los Angeles County,310,US,34,-118.48
+90410,Santa Monica,CA,Los Angeles County,310,US,34.01,-118.46
+90411,Santa Monica,CA,Los Angeles County,310,US,34.01,-118.46
+90501,Torrance,CA,Los Angeles County,"310,424",US,33.83,-118.31
+90502,Torrance,CA,Los Angeles County,"310,424",US,33.83,-118.29
+90503,Torrance,CA,Los Angeles County,"310,424",US,33.84,-118.35
+90504,Torrance,CA,Los Angeles County,310,US,33.86,-118.33
+90505,Torrance,CA,Los Angeles County,310,US,33.8,-118.35
+90506,Torrance,CA,Los Angeles County,310,US,33.88,-118.33
+90507,Torrance,CA,Los Angeles County,310,US,33.83,-118.31
+90508,Torrance,CA,Los Angeles County,310,US,33.83,-118.31
+90509,Torrance,CA,Los Angeles County,310,US,33.84,-118.32
+90510,Torrance,CA,Los Angeles County,310,US,33.82,-118.32
+90601,Whittier,CA,Los Angeles County,562,US,34,-118.03
+90602,Whittier,CA,Los Angeles County,562,US,33.97,-118.01
+90603,Whittier,CA,Los Angeles County,562,US,33.94,-117.99
+90604,Whittier,CA,Los Angeles County,562,US,33.93,-118
+90605,Whittier,CA,Los Angeles County,562,US,33.95,-118.02
+90606,Whittier,CA,Los Angeles County,562,US,33.98,-118.06
+90607,Whittier,CA,Los Angeles County,562,US,33.96,-118.02
+90608,Whittier,CA,Los Angeles County,562,US,33.97,-118.02
+90609,Whittier,CA,Los Angeles County,562,US,33.97,-118.03
+90610,Whittier,CA,Los Angeles County,562,US,33.96,-118.07
+90612,Whittier,CA,Los Angeles County,562,US,33.96,-118.02
+90620,Buena Park,CA,Orange County,"657,714",US,33.84,-118
+90621,Buena Park,CA,Orange County,"657,714",US,33.87,-117.99
+90622,Buena Park,CA,Orange County,714,US,33.84,-118
+90623,La Palma,CA,Orange County,"657,714",US,33.85,-118.04
+90624,Buena Park,CA,Orange County,714,US,33.85,-118
+90630,Cypress,CA,Orange County,"657,714",US,33.81,-118.03
+90631,La Habra,CA,Orange County,562,US,33.94,-117.95
+90632,La Habra,CA,Orange County,714,US,33.91,-117.95
+90633,La Habra,CA,Orange County,714,US,33.93,-117.94
+90637,La Mirada,CA,Los Angeles County,562,US,33.89,-118
+90638,La Mirada,CA,Los Angeles County,714,US,33.9,-118
+90639,La Mirada,CA,Los Angeles County,562,US,33.9,-118.01
+90640,Montebello,CA,Los Angeles County,323,US,34.02,-118.11
+90650,Norwalk,CA,Los Angeles County,562,US,33.9,-118.07
+90651,Norwalk,CA,Los Angeles County,562,US,33.9,-118.07
+90652,Norwalk,CA,Los Angeles County,562,US,33.91,-118.07
+90659,Norwalk,CA,Los Angeles County,562,US,33.9,-118.07
+90660,Pico Rivera,CA,Los Angeles County,562,US,33.98,-118.08
+90661,Pico Rivera,CA,Los Angeles County,562,US,34,-118.08
+90662,Pico Rivera,CA,Los Angeles County,562,US,33.96,-118.09
+90670,Santa Fe Springs,CA,Los Angeles County,562,US,33.92,-118.06
+90671,Santa Fe Springs,CA,Los Angeles County,562,US,33.93,-118.06
+90680,Stanton,CA,Orange County,,US,33.8,-117.99
+90701,Artesia,CA,Los Angeles County,562,US,33.86,-118.08
+90702,Artesia,CA,Los Angeles County,562,US,33.86,-118.08
+90703,Cerritos,CA,Los Angeles County,,US,33.86,-118.05
+90704,Avalon,CA,Los Angeles County,,US,33.38,-118.45
+90706,Bellflower,CA,Los Angeles County,562,US,33.88,-118.13
+90707,Bellflower,CA,Los Angeles County,562,US,33.88,-118.12
+90710,Harbor City,CA,Los Angeles County,,US,33.8,-118.3
+90711,Lakewood,CA,Los Angeles County,562,US,33.84,-118.14
+90712,Lakewood,CA,Los Angeles County,"310,323,657,562",US,33.85,-118.15
+90713,Lakewood,CA,Los Angeles County,"310,323,562,657",US,33.85,-118.11
+90714,Lakewood,CA,Los Angeles County,562,US,33.85,-118.13
+90715,Lakewood,CA,Los Angeles County,"310,562",US,33.84,-118.07
+90716,Hawaiian Gardens,CA,Los Angeles County,,US,33.83,-118.07
+90717,Lomita,CA,Los Angeles County,"310,424",US,33.79,-118.31
+90720,Los Alamitos,CA,Orange County,"562,714,657",US,33.79,-118.06
+90721,Los Alamitos,CA,Orange County,562,US,33.8,-118.07
+90723,Paramount,CA,Los Angeles County,,US,33.89,-118.16
+90731,San Pedro,CA,Los Angeles County,"310,424,562",US,33.73,-118.29
+90732,San Pedro,CA,Los Angeles County,"310,424,562",US,33.73,-118.31
+90733,San Pedro,CA,Los Angeles County,213,US,33.7,-118.29
+90734,San Pedro,CA,Los Angeles County,213,US,33.75,-118.3
+90740,Seal Beach,CA,Orange County,"562,714",US,33.75,-118.07
+90742,Sunset Beach,CA,Orange County,,US,33.72,-118.08
+90743,Surfside,CA,Orange County,,US,33.73,-118.09
+90744,Wilmington,CA,Los Angeles County,"310,424,562,323",US,33.77,-118.26
+90745,Carson,CA,Los Angeles County,562,US,33.82,-118.26
+90746,Carson,CA,Los Angeles County,562,US,33.86,-118.25
+90747,Carson,CA,Los Angeles County,310,US,33.86,-118.25
+90748,Wilmington,CA,Los Angeles County,213,US,33.78,-118.26
+90749,Carson,CA,Los Angeles County,310,US,33.82,-118.26
+90755,Signal Hill,CA,Los Angeles County,,US,33.8,-118.16
+90801,Long Beach,CA,Los Angeles County,562,US,33.77,-118.18
+90802,Long Beach,CA,Los Angeles County,"562,310,323,424,714",US,33.75,-118.2
+90803,Long Beach,CA,Los Angeles County,562,US,33.75,-118.13
+90804,Long Beach,CA,Los Angeles County,562,US,33.78,-118.14
+90805,Long Beach,CA,Los Angeles County,"310,323,562",US,33.86,-118.18
+90806,Long Beach,CA,Los Angeles County,562,US,33.81,-118.18
+90807,Long Beach,CA,Los Angeles County,"562,657,714",US,33.83,-118.18
+90808,Long Beach,CA,Los Angeles County,"310,323,562,657,714",US,33.82,-118.11
+90809,Long Beach,CA,Los Angeles County,562,US,33.76,-118.12
+90810,Long Beach,CA,Los Angeles County,562,US,33.81,-118.22
+90813,Long Beach,CA,Los Angeles County,"310,323,714,562",US,33.78,-118.18
+90814,Long Beach,CA,Los Angeles County,562,US,33.77,-118.14
+90815,Long Beach,CA,Los Angeles County,"657,714,562",US,33.79,-118.12
+90822,Long Beach,CA,Los Angeles County,"310,323,562,714",US,33.78,-118.12
+90831,Long Beach,CA,Los Angeles County,424,US,33.77,-118.2
+90832,Long Beach,CA,Los Angeles County,562,US,33.76,-118.19
+90833,Long Beach,CA,Los Angeles County,424,US,33.76,-118.2
+90834,Long Beach,CA,Los Angeles County,"424,562",US,33.76,-118.2
+90835,Long Beach,CA,Los Angeles County,562,US,33.76,-118.2
+90840,Long Beach,CA,Los Angeles County,562,US,33.78,-118.12
+90842,Long Beach,CA,Los Angeles County,562,US,33.81,-118.16
+90844,Long Beach,CA,Los Angeles County,562,US,33.77,-118.19
+90845,Long Beach,CA,Los Angeles County,562,US,33.77,-118.18
+90846,Long Beach,CA,Los Angeles County,562,US,33.82,-118.11
+90847,Long Beach,CA,Los Angeles County,562,US,33.83,-118.19
+90848,Long Beach,CA,Los Angeles County,562,US,33.83,-118.18
+90853,Long Beach,CA,Los Angeles County,562,US,33.75,-118.13
+90888,Long Beach,CA,Los Angeles County,562,US,33.77,-118.18
+90895,Carson,CA,Los Angeles County,310,US,33.83,-118.21
+90899,Long Beach,CA,Los Angeles County,562,US,33.77,-118.19
+91001,Altadena,CA,Los Angeles County,,US,34.2,-118.13
+91003,Altadena,CA,Los Angeles County,626,US,34.18,-118.13
+91006,Arcadia,CA,Los Angeles County,626,US,34.13,-118.02
+91007,Arcadia,CA,Los Angeles County,626,US,34.12,-118.05
+91008,Duarte,CA,Los Angeles County,626,US,34.15,-117.97
+91009,Duarte,CA,Los Angeles County,626,US,34.13,-117.96
+91010,Duarte,CA,Los Angeles County,626,US,34.13,-117.94
+91011,La Canada Flintridge,CA,Los Angeles County,818,US,34.22,-118.21
+91012,La Canada Flintridge,CA,Los Angeles County,818,US,34.2,-118.19
+91016,Monrovia,CA,Los Angeles County,626,US,34.15,-117.99
+91017,Monrovia,CA,Los Angeles County,626,US,34.13,-117.98
+91020,Montrose,CA,Los Angeles County,,US,34.21,-118.23
+91021,Montrose,CA,Los Angeles County,818,US,34.2,-118.22
+91023,Mount Wilson,CA,Los Angeles County,,US,34.22,-118.09
+91024,Sierra Madre,CA,Los Angeles County,626,US,34.17,-118.05
+91025,Sierra Madre,CA,Los Angeles County,626,US,34.16,-118.05
+91030,South Pasadena,CA,Los Angeles County,"323,626",US,34.11,-118.15
+91031,South Pasadena,CA,Los Angeles County,626,US,34.11,-118.15
+91040,Sunland,CA,Los Angeles County,818,US,34.26,-118.32
+91041,Sunland,CA,Los Angeles County,213,US,34.26,-118.31
+91042,Tujunga,CA,Los Angeles County,818,US,34.29,-118.25
+91043,Tujunga,CA,Los Angeles County,213,US,34.25,-118.29
+91046,Verdugo City,CA,Los Angeles County,818,US,34.21,-118.24
+91066,Arcadia,CA,Los Angeles County,626,US,34.14,-118.02
+91077,Arcadia,CA,Los Angeles County,626,US,34.12,-118.05
+91101,Pasadena,CA,Los Angeles County,"626,323",US,34.15,-118.14
+91102,Pasadena,CA,Los Angeles County,626,US,34.14,-118.14
+91103,Pasadena,CA,Los Angeles County,"323,626",US,34.17,-118.17
+91104,Pasadena,CA,Los Angeles County,"323,626",US,34.16,-118.12
+91105,Pasadena,CA,Los Angeles County,"323,626",US,34.14,-118.16
+91106,Pasadena,CA,Los Angeles County,"323,626",US,34.14,-118.13
+91107,Pasadena,CA,Los Angeles County,626,US,34.16,-118.08
+91108,San Marino,CA,Los Angeles County,626,US,34.12,-118.11
+91109,Pasadena,CA,Los Angeles County,626,US,34.16,-118.16
+91110,Pasadena,CA,Los Angeles County,626,US,34.15,-118.15
+91114,Pasadena,CA,Los Angeles County,626,US,34.16,-118.13
+91115,Pasadena,CA,Los Angeles County,626,US,34.13,-118.15
+91116,Pasadena,CA,Los Angeles County,626,US,34.14,-118.13
+91117,Pasadena,CA,Los Angeles County,626,US,34.14,-118.09
+91118,San Marino,CA,Los Angeles County,626,US,34.12,-118.09
+91121,Pasadena,CA,Los Angeles County,626,US,34.15,-118.09
+91123,Pasadena,CA,Los Angeles County,626,US,34.14,-118.15
+91124,Pasadena,CA,Los Angeles County,626,US,34.14,-118.15
+91125,Pasadena,CA,Los Angeles County,626,US,34.13,-118.12
+91126,Pasadena,CA,Los Angeles County,626,US,34.13,-118.12
+91129,Pasadena,CA,Los Angeles County,626,US,34.14,-118.15
+91131,Pasadena,CA,Los Angeles County,626,US,34.15,-118.15
+91182,Pasadena,CA,Los Angeles County,626,US,34.14,-118.14
+91184,Pasadena,CA,Los Angeles County,626,US,34.13,-118.16
+91185,Pasadena,CA,Los Angeles County,626,US,34.16,-117.98
+91188,Pasadena,CA,Los Angeles County,626,US,34.14,-118.14
+91189,Pasadena,CA,Los Angeles County,626,US,34.12,-118.16
+91191,Pasadena,CA,Los Angeles County,626,US,34.15,-118.15
+91199,Pasadena,CA,Los Angeles County,626,US,34.17,-118.12
+91201,Glendale,CA,Los Angeles County,818,US,34.17,-118.29
+91202,Glendale,CA,Los Angeles County,818,US,34.16,-118.26
+91203,Glendale,CA,Los Angeles County,818,US,34.15,-118.26
+91204,Glendale,CA,Los Angeles County,"323,747,818",US,34.13,-118.26
+91205,Glendale,CA,Los Angeles County,"323,747,818",US,34.13,-118.24
+91206,Glendale,CA,Los Angeles County,818,US,34.16,-118.2
+91207,Glendale,CA,Los Angeles County,818,US,34.18,-118.25
+91208,Glendale,CA,Los Angeles County,818,US,34.19,-118.24
+91209,Glendale,CA,Los Angeles County,818,US,34.14,-118.25
+91210,Glendale,CA,Los Angeles County,"323,747,818",US,34.14,-118.26
+91214,La Crescenta,CA,Los Angeles County,818,US,34.23,-118.24
+91221,Glendale,CA,Los Angeles County,818,US,34.16,-118.28
+91222,Glendale,CA,Los Angeles County,818,US,34.16,-118.26
+91224,La Crescenta,CA,Los Angeles County,818,US,34.23,-118.25
+91225,Glendale,CA,Los Angeles County,818,US,34.12,-118.25
+91226,Glendale,CA,Los Angeles County,818,US,34.16,-118.21
+91301,Agoura Hills,CA,Los Angeles County,"747,818",US,34.12,-118.76
+91302,Calabasas,CA,Los Angeles County,818,US,34.11,-118.67
+91303,Canoga Park,CA,Los Angeles County,"747,818",US,34.19,-118.6
+91304,Canoga Park,CA,Los Angeles County,"747,818",US,34.22,-118.59
+91305,Canoga Park,CA,Los Angeles County,213,US,34.2,-118.6
+91306,Winnetka,CA,Los Angeles County,"747,818",US,34.2,-118.57
+91307,West Hills,CA,Los Angeles County,818,US,34.2,-118.69
+91308,West Hills,CA,Los Angeles County,213,US,34.2,-118.59
+91309,Canoga Park,CA,Los Angeles County,213,US,34.21,-118.59
+91310,Castaic,CA,Los Angeles County,,US,34.49,-118.61
+91311,Chatsworth,CA,Los Angeles County,,US,34.28,-118.61
+91313,Chatsworth,CA,Los Angeles County,213,US,34.23,-118.58
+91316,Encino,CA,Los Angeles County,818,US,34.15,-118.52
+91319,Newbury Park,CA,Ventura County,805,US,34.18,-118.91
+91320,Newbury Park,CA,Ventura County,805,US,34.17,-118.95
+91321,Newhall,CA,Los Angeles County,661,US,34.36,-118.47
+91322,Newhall,CA,Los Angeles County,661,US,34.38,-118.53
+91324,Northridge,CA,Los Angeles County,"747,818",US,34.24,-118.55
+91325,Northridge,CA,Los Angeles County,"747,818",US,34.23,-118.51
+91326,Porter Ranch,CA,Los Angeles County,"747,818",US,34.28,-118.55
+91327,Northridge,CA,Los Angeles County,213,US,34.27,-118.55
+91328,Northridge,CA,Los Angeles County,213,US,34.22,-118.53
+91329,Northridge,CA,Los Angeles County,213,US,34.24,-118.53
+91330,Northridge,CA,Los Angeles County,213,US,34.25,-118.53
+91331,Pacoima,CA,Los Angeles County,"747,818",US,34.25,-118.41
+91333,Pacoima,CA,Los Angeles County,213,US,34.26,-118.42
+91334,Pacoima,CA,Los Angeles County,213,US,34.24,-118.42
+91335,Reseda,CA,Los Angeles County,818,US,34.2,-118.54
+91337,Reseda,CA,Los Angeles County,213,US,34.2,-118.53
+91340,San Fernando,CA,Los Angeles County,"747,818",US,34.28,-118.44
+91341,San Fernando,CA,Los Angeles County,818,US,34.28,-118.44
+91342,Sylmar,CA,Los Angeles County,,US,34.32,-118.38
+91343,North Hills,CA,Los Angeles County,"747,818",US,34.23,-118.47
+91344,Granada Hills,CA,Los Angeles County,"818,747",US,34.29,-118.5
+91345,Mission Hills,CA,Los Angeles County,"747,818",US,34.27,-118.45
+91346,Mission Hills,CA,Los Angeles County,213,US,34.26,-118.46
+91350,Santa Clarita,CA,Los Angeles County,661,US,34.43,-118.51
+91351,Canyon Country,CA,Los Angeles County,661,US,34.43,-118.46
+91352,Sun Valley,CA,Los Angeles County,"213,310,323,626,818,000",US,34.23,-118.34
+91353,Sun Valley,CA,Los Angeles County,818,US,34.21,-118.36
+91354,Valencia,CA,Los Angeles County,661,US,34.46,-118.57
+91355,Valencia,CA,Los Angeles County,661,US,34.41,-118.56
+91356,Tarzana,CA,Los Angeles County,818,US,34.15,-118.54
+91357,Tarzana,CA,Los Angeles County,213,US,34.17,-118.54
+91358,Thousand Oaks,CA,Ventura County,805,US,34.18,-118.87
+91359,Westlake Village,CA,Los Angeles County,,US,34.19,-118.82
+91360,Thousand Oaks,CA,Ventura County,805,US,34.21,-118.88
+91361,Westlake Village,CA,Ventura County,"805,818",US,34.14,-118.89
+91362,Thousand Oaks,CA,Ventura County,805,US,34.19,-118.81
+91363,Thousand Oaks,CA,Los Angeles County,818,US,34.14,-118.8
+91364,Woodland Hills,CA,Los Angeles County,,US,34.15,-118.6
+91365,Woodland Hills,CA,Los Angeles County,213,US,34.16,-118.6
+91367,Woodland Hills,CA,Los Angeles County,818,US,34.17,-118.61
+91371,Woodland Hills,CA,Los Angeles County,213,US,34.18,-118.58
+91372,Calabasas,CA,Los Angeles County,818,US,34.15,-118.64
+91376,Agoura Hills,CA,Los Angeles County,818,US,34.14,-118.75
+91377,Oak Park,CA,Ventura County,818,US,34.19,-118.76
+91380,Santa Clarita,CA,Los Angeles County,661,US,34.49,-118.39
+91381,Stevenson Ranch,CA,Los Angeles County,661,US,34.37,-118.61
+91382,Santa Clarita,CA,Los Angeles County,661,US,34.41,-118.51
+91383,Santa Clarita,CA,Los Angeles County,661,US,34.36,-118.45
+91384,Castaic,CA,Los Angeles County,"805,661",US,34.51,-118.68
+91385,Valencia,CA,Los Angeles County,661,US,34.38,-118.56
+91386,Canyon Country,CA,Los Angeles County,661,US,34.41,-118.45
+91387,Canyon Country,CA,Los Angeles County,661,US,34.4,-118.4
+91388,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.47
+91390,Santa Clarita,CA,Los Angeles County,661,US,34.53,-118.4
+91392,Sylmar,CA,Los Angeles County,213,US,34.3,-118.43
+91393,North Hills,CA,Los Angeles County,213,US,34.22,-118.46
+91394,Granada Hills,CA,Los Angeles County,213,US,34.26,-118.52
+91395,Mission Hills,CA,Los Angeles County,213,US,34.25,-118.46
+91396,Winnetka,CA,Los Angeles County,213,US,34.2,-118.57
+91399,Woodland Hills,CA,Los Angeles County,213,US,34.16,-118.6
+91401,Van Nuys,CA,Los Angeles County,"323,818",US,34.17,-118.43
+91402,Panorama City,CA,Los Angeles County,818,US,34.22,-118.44
+91403,Sherman Oaks,CA,Los Angeles County,"213,323,424,747,805,000",US,34.14,-118.46
+91404,Van Nuys,CA,Los Angeles County,213,US,34.17,-118.43
+91405,Van Nuys,CA,Los Angeles County,"323,818",US,34.2,-118.44
+91406,Van Nuys,CA,Los Angeles County,818,US,34.19,-118.49
+91407,Van Nuys,CA,Los Angeles County,213,US,34.19,-118.44
+91408,Van Nuys,CA,Los Angeles County,213,US,34.17,-118.43
+91409,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.49
+91410,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.49
+91411,Van Nuys,CA,Los Angeles County,"213,323,424,747,818",US,34.17,-118.46
+91412,Panorama City,CA,Los Angeles County,213,US,34.22,-118.44
+91413,Sherman Oaks,CA,Los Angeles County,213,US,34.16,-118.45
+91416,Encino,CA,Los Angeles County,213,US,34.17,-118.51
+91423,Sherman Oaks,CA,Los Angeles County,"213,323,424,747,805,000",US,34.14,-118.42
+91426,Encino,CA,Los Angeles County,213,US,34.15,-118.51
+91436,Encino,CA,Los Angeles County,"747,805,818",US,34.15,-118.49
+91470,Van Nuys,CA,Los Angeles County,213,US,34.17,-118.61
+91482,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.47
+91495,Sherman Oaks,CA,Los Angeles County,213,US,34.15,-118.44
+91496,Van Nuys,CA,Los Angeles County,213,US,34.16,-118.45
+91497,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.47
+91499,Van Nuys,CA,Los Angeles County,213,US,34.2,-118.45
+91501,Burbank,CA,Los Angeles County,"323,747,818",US,34.19,-118.29
+91502,Burbank,CA,Los Angeles County,"747,818,323",US,34.17,-118.31
+91503,Burbank,CA,Los Angeles County,818,US,34.18,-118.3
+91504,Burbank,CA,Los Angeles County,"213,310,323,626,818",US,34.2,-118.33
+91505,Burbank,CA,Los Angeles County,"818,213,310,323,626",US,34.17,-118.34
+91506,Burbank,CA,Los Angeles County,"323,747,818",US,34.17,-118.32
+91507,Burbank,CA,Los Angeles County,818,US,34.16,-118.34
+91508,Burbank,CA,Los Angeles County,818,US,34.19,-118.32
+91510,Burbank,CA,Los Angeles County,818,US,34.17,-118.34
+91521,Burbank,CA,Los Angeles County,213,US,34.15,-118.32
+91522,Burbank,CA,Los Angeles County,213,US,34.14,-118.33
+91523,Burbank,CA,Los Angeles County,213,US,34.16,-118.33
+91526,Burbank,CA,Los Angeles County,818,US,34.19,-118.32
+91601,North Hollywood,CA,Los Angeles County,"818,323",US,34.16,-118.37
+91602,North Hollywood,CA,Los Angeles County,"323,818",US,34.15,-118.36
+91603,North Hollywood,CA,Los Angeles County,213,US,34.16,-118.37
+91604,Studio City,CA,Los Angeles County,213,US,34.13,-118.39
+91605,North Hollywood,CA,Los Angeles County,"323,818",US,34.2,-118.39
+91606,North Hollywood,CA,Los Angeles County,"818,323",US,34.18,-118.39
+91607,Valley Village,CA,Los Angeles County,"323,818",US,34.16,-118.4
+91608,Universal City,CA,Los Angeles County,213,US,34.14,-118.35
+91609,North Hollywood,CA,Los Angeles County,213,US,34.18,-118.38
+91610,Toluca Lake,CA,Los Angeles County,213,US,34.15,-118.37
+91611,North Hollywood,CA,Los Angeles County,213,US,34.18,-118.39
+91612,North Hollywood,CA,Los Angeles County,213,US,34.18,-118.39
+91614,Studio City,CA,Los Angeles County,213,US,34.14,-118.39
+91615,North Hollywood,CA,Los Angeles County,213,US,34.19,-118.39
+91616,North Hollywood,CA,Los Angeles County,213,US,34.18,-118.39
+91617,Valley Village,CA,Los Angeles County,213,US,34.16,-118.4
+91618,North Hollywood,CA,Los Angeles County,213,US,34.11,-118.36
+91701,Rancho Cucamonga,CA,San Bernardino County,909,US,34.14,-117.61
+91702,Azusa,CA,Los Angeles County,626,US,34.28,-117.87
+91706,Baldwin Park,CA,Los Angeles County,626,US,34.09,-117.96
+91708,Chino,CA,San Bernardino County,909,US,33.95,-117.64
+91709,Chino Hills,CA,San Bernardino County,,US,33.94,-117.72
+91710,Chino,CA,San Bernardino County,909,US,34,-117.68
+91711,Claremont,CA,Los Angeles County,909,US,34.12,-117.71
+91714,City Of Industry,CA,Los Angeles County,626,US,34.01,-117.95
+91715,City Of Industry,CA,Los Angeles County,626,US,34.01,-117.97
+91716,City Of Industry,CA,Los Angeles County,626,US,34,-117.97
+91722,Covina,CA,Los Angeles County,"909,626",US,34.09,-117.9
+91723,Covina,CA,Los Angeles County,"626,909",US,34.08,-117.88
+91724,Covina,CA,Los Angeles County,"626,909",US,34.07,-117.84
+91729,Rancho Cucamonga,CA,San Bernardino County,909,US,34.09,-117.56
+91730,Rancho Cucamonga,CA,San Bernardino County,909,US,34.09,-117.58
+91731,El Monte,CA,Los Angeles County,"323,626",US,34.08,-118.03
+91732,El Monte,CA,Los Angeles County,"323,626",US,34.07,-118.01
+91733,South El Monte,CA,Los Angeles County,"323,626",US,34.04,-118.04
+91734,El Monte,CA,Los Angeles County,626,US,34.07,-118.03
+91735,El Monte,CA,Los Angeles County,626,US,34.07,-118.02
+91737,Rancho Cucamonga,CA,San Bernardino County,909,US,34.15,-117.58
+91739,Rancho Cucamonga,CA,San Bernardino County,909,US,34.14,-117.51
+91740,Glendora,CA,Los Angeles County,626,US,34.11,-117.85
+91741,Glendora,CA,Los Angeles County,626,US,34.14,-117.85
+91743,Guasti,CA,San Bernardino County,909,US,34.06,-117.58
+91744,La Puente,CA,Los Angeles County,626,US,34.02,-117.93
+91745,Hacienda Heights,CA,Los Angeles County,626,US,34,-117.97
+91746,La Puente,CA,Los Angeles County,626,US,34.04,-117.98
+91747,La Puente,CA,Los Angeles County,626,US,34.02,-117.94
+91748,Rowland Heights,CA,Los Angeles County,626,US,33.97,-117.9
+91749,La Puente,CA,Los Angeles County,626,US,34.03,-117.95
+91750,La Verne,CA,Los Angeles County,"626,909",US,34.15,-117.76
+91752,Mira Loma,CA,Riverside County,951,US,33.99,-117.53
+91754,Monterey Park,CA,Los Angeles County,818,US,34.05,-118.14
+91755,Monterey Park,CA,Los Angeles County,818,US,34.05,-118.11
+91756,Monterey Park,CA,Los Angeles County,626,US,34.04,-118.13
+91758,Ontario,CA,San Bernardino County,"951,909",US,34.05,-117.6
+91759,Mt Baldy,CA,San Bernardino County,,US,34.2,-117.7
+91761,Ontario,CA,San Bernardino County,"909,951",US,34.02,-117.58
+91762,Ontario,CA,San Bernardino County,909,US,34.04,-117.67
+91763,Montclair,CA,San Bernardino County,,US,34.07,-117.7
+91764,Ontario,CA,San Bernardino County,"909,951",US,34.07,-117.62
+91765,Diamond Bar,CA,Los Angeles County,909,US,33.99,-117.81
+91766,Pomona,CA,Los Angeles County,"626,909",US,34.03,-117.75
+91767,Pomona,CA,Los Angeles County,"626,909",US,34.08,-117.73
+91768,Pomona,CA,Los Angeles County,"909,626",US,34.06,-117.79
+91769,Pomona,CA,Los Angeles County,909,US,34.06,-117.75
+91770,Rosemead,CA,Los Angeles County,626,US,34.06,-118.08
+91771,Rosemead,CA,Los Angeles County,626,US,34.06,-118.08
+91772,Rosemead,CA,Los Angeles County,626,US,34.06,-118.08
+91773,San Dimas,CA,Los Angeles County,909,US,34.1,-117.81
+91775,San Gabriel,CA,Los Angeles County,626,US,34.11,-118.08
+91776,San Gabriel,CA,Los Angeles County,626,US,34.08,-118.09
+91778,San Gabriel,CA,Los Angeles County,626,US,34.1,-118.1
+91780,Temple City,CA,Los Angeles County,,US,34.1,-118.05
+91784,Upland,CA,San Bernardino County,909,US,34.14,-117.65
+91785,Upland,CA,San Bernardino County,909,US,34.09,-117.64
+91786,Upland,CA,San Bernardino County,909,US,34.1,-117.66
+91788,Walnut,CA,Los Angeles County,909,US,34.01,-117.86
+91789,Walnut,CA,Los Angeles County,909,US,34.01,-117.85
+91790,West Covina,CA,Los Angeles County,626,US,34.06,-117.94
+91791,West Covina,CA,Los Angeles County,626,US,34.06,-117.89
+91792,West Covina,CA,Los Angeles County,626,US,34.02,-117.9
+91793,West Covina,CA,Los Angeles County,626,US,34.06,-117.92
+91795,Walnut,CA,Los Angeles County,909,US,34.02,-117.85
+91797,Pomona,CA,Los Angeles County,909,US,34.08,-117.96
+91798,Ontario,CA,San Bernardino County,909,US,34.06,-117.61
+91799,Pomona,CA,Los Angeles County,909,US,34.05,-117.75
+91801,Alhambra,CA,Los Angeles County,"323,626,818",US,34.09,-118.13
+91802,Alhambra,CA,Los Angeles County,626,US,34.09,-118.12
+91803,Alhambra,CA,Los Angeles County,"323,626,818",US,34.07,-118.14
+91804,Alhambra,CA,Los Angeles County,"323,626,818",US,34.09,-118.12
+91841,Alhambra,CA,Los Angeles County,626,US,34.09,-118.12
+91896,Alhambra,CA,Los Angeles County,626,US,34.09,-118.12
+91899,Alhambra,CA,Los Angeles County,626,US,34.08,-118.13
+91901,Alpine,CA,San Diego County,619,US,32.8,-116.71
+91902,Bonita,CA,San Diego County,,US,32.67,-117.01
+91903,Alpine,CA,San Diego County,619,US,32.83,-116.76
+91905,Boulevard,CA,San Diego County,"619,760",US,32.67,-116.31
+91906,Campo,CA,San Diego County,619,US,32.68,-116.47
+91908,Bonita,CA,San Diego County,,US,32.65,-117.02
+91909,Chula Vista,CA,San Diego County,619,US,32.61,-117.06
+91910,Chula Vista,CA,San Diego County,619,US,32.63,-117.05
+91911,Chula Vista,CA,San Diego County,619,US,32.61,-117.03
+91912,Chula Vista,CA,San Diego County,619,US,32.64,-117.08
+91913,Chula Vista,CA,San Diego County,619,US,32.64,-116.98
+91914,Chula Vista,CA,San Diego County,619,US,32.66,-116.94
+91915,Chula Vista,CA,San Diego County,619,US,32.62,-116.95
+91916,Descanso,CA,San Diego County,619,US,32.9,-116.62
+91917,Dulzura,CA,San Diego County,619,US,32.62,-116.67
+91921,Chula Vista,CA,San Diego County,619,US,32.65,-116.95
+91931,Guatay,CA,San Diego County,,US,32.83,-116.58
+91932,Imperial Beach,CA,San Diego County,619,US,32.57,-117.11
+91933,Imperial Beach,CA,San Diego County,619,US,32.58,-117.11
+91934,Jacumba,CA,San Diego County,619,US,32.63,-116.18
+91935,Jamul,CA,San Diego County,619,US,32.69,-116.8
+91941,La Mesa,CA,San Diego County,619,US,32.76,-117
+91942,La Mesa,CA,San Diego County,619,US,32.78,-117.01
+91943,La Mesa,CA,San Diego County,619,US,32.77,-117.01
+91944,La Mesa,CA,San Diego County,619,US,32.76,-117.02
+91945,Lemon Grove,CA,San Diego County,619,US,32.73,-117.03
+91946,Lemon Grove,CA,San Diego County,619,US,32.74,-117.03
+91947,Lincoln Acres,CA,San Diego County,619,US,32.66,-117.07
+91948,Mount Laguna,CA,San Diego County,,US,32.87,-116.46
+91950,National City,CA,San Diego County,619,US,32.67,-117.09
+91951,National City,CA,San Diego County,619,US,32.67,-117.09
+91962,Pine Valley,CA,San Diego County,619,US,32.74,-116.42
+91963,Potrero,CA,San Diego County,,US,32.63,-116.59
+91976,Spring Valley,CA,San Diego County,619,US,32.74,-116.98
+91977,Spring Valley,CA,San Diego County,,US,32.71,-116.99
+91978,Spring Valley,CA,San Diego County,619,US,32.72,-116.94
+91979,Spring Valley,CA,San Diego County,619,US,32.73,-116.97
+91980,Tecate,CA,San Diego County,619,US,32.59,-116.62
+91987,Tecate,CA,San Diego County,,US,32.59,-116.64
+91990,Potrero,CA,San Diego County,619,US,32.6,-116.61
+92003,Bonsall,CA,San Diego County,760,US,33.28,-117.19
+92004,Borrego Springs,CA,San Diego County,760,US,33.17,-116.27
+92007,Cardiff By The Sea,CA,San Diego County,760,US,33.01,-117.27
+92008,Carlsbad,CA,San Diego County,760,US,33.13,-117.3
+92009,Carlsbad,CA,San Diego County,"442,760",US,33.1,-117.24
+92010,Carlsbad,CA,San Diego County,"760,442",US,33.15,-117.28
+92011,Carlsbad,CA,San Diego County,"760,442",US,33.1,-117.29
+92013,Carlsbad,CA,San Diego County,760,US,33.15,-117.35
+92014,Del Mar,CA,San Diego County,858,US,32.96,-117.25
+92018,Carlsbad,CA,San Diego County,760,US,33.16,-117.34
+92019,El Cajon,CA,San Diego County,619,US,32.77,-116.86
+92020,El Cajon,CA,San Diego County,619,US,32.79,-116.96
+92021,El Cajon,CA,San Diego County,619,US,32.84,-116.88
+92022,El Cajon,CA,San Diego County,619,US,32.73,-116.91
+92023,Encinitas,CA,San Diego County,760,US,33.03,-117.29
+92024,Encinitas,CA,San Diego County,760,US,33.05,-117.25
+92025,Escondido,CA,San Diego County,"442,760",US,33.09,-116.94
+92026,Escondido,CA,San Diego County,760,US,33.22,-117.1
+92027,Escondido,CA,San Diego County,"442,760",US,33.13,-116.98
+92028,Fallbrook,CA,San Diego County,"442,760",US,33.39,-117.21
+92029,Escondido,CA,San Diego County,"442,760",US,33.08,-117.13
+92030,Escondido,CA,San Diego County,760,US,33.13,-117.05
+92033,Escondido,CA,San Diego County,760,US,33.12,-117.08
+92036,Julian,CA,San Diego County,760,US,33.02,-116.49
+92037,La Jolla,CA,San Diego County,858,US,32.86,-117.24
+92038,La Jolla,CA,San Diego County,619,US,32.85,-117.25
+92039,La Jolla,CA,San Diego County,619,US,32.84,-117.27
+92040,Lakeside,CA,San Diego County,,US,32.9,-116.89
+92046,Escondido,CA,San Diego County,760,US,33.12,-117.1
+92049,Oceanside,CA,San Diego County,760,US,33.19,-117.37
+92051,Oceanside,CA,San Diego County,760,US,33.19,-117.36
+92052,Oceanside,CA,San Diego County,760,US,33.19,-117.36
+92054,Oceanside,CA,San Diego County,"442,760",US,33.2,-117.35
+92055,Camp Pendleton,CA,San Diego County,760,US,33.39,-117.44
+92056,Oceanside,CA,San Diego County,"442,760",US,33.2,-117.29
+92057,Oceanside,CA,San Diego County,760,US,33.27,-117.28
+92058,Oceanside,CA,San Diego County,"442,760",US,33.33,-117.3
+92059,Pala,CA,San Diego County,760,US,33.38,-117.07
+92060,Palomar Mountain,CA,San Diego County,,US,33.31,-116.84
+92061,Pauma Valley,CA,San Diego County,760,US,33.3,-116.92
+92064,Poway,CA,San Diego County,858,US,32.97,-117.02
+92065,Ramona,CA,San Diego County,760,US,33.07,-116.83
+92066,Ranchita,CA,San Diego County,760,US,33.22,-116.54
+92067,Rancho Santa Fe,CA,San Diego County,619,US,33.02,-117.19
+92068,San Luis Rey,CA,San Diego County,760,US,33.27,-117.27
+92069,San Marcos,CA,San Diego County,760,US,33.15,-117.17
+92070,Santa Ysabel,CA,San Diego County,760,US,33.18,-116.73
+92071,Santee,CA,San Diego County,619,US,32.85,-116.99
+92072,Santee,CA,San Diego County,619,US,32.83,-117.03
+92074,Poway,CA,San Diego County,619,US,32.95,-117.03
+92075,Solana Beach,CA,San Diego County,858,US,33,-117.26
+92078,San Marcos,CA,San Diego County,760,US,33.11,-117.16
+92079,San Marcos,CA,San Diego County,760,US,33.14,-117.16
+92081,Vista,CA,San Diego County,"442,760",US,33.18,-117.24
+92082,Valley Center,CA,San Diego County,760,US,33.25,-116.98
+92083,Vista,CA,San Diego County,"442,760",US,33.2,-117.25
+92084,Vista,CA,San Diego County,"760,442",US,33.21,-117.2
+92085,Vista,CA,San Diego County,760,US,33.19,-117.23
+92086,Warner Springs,CA,San Diego County,760,US,33.28,-116.6
+92088,Fallbrook,CA,San Diego County,760,US,33.36,-117.25
+92090,El Cajon,CA,San Diego County,619,US,32.79,-116.96
+92091,Rancho Santa Fe,CA,San Diego County,858,US,33.02,-117.24
+92092,La Jolla,CA,San Diego County,858,US,32.87,-117.23
+92093,La Jolla,CA,San Diego County,858,US,32.88,-117.23
+92096,San Marcos,CA,San Diego County,760,US,33.13,-117.17
+92101,San Diego,CA,San Diego County,"619,858",US,32.71,-117.16
+92102,San Diego,CA,San Diego County,"619,858",US,32.72,-117.09
+92103,San Diego,CA,San Diego County,"619,760,858",US,32.74,-117.17
+92104,San Diego,CA,San Diego County,"858,619,760",US,32.73,-117.12
+92105,San Diego,CA,San Diego County,"619,858",US,32.73,-117.08
+92106,San Diego,CA,San Diego County,619,US,32.72,-117.23
+92107,San Diego,CA,San Diego County,619,US,32.74,-117.25
+92108,San Diego,CA,San Diego County,"619,858",US,32.77,-117.14
+92109,San Diego,CA,San Diego County,619,US,32.79,-117.23
+92110,San Diego,CA,San Diego County,619,US,32.77,-117.2
+92111,San Diego,CA,San Diego County,"858,619",US,32.8,-117.16
+92112,San Diego,CA,San Diego County,619,US,32.72,-117.16
+92113,San Diego,CA,San Diego County,619,US,32.69,-117.11
+92114,San Diego,CA,San Diego County,"619,858",US,32.71,-117.05
+92115,San Diego,CA,San Diego County,619,US,32.75,-117.07
+92116,San Diego,CA,San Diego County,"619,858",US,32.76,-117.12
+92117,San Diego,CA,San Diego County,"619,858",US,32.82,-117.2
+92118,Coronado,CA,San Diego County,619,US,32.7,-117.21
+92119,San Diego,CA,San Diego County,619,US,32.81,-117.03
+92120,San Diego,CA,San Diego County,619,US,32.79,-117.06
+92121,San Diego,CA,San Diego County,"619,760,858",US,32.9,-117.2
+92122,San Diego,CA,San Diego County,"619,760,858",US,32.85,-117.2
+92123,San Diego,CA,San Diego County,"619,858",US,32.8,-117.13
+92124,San Diego,CA,San Diego County,"619,858",US,32.82,-117.08
+92126,San Diego,CA,San Diego County,"619,760,858",US,32.88,-117.13
+92127,San Diego,CA,San Diego County,858,US,33.02,-117.12
+92128,San Diego,CA,San Diego County,"619,858",US,32.99,-117.07
+92129,San Diego,CA,San Diego County,"619,858",US,32.96,-117.12
+92130,San Diego,CA,San Diego County,858,US,32.95,-117.19
+92131,San Diego,CA,San Diego County,"619,858",US,32.89,-117.07
+92132,San Diego,CA,San Diego County,"619,858",US,32.71,-117.17
+92133,San Diego,CA,San Diego County,619,US,32.72,-117.21
+92134,San Diego,CA,San Diego County,"858,619",US,32.72,-117.15
+92135,San Diego,CA,San Diego County,619,US,32.7,-117.19
+92136,San Diego,CA,San Diego County,619,US,32.67,-117.11
+92137,San Diego,CA,San Diego County,619,US,32.88,-117.1
+92138,San Diego,CA,San Diego County,619,US,32.76,-117.2
+92139,San Diego,CA,San Diego County,619,US,32.68,-117.04
+92140,San Diego,CA,San Diego County,"619,760,858",US,32.74,-117.2
+92142,San Diego,CA,San Diego County,619,US,32.83,-117.09
+92143,San Ysidro,CA,San Diego County,619,US,32.56,-116.97
+92145,San Diego,CA,San Diego County,"858,619,760",US,32.93,-117.01
+92147,San Diego,CA,San Diego County,619,US,32.72,-117.22
+92149,San Diego,CA,San Diego County,619,US,32.67,-117.06
+92150,San Diego,CA,San Diego County,619,US,32.98,-117.08
+92152,San Diego,CA,San Diego County,619,US,32.69,-117.24
+92153,San Diego,CA,San Diego County,619,US,32.56,-117.08
+92154,San Diego,CA,San Diego County,619,US,32.56,-117.01
+92155,San Diego,CA,San Diego County,619,US,32.67,-117.16
+92158,San Diego,CA,San Diego County,619,US,32.56,-116.97
+92159,San Diego,CA,San Diego County,619,US,32.8,-117.03
+92160,San Diego,CA,San Diego County,619,US,32.78,-117.09
+92161,San Diego,CA,San Diego County,619,US,32.88,-117.22
+92162,San Diego,CA,San Diego County,619,US,32.71,-117.12
+92163,San Diego,CA,San Diego County,619,US,32.74,-117.16
+92164,San Diego,CA,San Diego County,619,US,32.74,-117.12
+92165,San Diego,CA,San Diego County,619,US,32.74,-117.1
+92166,San Diego,CA,San Diego County,619,US,32.72,-117.23
+92167,San Diego,CA,San Diego County,619,US,32.74,-117.24
+92168,San Diego,CA,San Diego County,619,US,32.76,-117.15
+92169,San Diego,CA,San Diego County,619,US,32.79,-117.25
+92170,San Diego,CA,San Diego County,619,US,32.69,-117.13
+92171,San Diego,CA,San Diego County,619,US,32.78,-117.17
+92172,San Diego,CA,San Diego County,619,US,32.96,-117.13
+92173,San Ysidro,CA,San Diego County,619,US,32.55,-117.04
+92174,San Diego,CA,San Diego County,619,US,32.7,-117.08
+92175,San Diego,CA,San Diego County,619,US,32.76,-117.06
+92176,San Diego,CA,San Diego County,619,US,32.76,-117.12
+92177,San Diego,CA,San Diego County,619,US,32.82,-117.19
+92178,Coronado,CA,San Diego County,619,US,32.68,-117.17
+92179,San Diego,CA,San Diego County,619,US,32.56,-116.97
+92182,San Diego,CA,San Diego County,619,US,32.76,-117.07
+92184,San Diego,CA,San Diego County,619,US,32.71,-117.16
+92186,San Diego,CA,San Diego County,619,US,32.74,-117.2
+92187,San Diego,CA,San Diego County,619,US,32.72,-117.16
+92190,San Diego,CA,San Diego County,619,US,32.78,-117.09
+92191,San Diego,CA,San Diego County,619,US,32.9,-117.21
+92192,San Diego,CA,San Diego County,619,US,32.85,-117.21
+92193,San Diego,CA,San Diego County,619,US,32.8,-117.14
+92194,San Diego,CA,San Diego County,619,US,32.8,-117.13
+92195,San Diego,CA,San Diego County,619,US,32.74,-117.05
+92196,San Diego,CA,San Diego County,619,US,32.91,-117.12
+92197,San Diego,CA,San Diego County,619,US,32.83,-117.2
+92198,San Diego,CA,San Diego County,619,US,32.99,-117.07
+92199,San Diego,CA,San Diego County,"858,619",US,32.99,-117.07
+92201,Indio,CA,Riverside County,"760,442",US,33.71,-116.23
+92202,Indio,CA,Riverside County,760,US,33.66,-116.29
+92203,Indio,CA,Riverside County,"442,760",US,33.75,-116.23
+92210,Indian Wells,CA,Riverside County,760,US,33.7,-116.33
+92211,Palm Desert,CA,Riverside County,760,US,33.77,-116.34
+92220,Banning,CA,Riverside County,951,US,33.95,-116.83
+92222,Bard,CA,Imperial County,760,US,32.79,-114.55
+92223,Beaumont,CA,Riverside County,909,US,33.94,-116.97
+92225,Blythe,CA,Riverside County,760,US,33.75,-114.51
+92226,Blythe,CA,Riverside County,760,US,33.6,-114.58
+92227,Brawley,CA,Imperial County,"442,760",US,33.02,-115.45
+92230,Cabazon,CA,Riverside County,,US,33.93,-116.77
+92231,Calexico,CA,Imperial County,"442,760",US,32.69,-115.51
+92232,Calexico,CA,Imperial County,760,US,32.67,-115.5
+92233,Calipatria,CA,Imperial County,760,US,33.13,-115.52
+92234,Cathedral City,CA,Riverside County,760,US,33.82,-116.45
+92235,Cathedral City,CA,Riverside County,760,US,33.77,-116.46
+92236,Coachella,CA,Riverside County,760,US,33.7,-116.17
+92239,Desert Center,CA,Riverside County,,US,33.76,-115.47
+92240,Desert Hot Springs,CA,Riverside County,760,US,33.95,-116.52
+92241,Desert Hot Springs,CA,Riverside County,760,US,33.83,-116.29
+92242,Earp,CA,San Bernardino County,760,US,34.15,-114.33
+92243,El Centro,CA,Imperial County,"442,760",US,32.77,-115.6
+92244,El Centro,CA,Imperial County,760,US,32.79,-115.57
+92247,La Quinta,CA,Riverside County,760,US,33.66,-116.31
+92248,La Quinta,CA,Riverside County,760,US,33.66,-116.31
+92249,Heber,CA,Imperial County,760,US,32.73,-115.47
+92250,Holtville,CA,Imperial County,760,US,32.83,-115.19
+92251,Imperial,CA,Imperial County,760,US,32.86,-115.65
+92252,Joshua Tree,CA,San Bernardino County,760,US,34.15,-116.27
+92253,La Quinta,CA,Riverside County,760,US,33.65,-116.27
+92254,Mecca,CA,Riverside County,760,US,33.55,-115.97
+92255,Palm Desert,CA,Riverside County,760,US,33.74,-116.36
+92256,Morongo Valley,CA,San Bernardino County,760,US,34.1,-116.58
+92257,Niland,CA,Imperial County,760,US,33.3,-115.55
+92258,North Palm Springs,CA,Riverside County,,US,33.92,-116.56
+92259,Ocotillo,CA,Imperial County,760,US,32.72,-115.88
+92260,Palm Desert,CA,Riverside County,760,US,33.7,-116.4
+92261,Palm Desert,CA,Riverside County,760,US,33.61,-116.42
+92262,Palm Springs,CA,Riverside County,"760,442",US,33.85,-116.56
+92263,Palm Springs,CA,Riverside County,760,US,33.87,-116.56
+92264,Palm Springs,CA,Riverside County,"442,760",US,33.72,-116.51
+92266,Palo Verde,CA,Imperial County,760,US,33.34,-114.93
+92267,Parker Dam,CA,San Bernardino County,760,US,34.28,-114.18
+92268,Pioneertown,CA,San Bernardino County,,US,34.21,-116.52
+92270,Rancho Mirage,CA,Riverside County,760,US,33.78,-116.41
+92273,Seeley,CA,Imperial County,760,US,32.79,-115.69
+92274,Thermal,CA,Riverside County,760,US,33.48,-116.1
+92275,Salton City,CA,Imperial County,760,US,33.28,-115.92
+92276,Thousand Palms,CA,Riverside County,760,US,33.8,-116.36
+92277,Twentynine Palms,CA,San Bernardino County,760,US,34.24,-115.86
+92278,Twentynine Palms,CA,San Bernardino County,760,US,34.23,-116.06
+92280,Vidal,CA,San Bernardino County,,US,34.14,-114.52
+92281,Westmorland,CA,Imperial County,760,US,33.05,-115.61
+92282,Whitewater,CA,Riverside County,,US,33.94,-116.65
+92283,Winterhaven,CA,Imperial County,760,US,32.87,-114.72
+92284,Yucca Valley,CA,San Bernardino County,760,US,34.15,-116.41
+92285,Landers,CA,San Bernardino County,760,US,34.33,-116.51
+92286,Yucca Valley,CA,San Bernardino County,760,US,34.18,-116.4
+92292,Palm Springs,CA,Riverside County,760,US,33.83,-116.54
+92301,Adelanto,CA,San Bernardino County,760,US,34.66,-117.51
+92304,Amboy,CA,San Bernardino County,,US,34.54,-115.64
+92305,Angelus Oaks,CA,San Bernardino County,,US,34.18,-116.86
+92307,Apple Valley,CA,San Bernardino County,760,US,34.57,-117.15
+92308,Apple Valley,CA,San Bernardino County,760,US,34.42,-117.14
+92309,Baker,CA,San Bernardino County,760,US,35.31,-116.04
+92310,Fort Irwin,CA,San Bernardino County,760,US,35.26,-116.69
+92311,Barstow,CA,San Bernardino County,760,US,34.97,-116.99
+92312,Barstow,CA,San Bernardino County,760,US,34.97,-117.05
+92313,Grand Terrace,CA,San Bernardino County,"951,909",US,34.03,-117.31
+92314,Big Bear City,CA,San Bernardino County,909,US,34.26,-116.84
+92315,Big Bear Lake,CA,San Bernardino County,909,US,34.23,-116.86
+92316,Bloomington,CA,San Bernardino County,,US,34.06,-117.39
+92317,Blue Jay,CA,San Bernardino County,,US,34.25,-117.21
+92318,Bryn Mawr,CA,San Bernardino County,909,US,34.04,-117.23
+92320,Calimesa,CA,Riverside County,909,US,33.99,-117.05
+92321,Cedar Glen,CA,San Bernardino County,,US,34.25,-117.16
+92322,Cedarpines Park,CA,San Bernardino County,,US,34.25,-117.32
+92323,Cima,CA,San Bernardino County,,US,35.2,-115.42
+92324,Colton,CA,San Bernardino County,"909,951",US,34.01,-117.27
+92325,Crestline,CA,San Bernardino County,,US,34.25,-117.3
+92326,Crest Park,CA,San Bernardino County,,US,34.24,-117.2
+92327,Daggett,CA,San Bernardino County,"442,760",US,34.86,-116.81
+92328,Death Valley,CA,Inyo County,760,US,36.6,-116.83
+92329,Phelan,CA,San Bernardino County,,US,34.35,-117.6
+92331,Fontana,CA,San Bernardino County,909,US,34.06,-117.44
+92332,Essex,CA,San Bernardino County,,US,34.96,-115.31
+92333,Fawnskin,CA,San Bernardino County,,US,34.27,-116.94
+92334,Fontana,CA,San Bernardino County,909,US,34.07,-117.46
+92335,Fontana,CA,San Bernardino County,909,US,34.08,-117.46
+92336,Fontana,CA,San Bernardino County,909,US,34.14,-117.45
+92337,Fontana,CA,San Bernardino County,909,US,34.05,-117.46
+92338,Ludlow,CA,San Bernardino County,,US,34.72,-116.15
+92339,Forest Falls,CA,San Bernardino County,,US,34.08,-116.9
+92340,Hesperia,CA,San Bernardino County,760,US,34.41,-117.27
+92341,Green Valley Lake,CA,San Bernardino County,,US,34.24,-117.07
+92342,Helendale,CA,San Bernardino County,760,US,34.74,-117.35
+92344,Hesperia,CA,San Bernardino County,760,US,34.39,-117.39
+92345,Hesperia,CA,San Bernardino County,"442,760",US,34.36,-117.32
+92346,Highland,CA,San Bernardino County,909,US,34.13,-117.15
+92347,Hinkley,CA,San Bernardino County,760,US,34.95,-117.18
+92350,Loma Linda,CA,San Bernardino County,909,US,34.05,-117.26
+92352,Lake Arrowhead,CA,San Bernardino County,,US,34.27,-117.19
+92354,Loma Linda,CA,San Bernardino County,909,US,34.05,-117.24
+92356,Lucerne Valley,CA,San Bernardino County,760,US,34.52,-116.88
+92357,Loma Linda,CA,San Bernardino County,909,US,34.05,-117.25
+92358,Lytle Creek,CA,San Bernardino County,760,US,34.25,-117.54
+92359,Mentone,CA,San Bernardino County,909,US,34.08,-117.07
+92363,Needles,CA,San Bernardino County,760,US,34.78,-114.59
+92364,Nipton,CA,San Bernardino County,"442,760",US,35.34,-115.43
+92365,Newberry Springs,CA,San Bernardino County,"760,442",US,34.9,-116.66
+92366,Mountain Pass,CA,San Bernardino County,"442,760",US,35.47,-115.52
+92368,Oro Grande,CA,San Bernardino County,,US,34.65,-117.32
+92369,Patton,CA,San Bernardino County,909,US,34.13,-117.22
+92371,Phelan,CA,San Bernardino County,760,US,34.42,-117.48
+92372,Pinon Hills,CA,San Bernardino County,"661,760",US,34.47,-117.62
+92373,Redlands,CA,San Bernardino County,909,US,34,-117.12
+92374,Redlands,CA,San Bernardino County,909,US,34.06,-117.17
+92375,Redlands,CA,San Bernardino County,909,US,34.05,-117.19
+92376,Rialto,CA,San Bernardino County,909,US,34.1,-117.38
+92377,Rialto,CA,San Bernardino County,909,US,34.16,-117.39
+92378,Rimforest,CA,San Bernardino County,,US,34.23,-117.23
+92382,Running Springs,CA,San Bernardino County,,US,34.21,-117.12
+92384,Shoshone,CA,Inyo County,760,US,35.97,-116.2
+92385,Skyforest,CA,San Bernardino County,,US,34.23,-117.18
+92386,Sugarloaf,CA,San Bernardino County,,US,34.24,-116.83
+92389,Tecopa,CA,Inyo County,760,US,35.85,-116.22
+92391,Twin Peaks,CA,San Bernardino County,,US,34.23,-117.23
+92392,Victorville,CA,San Bernardino County,"760,442",US,34.49,-117.36
+92393,Victorville,CA,San Bernardino County,760,US,34.48,-117.31
+92394,Victorville,CA,San Bernardino County,"442,760",US,34.57,-117.33
+92395,Victorville,CA,San Bernardino County,"442,760,909",US,34.5,-117.29
+92397,Wrightwood,CA,San Bernardino County,760,US,34.36,-117.61
+92398,Yermo,CA,San Bernardino County,,US,34.91,-116.85
+92399,Yucaipa,CA,San Bernardino County,909,US,34.04,-117.01
+92401,San Bernardino,CA,San Bernardino County,"909,951",US,34.1,-117.29
+92402,San Bernardino,CA,San Bernardino County,909,US,34.07,-117.46
+92403,San Bernardino,CA,San Bernardino County,"909,951",US,34.1,-117.27
+92404,San Bernardino,CA,San Bernardino County,909,US,34.17,-117.24
+92405,San Bernardino,CA,San Bernardino County,909,US,34.14,-117.3
+92406,San Bernardino,CA,San Bernardino County,909,US,34.13,-117.28
+92407,San Bernardino,CA,San Bernardino County,"760,909",US,34.22,-117.37
+92408,San Bernardino,CA,San Bernardino County,909,US,34.08,-117.27
+92410,San Bernardino,CA,San Bernardino County,"951,909",US,34.11,-117.3
+92411,San Bernardino,CA,San Bernardino County,909,US,34.12,-117.32
+92412,San Bernardino,CA,San Bernardino County,909,US,34.08,-117.26
+92413,San Bernardino,CA,San Bernardino County,909,US,34.14,-117.25
+92414,San Bernardino,CA,San Bernardino County,909,US,34.18,-117.26
+92415,San Bernardino,CA,San Bernardino County,909,US,34.12,-117.26
+92418,San Bernardino,CA,San Bernardino County,909,US,34.1,-117.29
+92423,San Bernardino,CA,San Bernardino County,909,US,34.1,-117.28
+92424,San Bernardino,CA,San Bernardino County,909,US,34.14,-117.3
+92427,San Bernardino,CA,San Bernardino County,909,US,34.19,-117.34
+92501,Riverside,CA,Riverside County,"909,951",US,33.99,-117.38
+92502,Riverside,CA,Riverside County,951,US,33.98,-117.37
+92503,Riverside,CA,Riverside County,"909,951",US,33.89,-117.44
+92504,Riverside,CA,Riverside County,"909,951",US,33.9,-117.4
+92505,Riverside,CA,Riverside County,909,US,33.93,-117.49
+92506,Riverside,CA,Riverside County,"909,951",US,33.92,-117.36
+92507,Riverside,CA,Riverside County,"909,951",US,33.96,-117.31
+92508,Riverside,CA,Riverside County,909,US,33.89,-117.32
+92509,Riverside,CA,Riverside County,951,US,33.99,-117.44
+92513,Riverside,CA,Riverside County,951,US,33.91,-117.46
+92514,Riverside,CA,Riverside County,951,US,33.94,-117.41
+92515,Riverside,CA,Riverside County,951,US,33.91,-117.48
+92516,Riverside,CA,Riverside County,951,US,33.95,-117.39
+92517,Riverside,CA,Riverside County,951,US,33.96,-117.43
+92518,March Air Reserve Base,CA,Riverside County,951,US,33.89,-117.27
+92519,Riverside,CA,Riverside County,951,US,33.99,-117.41
+92521,Riverside,CA,Riverside County,951,US,33.97,-117.34
+92522,Riverside,CA,Riverside County,951,US,33.94,-117.39
+92530,Lake Elsinore,CA,Riverside County,951,US,33.68,-117.37
+92531,Lake Elsinore,CA,Riverside County,951,US,33.6,-117.39
+92532,Lake Elsinore,CA,Riverside County,951,US,33.71,-117.34
+92536,Aguanga,CA,Riverside County,951,US,33.5,-116.81
+92539,Anza,CA,Riverside County,951,US,33.53,-116.68
+92543,Hemet,CA,Riverside County,"909,951",US,33.66,-116.98
+92544,Hemet,CA,Riverside County,"909,951",US,33.64,-116.83
+92545,Hemet,CA,Riverside County,"951,909",US,33.73,-117.05
+92546,Hemet,CA,Riverside County,951,US,33.74,-116.97
+92548,Homeland,CA,Riverside County,951,US,33.75,-117.11
+92549,Idyllwild,CA,Riverside County,951,US,33.76,-116.73
+92551,Moreno Valley,CA,Riverside County,951,US,33.87,-117.22
+92552,Moreno Valley,CA,Riverside County,951,US,33.92,-117.24
+92553,Moreno Valley,CA,Riverside County,951,US,33.92,-117.24
+92554,Moreno Valley,CA,Riverside County,951,US,33.91,-117.25
+92555,Moreno Valley,CA,Riverside County,951,US,33.9,-117.1
+92556,Moreno Valley,CA,Riverside County,951,US,33.96,-117.24
+92557,Moreno Valley,CA,Riverside County,951,US,33.97,-117.25
+92561,Mountain Center,CA,Riverside County,760,US,33.63,-116.59
+92562,Murrieta,CA,Riverside County,951,US,33.54,-117.33
+92563,Murrieta,CA,Riverside County,951,US,33.57,-117.14
+92564,Murrieta,CA,Riverside County,951,US,33.64,-117.18
+92567,Nuevo,CA,Riverside County,951,US,33.82,-117.1
+92570,Perris,CA,Riverside County,951,US,33.78,-117.33
+92571,Perris,CA,Riverside County,951,US,33.83,-117.2
+92572,Perris,CA,Riverside County,951,US,33.78,-117.22
+92581,San Jacinto,CA,Riverside County,951,US,33.78,-116.95
+92582,San Jacinto,CA,Riverside County,951,US,33.81,-117.02
+92583,San Jacinto,CA,Riverside County,"909,951",US,33.79,-116.93
+92584,Menifee,CA,Riverside County,951,US,33.65,-117.18
+92585,Sun City,CA,Riverside County,951,US,33.74,-117.18
+92586,Sun City,CA,Riverside County,951,US,33.7,-117.19
+92587,Sun City,CA,Riverside County,951,US,33.69,-117.24
+92589,Temecula,CA,Riverside County,951,US,33.51,-117.1
+92590,Temecula,CA,Riverside County,"951,909",US,33.48,-117.22
+92591,Temecula,CA,Riverside County,"909,951",US,33.53,-117.1
+92592,Temecula,CA,Riverside County,"909,951",US,33.53,-117.04
+92593,Temecula,CA,Riverside County,951,US,33.5,-117.15
+92595,Wildomar,CA,Riverside County,951,US,33.62,-117.25
+92596,Winchester,CA,Riverside County,,US,33.63,-117.07
+92599,Perris,CA,Riverside County,951,US,33.83,-117.19
+92602,Irvine,CA,Orange County,949,US,33.74,-117.76
+92603,Irvine,CA,Orange County,"714,949",US,33.62,-117.79
+92604,Irvine,CA,Orange County,949,US,33.69,-117.78
+92605,Huntington Beach,CA,Orange County,714,US,33.71,-118
+92606,Irvine,CA,Orange County,"714,949",US,33.7,-117.82
+92607,Laguna Niguel,CA,Orange County,949,US,33.52,-117.7
+92609,El Toro,CA,Orange County,949,US,33.59,-117.7
+92610,Foothill Ranch,CA,Orange County,949,US,33.7,-117.67
+92612,Irvine,CA,Orange County,"714,949",US,33.66,-117.83
+92614,Irvine,CA,Orange County,"949,714",US,33.68,-117.85
+92615,Huntington Beach,CA,Orange County,714,US,33.65,-117.96
+92616,Irvine,CA,Orange County,714,US,33.64,-117.83
+92617,Irvine,CA,Orange County,714,US,33.64,-117.84
+92618,Irvine,CA,Orange County,949,US,33.67,-117.73
+92619,Irvine,CA,Orange County,714,US,33.66,-117.76
+92620,Irvine,CA,Orange County,949,US,33.7,-117.76
+92623,Irvine,CA,Orange County,714,US,33.69,-117.81
+92624,Capistrano Beach,CA,Orange County,"714,949",US,33.45,-117.66
+92625,Corona Del Mar,CA,Orange County,949,US,33.6,-117.86
+92626,Costa Mesa,CA,Orange County,714,US,33.67,-117.9
+92627,Costa Mesa,CA,Orange County,714,US,33.64,-117.91
+92628,Costa Mesa,CA,Orange County,714,US,33.64,-117.91
+92629,Dana Point,CA,Orange County,"714,949",US,33.47,-117.7
+92630,Lake Forest,CA,Orange County,"714,949",US,33.64,-117.67
+92637,Laguna Woods,CA,Orange County,"714,949",US,33.61,-117.72
+92646,Huntington Beach,CA,Orange County,"657,714",US,33.66,-117.97
+92647,Huntington Beach,CA,Orange County,"657,714,562",US,33.72,-118
+92648,Huntington Beach,CA,Orange County,"562,657,714",US,33.67,-118
+92649,Huntington Beach,CA,Orange County,"562,714",US,33.71,-118.04
+92650,East Irvine,CA,Orange County,714,US,33.67,-117.75
+92651,Laguna Beach,CA,Orange County,"714,949",US,33.55,-117.78
+92652,Laguna Beach,CA,Orange County,949,US,33.54,-117.78
+92653,Laguna Hills,CA,Orange County,"714,949",US,33.59,-117.7
+92654,Laguna Hills,CA,Orange County,949,US,33.6,-117.71
+92655,Midway City,CA,Orange County,714,US,33.75,-117.98
+92656,Aliso Viejo,CA,Orange County,"949,714",US,33.57,-117.72
+92657,Newport Coast,CA,Orange County,949,US,33.6,-117.82
+92658,Newport Beach,CA,Orange County,949,US,33.63,-117.86
+92659,Newport Beach,CA,Orange County,949,US,33.62,-117.92
+92660,Newport Beach,CA,Orange County,949,US,33.62,-117.87
+92661,Newport Beach,CA,Orange County,949,US,33.6,-117.9
+92662,Newport Beach,CA,Orange County,949,US,33.61,-117.89
+92663,Newport Beach,CA,Orange County,949,US,33.62,-117.93
+92672,San Clemente,CA,Orange County,949,US,33.42,-117.62
+92673,San Clemente,CA,Orange County,949,US,33.48,-117.61
+92674,San Clemente,CA,Orange County,949,US,33.43,-117.62
+92675,San Juan Capistrano,CA,Orange County,"714,949",US,33.52,-117.61
+92676,Silverado,CA,Orange County,714,US,33.75,-117.63
+92677,Laguna Niguel,CA,Orange County,949,US,33.53,-117.7
+92678,Trabuco Canyon,CA,Orange County,949,US,33.66,-117.59
+92679,Trabuco Canyon,CA,Orange County,949,US,33.61,-117.6
+92683,Westminster,CA,Orange County,"657,714",US,33.75,-117.99
+92684,Westminster,CA,Orange County,714,US,33.76,-118
+92685,Westminster,CA,Orange County,714,US,33.75,-117.99
+92688,Rancho Santa Margarita,CA,Orange County,949,US,33.62,-117.61
+92690,Mission Viejo,CA,Orange County,949,US,33.61,-117.64
+92691,Mission Viejo,CA,Orange County,"714,949",US,33.6,-117.66
+92692,Mission Viejo,CA,Orange County,949,US,33.6,-117.64
+92693,San Juan Capistrano,CA,Orange County,949,US,33.49,-117.66
+92694,Ladera Ranch,CA,Orange County,949,US,33.55,-117.62
+92697,Irvine,CA,Orange County,714,US,33.64,-117.84
+92698,Aliso Viejo,CA,Orange County,949,US,33.67,-117.83
+92701,Santa Ana,CA,Orange County,"562,657,949,714",US,33.75,-117.85
+92702,Santa Ana,CA,Orange County,714,US,33.73,-117.87
+92703,Santa Ana,CA,Orange County,"657,714",US,33.74,-117.89
+92704,Santa Ana,CA,Orange County,"657,714",US,33.71,-117.9
+92705,Santa Ana,CA,Orange County,"657,714",US,33.76,-117.79
+92706,Santa Ana,CA,Orange County,"714,657,949",US,33.76,-117.88
+92707,Santa Ana,CA,Orange County,"562,657,714,949",US,33.71,-117.87
+92708,Fountain Valley,CA,Orange County,714,US,33.71,-117.94
+92709,Irvine,CA,Orange County,714,US,33.67,-117.73
+92710,Irvine,CA,Orange County,714,US,33.7,-117.81
+92711,Santa Ana,CA,Orange County,714,US,33.76,-117.8
+92712,Santa Ana,CA,Orange County,714,US,33.75,-117.87
+92725,Santa Ana,CA,Orange County,714,US,33.75,-117.86
+92728,Fountain Valley,CA,Orange County,714,US,33.71,-117.92
+92735,Santa Ana,CA,Orange County,714,US,33.71,-117.85
+92780,Tustin,CA,Orange County,714,US,33.74,-117.82
+92781,Tustin,CA,Orange County,714,US,33.73,-117.81
+92782,Tustin,CA,Orange County,714,US,33.75,-117.77
+92799,Santa Ana,CA,Orange County,"657,714,949,562",US,33.71,-117.9
+92801,Anaheim,CA,Orange County,"657,714,949",US,33.84,-117.95
+92802,Anaheim,CA,Orange County,"562,909,949,657,714",US,33.81,-117.91
+92803,Anaheim,CA,Orange County,714,US,33.84,-117.93
+92804,Anaheim,CA,Orange County,"657,714",US,33.81,-117.97
+92805,Anaheim,CA,Orange County,"626,562,657,714,909,000",US,33.82,-117.91
+92806,Anaheim,CA,Orange County,"657,562,626,714,909,000",US,33.84,-117.87
+92807,Anaheim,CA,Orange County,714,US,33.85,-117.79
+92808,Anaheim,CA,Orange County,714,US,33.86,-117.74
+92809,Anaheim,CA,Orange County,714,US,33.86,-117.74
+92811,Atwood,CA,Orange County,714,US,33.86,-117.83
+92812,Anaheim,CA,Orange County,714,US,33.81,-117.92
+92814,Anaheim,CA,Orange County,714,US,33.81,-117.96
+92815,Anaheim,CA,Orange County,714,US,33.83,-117.91
+92816,Anaheim,CA,Orange County,714,US,33.83,-117.88
+92817,Anaheim,CA,Orange County,714,US,33.85,-117.79
+92821,Brea,CA,Orange County,714,US,33.92,-117.86
+92822,Brea,CA,Orange County,714,US,33.91,-117.89
+92823,Brea,CA,Orange County,714,US,33.92,-117.8
+92825,Anaheim,CA,Orange County,714,US,33.83,-117.91
+92831,Fullerton,CA,Orange County,"714,657",US,33.87,-117.89
+92832,Fullerton,CA,Orange County,"657,714",US,33.86,-117.92
+92833,Fullerton,CA,Orange County,"657,714",US,33.88,-117.96
+92834,Fullerton,CA,Orange County,714,US,33.87,-117.89
+92835,Fullerton,CA,Orange County,"657,714",US,33.9,-117.91
+92836,Fullerton,CA,Orange County,714,US,33.87,-117.9
+92837,Fullerton,CA,Orange County,714,US,33.87,-117.96
+92838,Fullerton,CA,Orange County,714,US,33.89,-117.93
+92840,Garden Grove,CA,Orange County,"657,714",US,33.78,-117.93
+92841,Garden Grove,CA,Orange County,"657,714",US,33.78,-117.97
+92842,Garden Grove,CA,Orange County,714,US,33.77,-117.94
+92843,Garden Grove,CA,Orange County,"714,657",US,33.76,-117.93
+92844,Garden Grove,CA,Orange County,"657,714",US,33.76,-117.97
+92845,Garden Grove,CA,Orange County,714,US,33.78,-118.02
+92846,Garden Grove,CA,Orange County,714,US,33.78,-118.03
+92850,Anaheim,CA,Orange County,714,US,33.84,-117.95
+92856,Orange,CA,Orange County,714,US,33.78,-117.84
+92857,Orange,CA,Orange County,714,US,33.83,-117.84
+92859,Orange,CA,Orange County,714,US,33.8,-117.78
+92860,Norco,CA,Riverside County,,US,33.93,-117.56
+92861,Villa Park,CA,Orange County,714,US,33.81,-117.81
+92862,Orange,CA,Orange County,714,US,33.79,-117.71
+92863,Orange,CA,Orange County,714,US,33.81,-117.82
+92864,Orange,CA,Orange County,714,US,33.81,-117.82
+92865,Orange,CA,Orange County,714,US,33.83,-117.85
+92866,Orange,CA,Orange County,"657,714",US,33.78,-117.84
+92867,Orange,CA,Orange County,"657,714",US,33.8,-117.84
+92868,Orange,CA,Orange County,"657,949,714",US,33.78,-117.86
+92869,Orange,CA,Orange County,714,US,33.79,-117.78
+92870,Placentia,CA,Orange County,"657,714",US,33.88,-117.85
+92871,Placentia,CA,Orange County,714,US,33.88,-117.85
+92877,Corona,CA,Riverside County,951,US,33.87,-117.56
+92878,Corona,CA,Riverside County,951,US,33.87,-117.56
+92879,Corona,CA,Riverside County,"951,909",US,33.87,-117.53
+92880,Corona,CA,Riverside County,909,US,33.9,-117.61
+92881,Corona,CA,Riverside County,"909,951",US,33.83,-117.5
+92882,Corona,CA,Riverside County,"909,951",US,33.83,-117.6
+92883,Corona,CA,Riverside County,951,US,33.75,-117.48
+92885,Yorba Linda,CA,Orange County,714,US,33.89,-117.82
+92886,Yorba Linda,CA,Orange County,"657,714",US,33.89,-117.78
+92887,Yorba Linda,CA,Orange County,"657,714",US,33.88,-117.72
+92899,Anaheim,CA,Orange County,"714,909,562,626,949",US,33.83,-117.87
+93001,Ventura,CA,Ventura County,805,US,34.33,-119.31
+93002,Ventura,CA,Ventura County,805,US,34.27,-119.28
+93003,Ventura,CA,Ventura County,805,US,34.28,-119.22
+93004,Ventura,CA,Ventura County,805,US,34.27,-119.16
+93005,Ventura,CA,Ventura County,805,US,34.25,-119.2
+93006,Ventura,CA,Ventura County,805,US,34.27,-119.29
+93007,Ventura,CA,Ventura County,805,US,34.29,-119.15
+93009,Ventura,CA,Ventura County,805,US,34.26,-119.21
+93010,Camarillo,CA,Ventura County,805,US,34.23,-119.07
+93011,Camarillo,CA,Ventura County,805,US,34.21,-119.03
+93012,Camarillo,CA,Ventura County,805,US,34.2,-118.98
+93013,Carpinteria,CA,Santa Barbara County,805,US,34.43,-119.52
+93014,Carpinteria,CA,Santa Barbara County,805,US,34.39,-119.51
+93015,Fillmore,CA,Ventura County,805,US,34.4,-118.83
+93016,Fillmore,CA,Ventura County,805,US,34.39,-118.91
+93020,Moorpark,CA,Ventura County,805,US,34.28,-118.88
+93021,Moorpark,CA,Ventura County,805,US,34.31,-118.87
+93022,Oak View,CA,Ventura County,805,US,34.4,-119.3
+93023,Ojai,CA,Ventura County,805,US,34.51,-119.29
+93024,Ojai,CA,Ventura County,805,US,34.44,-119.25
+93030,Oxnard,CA,Ventura County,805,US,34.19,-119.17
+93031,Oxnard,CA,Ventura County,805,US,34.21,-119.18
+93032,Oxnard,CA,Ventura County,805,US,34.2,-119.17
+93033,Oxnard,CA,Ventura County,805,US,34.14,-119.1
+93034,Oxnard,CA,Ventura County,805,US,34.17,-119.17
+93035,Oxnard,CA,Ventura County,805,US,34.19,-119.23
+93036,Oxnard,CA,Ventura County,805,US,34.25,-119.16
+93040,Piru,CA,Ventura County,805,US,34.43,-118.75
+93041,Port Hueneme,CA,Ventura County,805,US,34.11,-119.11
+93042,Point Mugu Nawc,CA,Ventura County,805,US,33.26,-119.5
+93043,Port Hueneme Cbc Base,CA,Ventura County,805,US,34.17,-119.2
+93044,Port Hueneme,CA,Ventura County,805,US,34.15,-119.19
+93060,Santa Paula,CA,Ventura County,805,US,34.4,-119.07
+93061,Santa Paula,CA,Ventura County,805,US,34.35,-119.05
+93062,Simi Valley,CA,Ventura County,805,US,34.28,-118.74
+93063,Simi Valley,CA,Ventura County,805,US,34.3,-118.72
+93064,Brandeis,CA,Ventura County,805,US,34.25,-118.7
+93065,Simi Valley,CA,Ventura County,805,US,34.25,-118.78
+93066,Somis,CA,Ventura County,805,US,34.29,-119.03
+93067,Summerland,CA,Santa Barbara County,,US,34.42,-119.59
+93093,Simi Valley,CA,Ventura County,805,US,34.27,-118.71
+93094,Simi Valley,CA,Ventura County,805,US,34.27,-118.79
+93099,Simi Valley,CA,Ventura County,805,US,34.26,-118.75
+93101,Santa Barbara,CA,Santa Barbara County,805,US,34.41,-119.7
+93102,Santa Barbara,CA,Santa Barbara County,805,US,34.42,-119.7
+93103,Santa Barbara,CA,Santa Barbara County,805,US,34.43,-119.68
+93105,Santa Barbara,CA,Santa Barbara County,805,US,34.53,-119.8
+93106,Santa Barbara,CA,Santa Barbara County,805,US,34.43,-119.83
+93107,Santa Barbara,CA,Santa Barbara County,805,US,34.42,-119.86
+93108,Santa Barbara,CA,Santa Barbara County,805,US,34.44,-119.61
+93109,Santa Barbara,CA,Santa Barbara County,805,US,34.4,-119.72
+93110,Santa Barbara,CA,Santa Barbara County,805,US,34.43,-119.77
+93111,Santa Barbara,CA,Santa Barbara County,805,US,34.45,-119.8
+93116,Goleta,CA,Santa Barbara County,805,US,34.49,-120.04
+93117,Goleta,CA,Santa Barbara County,805,US,34.5,-120.12
+93118,Goleta,CA,Santa Barbara County,805,US,34.43,-119.82
+93120,Santa Barbara,CA,Santa Barbara County,805,US,34.41,-119.7
+93121,Santa Barbara,CA,Santa Barbara County,805,US,34.41,-119.7
+93130,Santa Barbara,CA,Santa Barbara County,805,US,34.44,-119.73
+93140,Santa Barbara,CA,Santa Barbara County,805,US,34.42,-119.67
+93150,Santa Barbara,CA,Santa Barbara County,805,US,34.43,-119.63
+93160,Santa Barbara,CA,Santa Barbara County,805,US,34.43,-119.8
+93190,Santa Barbara,CA,Santa Barbara County,805,US,34.42,-119.7
+93199,Goleta,CA,Santa Barbara County,805,US,34.49,-120.04
+93201,Alpaugh,CA,Tulare County,559,US,35.86,-119.46
+93202,Armona,CA,Kings County,559,US,36.31,-119.71
+93203,Arvin,CA,Kern County,661,US,35.08,-118.79
+93204,Avenal,CA,Kings County,559,US,35.89,-120.07
+93205,Bodfish,CA,Kern County,661,US,35.52,-118.4
+93206,Buttonwillow,CA,Kern County,661,US,35.43,-119.49
+93207,California Hot Springs,CA,Tulare County,661,US,35.87,-118.65
+93208,Camp Nelson,CA,Tulare County,559,US,36.06,-118.58
+93210,Coalinga,CA,Fresno County,559,US,36.19,-120.39
+93212,Corcoran,CA,Kings County,559,US,36.07,-119.53
+93215,Delano,CA,Kern County,661,US,35.78,-119.23
+93216,Delano,CA,Kern County,661,US,35.75,-119.27
+93218,Ducor,CA,Tulare County,559,US,35.86,-118.99
+93219,Earlimart,CA,Tulare County,"559,661",US,35.86,-119.28
+93220,Edison,CA,Kern County,,US,35.4,-118.76
+93221,Exeter,CA,Tulare County,559,US,36.28,-119.03
+93222,Pine Mountain Club,CA,Kern County,,US,34.84,-119.17
+93223,Farmersville,CA,Tulare County,559,US,36.3,-119.19
+93224,Fellows,CA,Kern County,661,US,35.21,-119.56
+93225,Frazier Park,CA,Kern County,,US,34.8,-119.01
+93226,Glennville,CA,Kern County,661,US,35.72,-118.72
+93227,Goshen,CA,Tulare County,559,US,36.34,-119.41
+93230,Hanford,CA,Kings County,559,US,36.27,-119.63
+93232,Hanford,CA,Kings County,559,US,36.23,-119.7
+93234,Huron,CA,Fresno County,559,US,36.2,-120.09
+93235,Ivanhoe,CA,Tulare County,559,US,36.38,-119.22
+93237,Kaweah,CA,Tulare County,559,US,36.46,-118.91
+93238,Kernville,CA,Kern County,760,US,35.73,-118.39
+93239,Kettleman City,CA,Kings County,559,US,36.05,-119.99
+93240,Lake Isabella,CA,Kern County,760,US,35.64,-118.46
+93241,Lamont,CA,Kern County,661,US,35.25,-118.91
+93242,Laton,CA,Fresno County,559,US,36.43,-119.69
+93243,Lebec,CA,Kern County,661,US,34.86,-118.87
+93244,Lemon Cove,CA,Tulare County,559,US,36.46,-118.98
+93245,Lemoore,CA,Kings County,559,US,36.29,-119.82
+93246,Lemoore,CA,Kings County,559,US,36.28,-119.84
+93247,Lindsay,CA,Tulare County,559,US,36.2,-119.08
+93249,Lost Hills,CA,Kern County,661,US,35.61,-119.9
+93250,Mc Farland,CA,Kern County,661,US,35.65,-119.19
+93251,Mc Kittrick,CA,Kern County,"661,805",US,35.34,-119.76
+93252,Maricopa,CA,Kern County,661,US,34.84,-119.27
+93254,New Cuyama,CA,Santa Barbara County,661,US,34.98,-119.8
+93255,Onyx,CA,Kern County,559,US,35.68,-118.07
+93256,Pixley,CA,Tulare County,559,US,35.95,-119.31
+93257,Porterville,CA,Tulare County,559,US,35.96,-118.92
+93258,Porterville,CA,Tulare County,559,US,36.05,-119.15
+93260,Posey,CA,Tulare County,661,US,35.82,-118.67
+93261,Richgrove,CA,Tulare County,559,US,35.81,-119.13
+93262,Sequoia National Park,CA,Tulare County,559,US,36.62,-118.7
+93263,Shafter,CA,Kern County,661,US,35.49,-119.3
+93265,Springville,CA,Tulare County,559,US,36.17,-118.7
+93266,Stratford,CA,Kings County,559,US,36.17,-119.81
+93267,Strathmore,CA,Tulare County,559,US,36.14,-119.09
+93268,Taft,CA,Kern County,661,US,35.16,-119.43
+93270,Terra Bella,CA,Tulare County,559,US,35.93,-119.03
+93271,Three Rivers,CA,Tulare County,559,US,36.44,-118.86
+93272,Tipton,CA,Tulare County,559,US,36.04,-119.34
+93274,Tulare,CA,Tulare County,559,US,36.18,-119.36
+93275,Tulare,CA,Tulare County,559,US,36.2,-119.34
+93276,Tupman,CA,Kern County,,US,35.3,-119.36
+93277,Visalia,CA,Tulare County,559,US,36.29,-119.38
+93278,Visalia,CA,Tulare County,559,US,36.3,-119.31
+93279,Visalia,CA,Tulare County,559,US,36.32,-119.29
+93280,Wasco,CA,Kern County,661,US,35.64,-119.44
+93282,Waukena,CA,Tulare County,559,US,36.14,-119.5
+93283,Weldon,CA,Kern County,760,US,35.59,-118.3
+93285,Wofford Heights,CA,Kern County,,US,35.7,-118.5
+93286,Woodlake,CA,Tulare County,559,US,36.46,-119.1
+93287,Woody,CA,Kern County,,US,35.76,-118.99
+93290,Visalia,CA,Tulare County,559,US,36.33,-119.29
+93291,Visalia,CA,Tulare County,559,US,36.4,-119.38
+93292,Visalia,CA,Tulare County,559,US,36.37,-119.18
+93301,Bakersfield,CA,Kern County,"661,805",US,35.38,-119.02
+93302,Bakersfield,CA,Kern County,661,US,35.37,-119.02
+93303,Bakersfield,CA,Kern County,661,US,35.55,-118.92
+93304,Bakersfield,CA,Kern County,"661,805",US,35.33,-119.02
+93305,Bakersfield,CA,Kern County,"661,805",US,35.39,-118.98
+93306,Bakersfield,CA,Kern County,661,US,35.43,-118.83
+93307,Bakersfield,CA,Kern County,661,US,35.2,-118.86
+93308,Bakersfield,CA,Kern County,661,US,35.54,-118.91
+93309,Bakersfield,CA,Kern County,661,US,35.34,-119.07
+93311,Bakersfield,CA,Kern County,661,US,35.18,-119.21
+93312,Bakersfield,CA,Kern County,661,US,35.39,-119.12
+93313,Bakersfield,CA,Kern County,661,US,35.15,-119.06
+93314,Bakersfield,CA,Kern County,661,US,35.38,-119.2
+93380,Bakersfield,CA,Kern County,661,US,35.55,-118.92
+93381,Bakersfield,CA,Kern County,661,US,35.37,-119.01
+93382,Bakersfield,CA,Kern County,661,US,35.25,-119
+93383,Bakersfield,CA,Kern County,661,US,35.26,-119.03
+93384,Bakersfield,CA,Kern County,661,US,35.37,-119.01
+93385,Bakersfield,CA,Kern County,661,US,35.37,-118.99
+93386,Bakersfield,CA,Kern County,661,US,35.37,-118.95
+93387,Bakersfield,CA,Kern County,661,US,35.35,-118.95
+93388,Bakersfield,CA,Kern County,661,US,35.41,-119.02
+93389,Bakersfield,CA,Kern County,661,US,35.35,-119.06
+93390,Bakersfield,CA,Kern County,661,US,35.35,-119
+93401,San Luis Obispo,CA,San Luis Obispo County,805,US,35.25,-120.62
+93402,Los Osos,CA,San Luis Obispo County,805,US,35.29,-120.81
+93403,San Luis Obispo,CA,San Luis Obispo County,805,US,35.28,-120.65
+93405,San Luis Obispo,CA,San Luis Obispo County,805,US,35.27,-120.69
+93406,San Luis Obispo,CA,San Luis Obispo County,805,US,35.24,-120.64
+93407,San Luis Obispo,CA,San Luis Obispo County,805,US,35.29,-120.66
+93408,San Luis Obispo,CA,San Luis Obispo County,805,US,35.22,-120.63
+93409,San Luis Obispo,CA,San Luis Obispo County,805,US,35.22,-120.63
+93410,San Luis Obispo,CA,San Luis Obispo County,805,US,35.3,-120.66
+93412,Los Osos,CA,San Luis Obispo County,805,US,35.31,-120.83
+93420,Arroyo Grande,CA,San Luis Obispo County,805,US,35.16,-120.43
+93421,Arroyo Grande,CA,San Luis Obispo County,805,US,35.12,-120.57
+93422,Atascadero,CA,San Luis Obispo County,805,US,35.45,-120.71
+93423,Atascadero,CA,San Luis Obispo County,805,US,35.48,-120.64
+93424,Avila Beach,CA,San Luis Obispo County,,US,35.19,-120.73
+93426,Bradley,CA,Monterey County,805,US,35.85,-120.8
+93427,Buellton,CA,Santa Barbara County,805,US,34.61,-120.22
+93428,Cambria,CA,San Luis Obispo County,805,US,35.59,-121.01
+93429,Casmalia,CA,Santa Barbara County,,US,34.87,-120.54
+93430,Cayucos,CA,San Luis Obispo County,805,US,35.48,-120.92
+93432,Creston,CA,San Luis Obispo County,,US,35.47,-120.48
+93433,Grover Beach,CA,San Luis Obispo County,805,US,35.12,-120.61
+93434,Guadalupe,CA,Santa Barbara County,805,US,34.93,-120.59
+93435,Harmony,CA,San Luis Obispo County,805,US,35.5,-121.03
+93436,Lompoc,CA,Santa Barbara County,805,US,34.6,-120.39
+93437,Lompoc,CA,Santa Barbara County,805,US,34.77,-120.53
+93438,Lompoc,CA,Santa Barbara County,805,US,34.63,-120.46
+93440,Los Alamos,CA,Santa Barbara County,,US,34.73,-120.24
+93441,Los Olivos,CA,Santa Barbara County,,US,34.79,-119.99
+93442,Morro Bay,CA,San Luis Obispo County,805,US,35.38,-120.78
+93443,Morro Bay,CA,San Luis Obispo County,805,US,35.36,-120.85
+93444,Nipomo,CA,San Luis Obispo County,805,US,35.05,-120.48
+93445,Oceano,CA,San Luis Obispo County,805,US,35.04,-120.62
+93446,Paso Robles,CA,San Luis Obispo County,805,US,35.61,-120.76
+93447,Paso Robles,CA,San Luis Obispo County,,US,35.65,-120.69
+93448,Pismo Beach,CA,San Luis Obispo County,805,US,35.15,-120.67
+93449,Pismo Beach,CA,San Luis Obispo County,805,US,35.15,-120.66
+93450,San Ardo,CA,Monterey County,"805,831",US,36.09,-120.82
+93451,San Miguel,CA,San Luis Obispo County,805,US,35.89,-120.6
+93452,San Simeon,CA,San Luis Obispo County,805,US,35.69,-121.2
+93453,Santa Margarita,CA,San Luis Obispo County,,US,35.31,-120.27
+93454,Santa Maria,CA,Santa Barbara County,805,US,34.91,-120.23
+93455,Santa Maria,CA,Santa Barbara County,805,US,34.82,-120.41
+93456,Santa Maria,CA,Santa Barbara County,805,US,34.93,-120.46
+93457,Santa Maria,CA,Santa Barbara County,805,US,34.86,-120.43
+93458,Santa Maria,CA,Santa Barbara County,805,US,34.95,-120.5
+93460,Santa Ynez,CA,Santa Barbara County,805,US,34.64,-120.02
+93461,Shandon,CA,San Luis Obispo County,805,US,35.63,-120.26
+93463,Solvang,CA,Santa Barbara County,805,US,34.61,-120.14
+93464,Solvang,CA,Santa Barbara County,805,US,34.55,-120.14
+93465,Templeton,CA,San Luis Obispo County,805,US,35.54,-120.75
+93475,Oceano,CA,San Luis Obispo County,,US,35.1,-120.61
+93483,Grover Beach,CA,San Luis Obispo County,805,US,35.12,-120.62
+93501,Mojave,CA,Kern County,661,US,35.07,-118.18
+93502,Mojave,CA,Kern County,,US,35.05,-118.17
+93504,California City,CA,Kern County,760,US,35.14,-118.01
+93505,California City,CA,Kern County,"661,760",US,35.15,-117.92
+93510,Acton,CA,Los Angeles County,661,US,34.49,-118.22
+93512,Benton,CA,Mono County,"442,760",US,37.87,-118.54
+93513,Big Pine,CA,Inyo County,760,US,37.13,-118.16
+93514,Bishop,CA,Inyo County,"442,760",US,37.5,-118.31
+93515,Bishop,CA,Inyo County,760,US,37.36,-118.4
+93516,Boron,CA,Kern County,760,US,35,-117.63
+93517,Bridgeport,CA,Mono County,760,US,38.27,-119.33
+93518,Caliente,CA,Kern County,661,US,35.4,-118.51
+93519,Cantil,CA,Kern County,,US,35.3,-117.95
+93522,Darwin,CA,Inyo County,760,US,36.3,-117.59
+93523,Edwards,CA,Kern County,"661,760",US,34.96,-117.87
+93524,Edwards,CA,Kern County,661,US,34.93,-117.91
+93526,Independence,CA,Inyo County,760,US,36.83,-118.24
+93527,Inyokern,CA,Kern County,760,US,35.88,-118.15
+93528,Johannesburg,CA,Kern County,,US,35.36,-117.64
+93529,June Lake,CA,Mono County,760,US,37.77,-119.06
+93530,Keeler,CA,Inyo County,760,US,36.48,-117.86
+93531,Keene,CA,Kern County,661,US,35.23,-118.62
+93532,Lake Hughes,CA,Los Angeles County,661,US,34.69,-118.52
+93534,Lancaster,CA,Los Angeles County,661,US,34.72,-118.15
+93535,Lancaster,CA,Los Angeles County,661,US,34.69,-117.9
+93536,Lancaster,CA,Los Angeles County,661,US,34.72,-118.48
+93539,Lancaster,CA,Los Angeles County,661,US,34.68,-118.12
+93541,Lee Vining,CA,Mono County,,US,37.99,-119.11
+93542,Little Lake,CA,Inyo County,760,US,35.93,-117.9
+93543,Littlerock,CA,Los Angeles County,661,US,34.48,-117.98
+93544,Llano,CA,Los Angeles County,"760,661",US,34.49,-117.77
+93545,Lone Pine,CA,Inyo County,760,US,36.56,-118.05
+93546,Mammoth Lakes,CA,Mono County,760,US,37.58,-118.84
+93549,Olancha,CA,Inyo County,760,US,36.26,-117.95
+93550,Palmdale,CA,Los Angeles County,661,US,34.52,-118.08
+93551,Palmdale,CA,Los Angeles County,661,US,34.61,-118.27
+93552,Palmdale,CA,Los Angeles County,661,US,34.57,-118.02
+93553,Pearblossom,CA,Los Angeles County,,US,34.48,-117.88
+93554,Randsburg,CA,Kern County,,US,35.39,-117.73
+93555,Ridgecrest,CA,Kern County,760,US,35.55,-117.67
+93556,Ridgecrest,CA,Kern County,760,US,35.62,-117.67
+93558,Red Mountain,CA,San Bernardino County,,US,35.35,-117.62
+93560,Rosamond,CA,Kern County,661,US,34.87,-118.34
+93561,Tehachapi,CA,Kern County,661,US,35.12,-118.51
+93562,Trona,CA,San Bernardino County,760,US,35.73,-117.36
+93563,Valyermo,CA,Los Angeles County,661,US,34.39,-117.74
+93581,Tehachapi,CA,Kern County,661,US,35.13,-118.44
+93584,Lancaster,CA,Los Angeles County,661,US,34.69,-118.13
+93586,Lancaster,CA,Los Angeles County,661,US,34.64,-118.21
+93590,Palmdale,CA,Los Angeles County,661,US,34.57,-118.08
+93591,Palmdale,CA,Los Angeles County,661,US,34.61,-117.81
+93592,Trona,CA,Inyo County,,US,35.85,-117.22
+93596,Boron,CA,Kern County,,US,35,-117.65
+93599,Palmdale,CA,Los Angeles County,661,US,34.57,-118.11
+93601,Ahwahnee,CA,Madera County,"209,559",US,37.39,-119.73
+93602,Auberry,CA,Fresno County,559,US,37,-119.15
+93603,Badger,CA,Tulare County,559,US,36.6,-118.92
+93604,Bass Lake,CA,Madera County,559,US,37.38,-119.51
+93605,Big Creek,CA,Fresno County,559,US,37.2,-119.25
+93606,Biola,CA,Fresno County,559,US,36.8,-120.02
+93607,Burrel,CA,Fresno County,559,US,36.48,-119.98
+93608,Cantua Creek,CA,Fresno County,"559,831",US,36.49,-120.36
+93609,Caruthers,CA,Fresno County,559,US,36.52,-119.87
+93610,Chowchilla,CA,Madera County,559,US,37.07,-120.27
+93611,Clovis,CA,Fresno County,559,US,36.83,-119.68
+93612,Clovis,CA,Fresno County,559,US,36.81,-119.71
+93613,Clovis,CA,Fresno County,559,US,36.79,-119.64
+93614,Coarsegold,CA,Madera County,559,US,37.17,-119.71
+93615,Cutler,CA,Tulare County,559,US,36.49,-119.28
+93616,Del Rey,CA,Fresno County,559,US,36.65,-119.59
+93618,Dinuba,CA,Tulare County,559,US,36.52,-119.39
+93619,Clovis,CA,Fresno County,559,US,36.91,-119.58
+93620,Dos Palos,CA,Merced County,209,US,37.07,-120.63
+93621,Dunlap,CA,Fresno County,559,US,36.79,-119.13
+93622,Firebaugh,CA,Fresno County,"209,559",US,36.85,-120.54
+93623,Fish Camp,CA,Mariposa County,209,US,37.47,-119.66
+93624,Five Points,CA,Fresno County,559,US,36.38,-120.13
+93625,Fowler,CA,Fresno County,559,US,36.62,-119.67
+93626,Friant,CA,Fresno County,559,US,37.02,-119.69
+93627,Helm,CA,Fresno County,559,US,36.53,-120.11
+93628,Hume,CA,Fresno County,559,US,36.8,-118.89
+93630,Kerman,CA,Fresno County,559,US,36.71,-120.15
+93631,Kingsburg,CA,Fresno County,559,US,36.48,-119.5
+93633,Kings Canyon National Pk,CA,Tulare County,,US,36.72,-118.95
+93634,Lakeshore,CA,Fresno County,559,US,37.33,-119.01
+93635,Los Banos,CA,Merced County,209,US,37.07,-120.84
+93636,Madera,CA,Madera County,559,US,36.93,-119.83
+93637,Madera,CA,Madera County,559,US,36.91,-120.19
+93638,Madera,CA,Madera County,559,US,37.04,-120.03
+93639,Madera,CA,Madera County,559,US,36.96,-120.08
+93640,Mendota,CA,Fresno County,559,US,36.67,-120.45
+93641,Miramonte,CA,Fresno County,559,US,36.7,-119.04
+93642,Mono Hot Springs,CA,Fresno County,559,US,37.32,-119.01
+93643,North Fork,CA,Madera County,559,US,37.23,-119.49
+93644,Oakhurst,CA,Madera County,559,US,37.4,-119.61
+93645,O Neals,CA,Madera County,559,US,37.16,-119.62
+93646,Orange Cove,CA,Fresno County,559,US,36.64,-119.29
+93647,Orosi,CA,Tulare County,559,US,36.58,-119.19
+93648,Parlier,CA,Fresno County,559,US,36.62,-119.51
+93649,Piedra,CA,Fresno County,559,US,36.82,-119.35
+93650,Fresno,CA,Fresno County,559,US,36.84,-119.8
+93651,Prather,CA,Fresno County,559,US,37,-119.5
+93652,Raisin City,CA,Fresno County,559,US,36.59,-119.9
+93653,Raymond,CA,Madera County,559,US,37.25,-119.96
+93654,Reedley,CA,Fresno County,559,US,36.65,-119.4
+93656,Riverdale,CA,Fresno County,559,US,36.48,-119.94
+93657,Sanger,CA,Fresno County,559,US,36.79,-119.44
+93660,San Joaquin,CA,Fresno County,559,US,36.59,-120.19
+93661,Santa Rita Park,CA,Merced County,209,US,37.1,-120.59
+93662,Selma,CA,Fresno County,559,US,36.53,-119.64
+93664,Shaver Lake,CA,Fresno County,559,US,37.13,-119.22
+93665,South Dos Palos,CA,Merced County,209,US,36.96,-120.65
+93666,Sultana,CA,Tulare County,559,US,36.55,-119.34
+93667,Tollhouse,CA,Fresno County,559,US,36.96,-119.3
+93668,Tranquillity,CA,Fresno County,559,US,36.65,-120.28
+93669,Wishon,CA,Madera County,559,US,37.29,-119.55
+93670,Yettem,CA,Tulare County,559,US,36.48,-119.22
+93673,Traver,CA,Tulare County,559,US,36.45,-119.48
+93675,Squaw Valley,CA,Fresno County,559,US,36.74,-119.19
+93701,Fresno,CA,Fresno County,"209,559",US,36.75,-119.79
+93702,Fresno,CA,Fresno County,559,US,36.74,-119.75
+93703,Fresno,CA,Fresno County,559,US,36.76,-119.76
+93704,Fresno,CA,Fresno County,559,US,36.8,-119.8
+93705,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93706,Fresno,CA,Fresno County,559,US,36.64,-119.91
+93707,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93708,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93709,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93710,Fresno,CA,Fresno County,559,US,36.81,-119.75
+93711,Fresno,CA,Fresno County,559,US,36.84,-119.82
+93712,Fresno,CA,Fresno County,559,US,36.61,-119.77
+93714,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93715,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93716,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93717,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93718,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93720,Fresno,CA,Fresno County,559,US,36.86,-119.76
+93721,Fresno,CA,Fresno County,"209,559",US,36.73,-119.78
+93722,Fresno,CA,Fresno County,559,US,36.8,-119.87
+93723,Fresno,CA,Fresno County,559,US,36.77,-119.95
+93724,Fresno,CA,Fresno County,559,US,36.72,-119.79
+93725,Fresno,CA,Fresno County,559,US,36.6,-119.75
+93726,Fresno,CA,Fresno County,559,US,36.79,-119.76
+93727,Fresno,CA,Fresno County,559,US,36.75,-119.67
+93728,Fresno,CA,Fresno County,"209,559",US,36.76,-119.82
+93729,Fresno,CA,Fresno County,559,US,36.85,-119.76
+93730,Fresno,CA,Fresno County,559,US,36.9,-119.75
+93737,Fresno,CA,Fresno County,559,US,36.74,-119.65
+93740,Fresno,CA,Fresno County,559,US,36.82,-119.76
+93741,Fresno,CA,Fresno County,559,US,36.79,-119.8
+93744,Fresno,CA,Fresno County,559,US,36.75,-119.79
+93745,Fresno,CA,Fresno County,559,US,36.7,-119.75
+93747,Fresno,CA,Fresno County,559,US,36.8,-119.67
+93750,Fresno,CA,Fresno County,559,US,36.83,-119.78
+93755,Fresno,CA,Fresno County,559,US,36.79,-119.79
+93760,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93761,Fresno,CA,Fresno County,559,US,36.75,-119.78
+93764,Fresno,CA,Fresno County,559,US,36.73,-119.78
+93765,Fresno,CA,Fresno County,559,US,36.83,-119.83
+93771,Fresno,CA,Fresno County,559,US,36.74,-119.78
+93772,Fresno,CA,Fresno County,559,US,36.74,-119.78
+93773,Fresno,CA,Fresno County,559,US,36.71,-119.85
+93774,Fresno,CA,Fresno County,559,US,36.74,-119.79
+93775,Fresno,CA,Fresno County,559,US,36.73,-119.75
+93776,Fresno,CA,Fresno County,559,US,36.75,-119.78
+93777,Fresno,CA,Fresno County,559,US,36.74,-119.78
+93778,Fresno,CA,Fresno County,559,US,36.74,-119.78
+93779,Fresno,CA,Fresno County,559,US,36.74,-119.78
+93780,Fresno,CA,Fresno County,559,US,36.73,-119.8
+93784,Fresno,CA,Fresno County,559,US,36.82,-119.76
+93786,Fresno,CA,Fresno County,559,US,36.63,-119.9
+93790,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93791,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93792,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93793,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93794,Fresno,CA,Fresno County,559,US,36.78,-119.82
+93844,Fresno,CA,Fresno County,559,US,36.75,-119.67
+93888,Fresno,CA,Fresno County,559,US,36.75,-119.67
+93901,Salinas,CA,Monterey County,"408,831",US,36.64,-121.62
+93902,Salinas,CA,Monterey County,831,US,36.67,-121.65
+93905,Salinas,CA,Monterey County,"408,831",US,36.67,-121.61
+93906,Salinas,CA,Monterey County,"408,831",US,36.72,-121.63
+93907,Salinas,CA,Monterey County,831,US,36.76,-121.65
+93908,Salinas,CA,Monterey County,831,US,36.65,-121.6
+93912,Salinas,CA,Monterey County,831,US,36.73,-121.68
+93915,Salinas,CA,Monterey County,831,US,36.67,-121.62
+93920,Big Sur,CA,Monterey County,831,US,36.08,-121.6
+93921,Carmel By The Sea,CA,Monterey County,831,US,36.55,-121.92
+93922,Carmel,CA,Monterey County,831,US,36.48,-121.74
+93923,Carmel,CA,Monterey County,831,US,36.46,-121.82
+93924,Carmel Valley,CA,Monterey County,831,US,36.39,-121.65
+93925,Chualar,CA,Monterey County,831,US,36.57,-121.44
+93926,Gonzales,CA,Monterey County,831,US,36.54,-121.39
+93927,Greenfield,CA,Monterey County,831,US,36.26,-121.37
+93928,Jolon,CA,Monterey County,,US,36.04,-121.24
+93930,King City,CA,Monterey County,831,US,36.2,-120.94
+93932,Lockwood,CA,Monterey County,,US,35.99,-121.06
+93933,Marina,CA,Monterey County,831,US,36.67,-121.79
+93940,Monterey,CA,Monterey County,831,US,36.6,-121.88
+93942,Monterey,CA,Monterey County,831,US,36.61,-121.89
+93943,Monterey,CA,Monterey County,831,US,36.6,-121.87
+93944,Monterey,CA,Monterey County,831,US,36.57,-121.83
+93950,Pacific Grove,CA,Monterey County,,US,36.61,-121.92
+93953,Pebble Beach,CA,Monterey County,831,US,36.58,-121.94
+93954,San Lucas,CA,Monterey County,,US,36.13,-120.93
+93955,Seaside,CA,Monterey County,,US,36.62,-121.82
+93960,Soledad,CA,Monterey County,831,US,36.39,-121.3
+93962,Spreckels,CA,Monterey County,,US,36.62,-121.65
+94002,Belmont,CA,San Mateo County,650,US,37.5,-122.3
+94005,Brisbane,CA,San Mateo County,"415,650",US,37.68,-122.41
+94010,Burlingame,CA,San Mateo County,650,US,37.56,-122.37
+94011,Burlingame,CA,San Mateo County,650,US,37.57,-122.34
+94013,Daly City,CA,San Mateo County,650,US,37.7,-122.45
+94014,Daly City,CA,San Mateo County,650,US,37.69,-122.45
+94015,Daly City,CA,San Mateo County,650,US,37.67,-122.47
+94016,Daly City,CA,San Mateo County,650,US,37.7,-122.45
+94017,Daly City,CA,San Mateo County,650,US,37.69,-122.47
+94018,El Granada,CA,San Mateo County,,US,37.5,-122.47
+94019,Half Moon Bay,CA,San Mateo County,650,US,37.44,-122.41
+94020,La Honda,CA,San Mateo County,650,US,37.28,-122.24
+94021,Loma Mar,CA,San Mateo County,,US,37.27,-122.28
+94022,Los Altos,CA,Santa Clara County,650,US,37.36,-122.14
+94023,Los Altos,CA,Santa Clara County,650,US,37.37,-122.11
+94024,Los Altos,CA,Santa Clara County,650,US,37.34,-122.11
+94025,Menlo Park,CA,San Mateo County,650,US,37.45,-122.17
+94026,Menlo Park,CA,San Mateo County,650,US,37.47,-122.18
+94027,Atherton,CA,San Mateo County,,US,37.45,-122.2
+94028,Portola Valley,CA,San Mateo County,,US,37.37,-122.21
+94030,Millbrae,CA,San Mateo County,650,US,37.59,-122.4
+94035,Mountain View,CA,Santa Clara County,650,US,37.41,-122.05
+94037,Montara,CA,San Mateo County,,US,37.54,-122.5
+94038,Moss Beach,CA,San Mateo County,650,US,37.51,-122.5
+94039,Mountain View,CA,Santa Clara County,650,US,37.39,-122.07
+94040,Mountain View,CA,Santa Clara County,650,US,37.38,-122.08
+94041,Mountain View,CA,Santa Clara County,650,US,37.39,-122.08
+94042,Mountain View,CA,Santa Clara County,650,US,37.4,-122.08
+94043,Mountain View,CA,Santa Clara County,650,US,37.41,-122.05
+94044,Pacifica,CA,San Mateo County,650,US,37.61,-122.48
+94060,Pescadero,CA,San Mateo County,650,US,37.2,-122.3
+94061,Redwood City,CA,San Mateo County,650,US,37.46,-122.24
+94062,Redwood City,CA,San Mateo County,650,US,37.4,-122.29
+94063,Redwood City,CA,San Mateo County,650,US,37.49,-122.21
+94064,Redwood City,CA,San Mateo County,650,US,37.46,-122.25
+94065,Redwood City,CA,San Mateo County,650,US,37.53,-122.24
+94066,San Bruno,CA,San Mateo County,650,US,37.62,-122.43
+94070,San Carlos,CA,San Mateo County,650,US,37.49,-122.26
+94074,San Gregorio,CA,San Mateo County,,US,37.33,-122.34
+94080,South San Francisco,CA,San Mateo County,650,US,37.65,-122.42
+94083,South San Francisco,CA,San Mateo County,650,US,37.64,-122.41
+94085,Sunnyvale,CA,Santa Clara County,"408,669,510,650",US,37.38,-122.01
+94086,Sunnyvale,CA,Santa Clara County,"510,408,650,669",US,37.36,-122.02
+94087,Sunnyvale,CA,Santa Clara County,"408,669",US,37.35,-122.03
+94088,Sunnyvale,CA,Santa Clara County,408,US,37.39,-122.03
+94089,Sunnyvale,CA,Santa Clara County,"650,408,510",US,37.41,-122.02
+94101,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94102,San Francisco,CA,San Francisco County,"415,510",US,37.78,-122.42
+94103,San Francisco,CA,San Francisco County,"510,650,415",US,37.77,-122.41
+94104,San Francisco,CA,San Francisco County,"415,510,650",US,37.79,-122.4
+94105,San Francisco,CA,San Francisco County,"510,415,650",US,37.79,-122.39
+94106,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94107,San Francisco,CA,San Francisco County,"650,415,510",US,37.76,-122.39
+94108,San Francisco,CA,San Francisco County,"510,415,650",US,37.79,-122.41
+94109,San Francisco,CA,San Francisco County,415,US,37.79,-122.42
+94110,San Francisco,CA,San Francisco County,"510,415",US,37.74,-122.41
+94111,San Francisco,CA,San Francisco County,"415,510,650",US,37.8,-122.4
+94112,San Francisco,CA,San Francisco County,"510,415,650",US,37.72,-122.44
+94114,San Francisco,CA,San Francisco County,415,US,37.75,-122.43
+94115,San Francisco,CA,San Francisco County,415,US,37.78,-122.43
+94116,San Francisco,CA,San Francisco County,415,US,37.74,-122.48
+94117,San Francisco,CA,San Francisco County,415,US,37.77,-122.45
+94118,San Francisco,CA,San Francisco County,415,US,37.78,-122.46
+94119,San Francisco,CA,San Francisco County,415,US,37.78,-122.45
+94120,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94121,San Francisco,CA,San Francisco County,415,US,37.77,-122.49
+94122,San Francisco,CA,San Francisco County,415,US,37.76,-122.48
+94123,San Francisco,CA,San Francisco County,415,US,37.8,-122.43
+94124,San Francisco,CA,San Francisco County,"510,415",US,37.73,-122.38
+94125,San Francisco,CA,San Francisco County,415,US,37.73,-122.38
+94126,San Francisco,CA,San Francisco County,415,US,37.79,-122.39
+94127,San Francisco,CA,San Francisco County,"650,415",US,37.74,-122.46
+94128,San Francisco,CA,San Mateo County,415,US,37.61,-122.38
+94129,San Francisco,CA,San Francisco County,415,US,37.79,-122.46
+94130,San Francisco,CA,San Francisco County,510,US,37.82,-122.37
+94131,San Francisco,CA,San Francisco County,"415,650",US,37.74,-122.44
+94132,San Francisco,CA,San Francisco County,415,US,37.72,-122.48
+94133,San Francisco,CA,San Francisco County,415,US,37.8,-122.41
+94134,San Francisco,CA,San Francisco County,"415,510",US,37.72,-122.41
+94135,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94136,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94137,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94138,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94139,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94140,San Francisco,CA,San Francisco County,415,US,37.75,-122.41
+94141,San Francisco,CA,San Francisco County,415,US,37.76,-122.41
+94142,San Francisco,CA,San Francisco County,415,US,37.78,-122.41
+94143,San Francisco,CA,San Francisco County,415,US,37.76,-122.45
+94144,San Francisco,CA,San Francisco County,415,US,37.78,-122.46
+94145,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94146,San Francisco,CA,San Francisco County,415,US,37.75,-122.43
+94147,San Francisco,CA,San Francisco County,415,US,37.8,-122.43
+94150,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94151,San Francisco,CA,San Francisco County,415,US,37.79,-122.39
+94152,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94153,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94154,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94155,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94156,San Francisco,CA,San Francisco County,415,US,37.78,-122.4
+94158,San Francisco,CA,San Francisco County,415,US,37.77,-122.39
+94159,San Francisco,CA,San Francisco County,415,US,37.78,-122.45
+94160,San Francisco,CA,San Francisco County,415,US,37.71,-122.4
+94161,San Francisco,CA,San Francisco County,415,US,37.79,-122.4
+94162,San Francisco,CA,San Francisco County,415,US,37.78,-122.4
+94163,San Francisco,CA,San Francisco County,415,US,37.78,-122.4
+94164,San Francisco,CA,San Francisco County,415,US,37.78,-122.42
+94171,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94172,San Francisco,CA,San Francisco County,415,US,37.76,-122.48
+94175,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94177,San Francisco,CA,San Francisco County,415,US,37.79,-122.39
+94188,San Francisco,CA,San Francisco County,415,US,37.74,-122.38
+94199,San Francisco,CA,San Francisco County,415,US,37.77,-122.41
+94203,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94204,Sacramento,CA,Sacramento County,916,US,38.6,-121.44
+94205,Sacramento,CA,Sacramento County,916,US,38.47,-121.44
+94206,Sacramento,CA,Sacramento County,916,US,38.49,-121.45
+94207,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94208,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94209,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94211,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94229,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94230,Sacramento,CA,Sacramento County,916,US,38.47,-121.44
+94232,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94234,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94235,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94236,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94237,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94239,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94240,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94244,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94245,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94246,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94247,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94248,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94249,Sacramento,CA,Sacramento County,916,US,38.57,-121.46
+94250,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94252,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94254,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94256,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94257,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94258,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94259,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94261,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94262,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94263,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94267,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94268,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94269,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94271,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94273,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94274,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94277,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94278,Sacramento,CA,Sacramento County,916,US,38.57,-121.46
+94279,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94280,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94282,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94283,Sacramento,CA,Sacramento County,916,US,38.47,-121.44
+94284,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94285,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94286,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94287,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94288,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94289,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94290,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94291,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94293,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94294,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94295,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94296,Sacramento,CA,Sacramento County,916,US,38.57,-121.5
+94297,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+94298,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+94299,Sacramento,CA,Sacramento County,916,US,38.56,-121.46
+94301,Palo Alto,CA,Santa Clara County,650,US,37.44,-122.15
+94302,Palo Alto,CA,Santa Clara County,650,US,37.44,-122.15
+94303,Palo Alto,CA,San Mateo County,650,US,37.45,-122.1
+94304,Palo Alto,CA,Santa Clara County,650,US,37.37,-122.18
+94305,Stanford,CA,Santa Clara County,650,US,37.41,-122.17
+94306,Palo Alto,CA,Santa Clara County,650,US,37.41,-122.13
+94309,Palo Alto,CA,Santa Clara County,650,US,37.41,-122.16
+94401,San Mateo,CA,San Mateo County,650,US,37.57,-122.32
+94402,San Mateo,CA,San Mateo County,650,US,37.52,-122.35
+94403,San Mateo,CA,San Mateo County,650,US,37.54,-122.3
+94404,San Mateo,CA,San Mateo County,650,US,37.55,-122.26
+94497,San Mateo,CA,San Mateo County,650,US,37.56,-122.32
+94501,Alameda,CA,Alameda County,510,US,37.77,-122.27
+94502,Alameda,CA,Alameda County,510,US,37.73,-122.24
+94503,American Canyon,CA,Napa County,707,US,38.18,-122.25
+94505,Discovery Bay,CA,Contra Costa County,,US,37.87,-121.6
+94506,Danville,CA,Contra Costa County,925,US,37.78,-121.88
+94507,Alamo,CA,Contra Costa County,,US,37.85,-122.02
+94508,Angwin,CA,Napa County,707,US,38.57,-122.44
+94509,Antioch,CA,Contra Costa County,925,US,37.99,-121.81
+94510,Benicia,CA,Solano County,707,US,38.11,-122.13
+94511,Bethel Island,CA,Contra Costa County,,US,38.03,-121.64
+94512,Birds Landing,CA,Solano County,707,US,38.13,-121.83
+94513,Brentwood,CA,Contra Costa County,925,US,37.87,-121.68
+94514,Byron,CA,Contra Costa County,925,US,37.85,-121.62
+94515,Calistoga,CA,Napa County,707,US,38.62,-122.61
+94516,Canyon,CA,Contra Costa County,,US,37.83,-122.17
+94517,Clayton,CA,Contra Costa County,925,US,37.88,-121.84
+94518,Concord,CA,Contra Costa County,925,US,37.95,-122.02
+94519,Concord,CA,Contra Costa County,925,US,37.99,-122
+94520,Concord,CA,Contra Costa County,925,US,38,-122.03
+94521,Concord,CA,Contra Costa County,925,US,37.96,-121.96
+94522,Concord,CA,Contra Costa County,925,US,38.01,-122.02
+94523,Pleasant Hill,CA,Contra Costa County,925,US,37.95,-122.07
+94524,Concord,CA,Contra Costa County,925,US,37.97,-122.05
+94525,Crockett,CA,Contra Costa County,510,US,38.05,-122.23
+94526,Danville,CA,Contra Costa County,925,US,37.81,-121.97
+94527,Concord,CA,Contra Costa County,925,US,37.97,-122.05
+94528,Diablo,CA,Contra Costa County,,US,37.85,-121.95
+94529,Concord,CA,Contra Costa County,925,US,37.87,-122.04
+94530,El Cerrito,CA,Contra Costa County,,US,37.91,-122.3
+94531,Antioch,CA,Contra Costa County,925,US,37.96,-121.76
+94533,Fairfield,CA,Solano County,707,US,38.28,-122
+94534,Fairfield,CA,Solano County,707,US,38.23,-122.12
+94535,Travis Afb,CA,Solano County,707,US,38.28,-121.92
+94536,Fremont,CA,Alameda County,"408,510,650,669,925",US,37.56,-121.98
+94537,Fremont,CA,Alameda County,510,US,37.55,-122.01
+94538,Fremont,CA,Alameda County,"408,510,650,669,925",US,37.5,-121.96
+94539,Fremont,CA,Alameda County,"408,510,650,669,925",US,37.51,-121.89
+94540,Hayward,CA,Alameda County,510,US,37.65,-122.09
+94541,Hayward,CA,Alameda County,"925,510",US,37.67,-122.08
+94542,Hayward,CA,Alameda County,510,US,37.65,-122.04
+94543,Hayward,CA,Alameda County,510,US,37.67,-122.08
+94544,Hayward,CA,Alameda County,"510,925",US,37.63,-122.04
+94545,Hayward,CA,Alameda County,"510,925",US,37.62,-122.11
+94546,Castro Valley,CA,Alameda County,510,US,37.7,-122.08
+94547,Hercules,CA,Contra Costa County,510,US,38.01,-122.25
+94548,Knightsen,CA,Contra Costa County,,US,37.97,-121.65
+94549,Lafayette,CA,Contra Costa County,925,US,37.9,-122.11
+94550,Livermore,CA,Alameda County,925,US,37.68,-121.75
+94551,Livermore,CA,Alameda County,925,US,37.77,-121.75
+94552,Castro Valley,CA,Alameda County,510,US,37.69,-122.01
+94553,Martinez,CA,Contra Costa County,925,US,37.98,-122.15
+94555,Fremont,CA,Alameda County,510,US,37.55,-122.07
+94556,Moraga,CA,Contra Costa County,925,US,37.83,-122.1
+94557,Hayward,CA,Alameda County,510,US,37.62,-122.1
+94558,Napa,CA,Napa County,707,US,38.55,-122.15
+94559,Napa,CA,Napa County,707,US,38.25,-122.31
+94560,Newark,CA,Alameda County,510,US,37.51,-122.04
+94561,Oakley,CA,Contra Costa County,925,US,37.99,-121.68
+94562,Oakville,CA,Napa County,707,US,38.42,-122.4
+94563,Orinda,CA,Contra Costa County,925,US,37.89,-122.19
+94564,Pinole,CA,Contra Costa County,510,US,37.99,-122.27
+94565,Pittsburg,CA,Contra Costa County,925,US,38.01,-121.91
+94566,Pleasanton,CA,Alameda County,925,US,37.65,-121.85
+94567,Pope Valley,CA,Napa County,707,US,38.67,-122.44
+94568,Dublin,CA,Alameda County,925,US,37.71,-121.91
+94569,Port Costa,CA,Contra Costa County,,US,38.03,-122.19
+94570,Moraga,CA,Contra Costa County,925,US,38.11,-122.13
+94571,Rio Vista,CA,Solano County,707,US,38.18,-121.73
+94572,Rodeo,CA,Contra Costa County,510,US,38.03,-122.25
+94573,Rutherford,CA,Napa County,707,US,38.46,-122.43
+94574,Saint Helena,CA,Napa County,707,US,38.55,-122.39
+94575,Moraga,CA,Contra Costa County,925,US,37.84,-122.11
+94576,Deer Park,CA,Napa County,707,US,38.55,-122.48
+94577,San Leandro,CA,Alameda County,510,US,37.71,-122.16
+94578,San Leandro,CA,Alameda County,510,US,37.7,-122.12
+94579,San Leandro,CA,Alameda County,510,US,37.68,-122.15
+94580,San Lorenzo,CA,Alameda County,,US,37.68,-122.13
+94581,Napa,CA,Napa County,707,US,38.29,-122.28
+94582,San Ramon,CA,Contra Costa County,925,US,37.76,-121.93
+94583,San Ramon,CA,Contra Costa County,925,US,37.78,-121.99
+94585,Suisun City,CA,Solano County,707,US,38.19,-121.93
+94586,Sunol,CA,Alameda County,925,US,37.56,-121.84
+94587,Union City,CA,Alameda County,510,US,37.6,-122.02
+94588,Pleasanton,CA,Alameda County,925,US,37.67,-121.93
+94589,Vallejo,CA,Solano County,707,US,38.13,-122.25
+94590,Vallejo,CA,Solano County,707,US,38.09,-122.25
+94591,Vallejo,CA,Solano County,707,US,38.11,-122.2
+94592,Vallejo,CA,Solano County,707,US,38.11,-122.29
+94595,Walnut Creek,CA,Contra Costa County,"925,510,707",US,37.86,-122.07
+94596,Walnut Creek,CA,Contra Costa County,"510,707,925",US,37.89,-122.03
+94597,Walnut Creek,CA,Contra Costa County,925,US,37.91,-122.07
+94598,Walnut Creek,CA,Contra Costa County,"510,707,925",US,37.91,-122.01
+94599,Yountville,CA,Napa County,707,US,38.41,-122.36
+94601,Oakland,CA,Alameda County,510,US,37.77,-122.21
+94602,Oakland,CA,Alameda County,510,US,37.8,-122.21
+94603,Oakland,CA,Alameda County,510,US,37.74,-122.18
+94604,Oakland,CA,Alameda County,510,US,37.8,-122.26
+94605,Oakland,CA,Alameda County,510,US,37.75,-122.13
+94606,Oakland,CA,Alameda County,510,US,37.78,-122.24
+94607,Oakland,CA,Alameda County,"415,510",US,37.81,-122.3
+94608,Emeryville,CA,Alameda County,510,US,37.83,-122.29
+94609,Oakland,CA,Alameda County,510,US,37.83,-122.26
+94610,Oakland,CA,Alameda County,"415,510",US,37.81,-122.24
+94611,Oakland,CA,Alameda County,510,US,37.83,-122.22
+94612,Oakland,CA,Alameda County,"415,925,510",US,37.81,-122.27
+94613,Oakland,CA,Alameda County,510,US,37.78,-122.18
+94614,Oakland,CA,Alameda County,510,US,37.72,-122.2
+94615,Oakland,CA,Alameda County,"415,510,925",US,37.8,-122.29
+94617,Oakland,CA,Alameda County,"415,510,925",US,37.75,-122.14
+94618,Oakland,CA,Alameda County,510,US,37.84,-122.23
+94619,Oakland,CA,Alameda County,510,US,37.78,-122.12
+94620,Piedmont,CA,Alameda County,510,US,37.77,-122.21
+94621,Oakland,CA,Alameda County,510,US,37.73,-122.2
+94622,Oakland,CA,Alameda County,510,US,37.74,-122.19
+94623,Oakland,CA,Alameda County,510,US,37.8,-122.29
+94624,Oakland,CA,Alameda County,510,US,37.74,-122.17
+94625,Oakland,CA,Alameda County,510,US,37.8,-122.31
+94649,Oakland,CA,Alameda County,510,US,37.8,-122.26
+94659,Oakland,CA,Alameda County,510,US,37.81,-122.26
+94660,Oakland,CA,Alameda County,510,US,37.79,-122.27
+94661,Oakland,CA,Alameda County,510,US,37.82,-122.2
+94662,Emeryville,CA,Alameda County,510,US,37.84,-122.29
+94666,Oakland,CA,Alameda County,510,US,37.8,-122.26
+94701,Berkeley,CA,Alameda County,510,US,37.86,-122.27
+94702,Berkeley,CA,Alameda County,510,US,37.87,-122.29
+94703,Berkeley,CA,Alameda County,510,US,37.86,-122.28
+94704,Berkeley,CA,Alameda County,510,US,37.87,-122.26
+94705,Berkeley,CA,Alameda County,510,US,37.86,-122.24
+94706,Albany,CA,Alameda County,510,US,37.89,-122.3
+94707,Berkeley,CA,Alameda County,510,US,37.9,-122.28
+94708,Berkeley,CA,Alameda County,510,US,37.9,-122.26
+94709,Berkeley,CA,Alameda County,510,US,37.88,-122.27
+94710,Berkeley,CA,Alameda County,510,US,37.87,-122.3
+94712,Berkeley,CA,Alameda County,510,US,37.86,-122.26
+94720,Berkeley,CA,Alameda County,510,US,37.87,-122.25
+94801,Richmond,CA,Contra Costa County,510,US,37.96,-122.38
+94802,Richmond,CA,Contra Costa County,510,US,37.93,-122.35
+94803,El Sobrante,CA,Contra Costa County,510,US,37.95,-122.26
+94804,Richmond,CA,Contra Costa County,510,US,37.92,-122.34
+94805,Richmond,CA,Contra Costa County,510,US,37.94,-122.31
+94806,San Pablo,CA,Contra Costa County,,US,37.98,-122.33
+94807,Richmond,CA,Contra Costa County,510,US,37.92,-122.35
+94808,Richmond,CA,Contra Costa County,510,US,37.93,-122.34
+94820,El Sobrante,CA,Contra Costa County,510,US,37.97,-122.29
+94850,Richmond,CA,Contra Costa County,510,US,37.9,-122.32
+94901,San Rafael,CA,Marin County,415,US,37.97,-122.5
+94903,San Rafael,CA,Marin County,415,US,38.02,-122.54
+94904,Greenbrae,CA,Marin County,415,US,37.94,-122.56
+94912,San Rafael,CA,Marin County,415,US,37.97,-122.5
+94913,San Rafael,CA,Marin County,415,US,38.02,-122.54
+94914,Kentfield,CA,Marin County,,US,37.94,-122.53
+94915,San Rafael,CA,Marin County,415,US,37.95,-122.5
+94920,Belvedere Tiburon,CA,Marin County,415,US,37.89,-122.47
+94922,Bodega,CA,Sonoma County,707,US,38.33,-122.97
+94923,Bodega Bay,CA,Sonoma County,707,US,38.35,-123.06
+94924,Bolinas,CA,Marin County,415,US,37.94,-122.73
+94925,Corte Madera,CA,Marin County,415,US,37.92,-122.51
+94926,Rohnert Park,CA,Sonoma County,707,US,38.32,-122.7
+94927,Rohnert Park,CA,Sonoma County,707,US,38.34,-122.69
+94928,Rohnert Park,CA,Sonoma County,707,US,38.34,-122.7
+94929,Dillon Beach,CA,Marin County,,US,38.25,-122.96
+94930,Fairfax,CA,Marin County,415,US,37.98,-122.6
+94931,Cotati,CA,Sonoma County,707,US,38.31,-122.7
+94933,Forest Knolls,CA,Marin County,,US,38.01,-122.69
+94937,Inverness,CA,Marin County,415,US,38.11,-122.92
+94938,Lagunitas,CA,Marin County,,US,38.03,-122.7
+94939,Larkspur,CA,Marin County,415,US,37.93,-122.53
+94940,Marshall,CA,Marin County,707,US,38.16,-122.84
+94941,Mill Valley,CA,Marin County,415,US,37.89,-122.56
+94942,Mill Valley,CA,Marin County,415,US,37.9,-122.52
+94945,Novato,CA,Marin County,415,US,38.13,-122.56
+94946,Nicasio,CA,Marin County,415,US,38.07,-122.68
+94947,Novato,CA,Marin County,415,US,38.1,-122.63
+94948,Novato,CA,Marin County,415,US,38.13,-122.56
+94949,Novato,CA,Marin County,415,US,38.06,-122.54
+94950,Olema,CA,Marin County,,US,38.02,-122.75
+94951,Penngrove,CA,Sonoma County,707,US,38.31,-122.64
+94952,Petaluma,CA,Sonoma County,707,US,38.21,-122.76
+94953,Petaluma,CA,Sonoma County,707,US,38.26,-122.63
+94954,Petaluma,CA,Sonoma County,707,US,38.23,-122.56
+94955,Petaluma,CA,Sonoma County,707,US,38.22,-122.55
+94956,Point Reyes Station,CA,Marin County,415,US,38.05,-122.86
+94957,Ross,CA,Marin County,,US,37.96,-122.56
+94960,San Anselmo,CA,Marin County,415,US,37.99,-122.58
+94963,San Geronimo,CA,Marin County,,US,38.01,-122.67
+94964,San Quentin,CA,Marin County,,US,37.94,-122.49
+94965,Sausalito,CA,Marin County,415,US,37.84,-122.53
+94966,Sausalito,CA,Marin County,415,US,37.86,-122.49
+94970,Stinson Beach,CA,Marin County,415,US,37.91,-122.65
+94971,Tomales,CA,Marin County,,US,38.23,-122.93
+94972,Valley Ford,CA,Marin County,707,US,38.29,-122.94
+94973,Woodacre,CA,Marin County,,US,38,-122.64
+94974,San Quentin,CA,Marin County,415,US,37.95,-122.54
+94975,Petaluma,CA,Sonoma County,707,US,38.32,-122.64
+94976,Corte Madera,CA,Marin County,415,US,37.92,-122.52
+94977,Larkspur,CA,Marin County,415,US,37.93,-122.53
+94978,Fairfax,CA,Marin County,415,US,37.98,-122.58
+94979,San Anselmo,CA,Marin County,415,US,37.97,-122.56
+94998,Novato,CA,Marin County,415,US,38.1,-122.57
+94999,Petaluma,CA,Sonoma County,707,US,38.32,-122.64
+95001,Aptos,CA,Santa Cruz County,831,US,36.97,-121.89
+95002,Alviso,CA,Santa Clara County,408,US,37.44,-121.99
+95003,Aptos,CA,Santa Cruz County,831,US,37,-121.87
+95004,Aromas,CA,Monterey County,831,US,36.87,-121.63
+95005,Ben Lomond,CA,Santa Cruz County,831,US,37.1,-122.08
+95006,Boulder Creek,CA,Santa Cruz County,831,US,37.16,-122.15
+95007,Brookdale,CA,Santa Cruz County,831,US,37.1,-122.11
+95008,Campbell,CA,Santa Clara County,"408,669",US,37.28,-121.95
+95009,Campbell,CA,Santa Clara County,408,US,37.28,-121.94
+95010,Capitola,CA,Santa Cruz County,831,US,36.97,-121.95
+95011,Campbell,CA,Santa Clara County,408,US,37.29,-121.95
+95012,Castroville,CA,Monterey County,831,US,36.76,-121.75
+95013,Coyote,CA,Santa Clara County,408,US,37.22,-121.74
+95014,Cupertino,CA,Santa Clara County,408,US,37.3,-122.09
+95015,Cupertino,CA,Santa Clara County,408,US,37.32,-122.05
+95017,Davenport,CA,Santa Cruz County,831,US,37.09,-122.24
+95018,Felton,CA,Santa Cruz County,831,US,37.08,-122.05
+95019,Freedom,CA,Santa Cruz County,831,US,36.94,-121.78
+95020,Gilroy,CA,Santa Clara County,"408,669",US,37.06,-121.55
+95021,Gilroy,CA,Santa Clara County,408,US,37.01,-121.55
+95023,Hollister,CA,San Benito County,"408,831",US,36.89,-121.24
+95024,Hollister,CA,San Benito County,831,US,36.84,-121.39
+95026,Holy City,CA,Santa Clara County,,US,37.15,-121.98
+95030,Los Gatos,CA,Santa Clara County,"669,408",US,37.22,-121.99
+95031,Los Gatos,CA,Santa Clara County,408,US,37.12,-121.93
+95032,Los Gatos,CA,Santa Clara County,"408,669",US,37.23,-121.95
+95033,Los Gatos,CA,Santa Cruz County,"408,669",US,37.13,-121.94
+95035,Milpitas,CA,Santa Clara County,408,US,37.44,-121.87
+95036,Milpitas,CA,Santa Clara County,408,US,37.24,-121.97
+95037,Morgan Hill,CA,Santa Clara County,"408,669",US,37.17,-121.65
+95038,Morgan Hill,CA,Santa Clara County,408,US,37.08,-121.61
+95039,Moss Landing,CA,Monterey County,,US,36.83,-121.78
+95041,Mount Hermon,CA,Santa Cruz County,831,US,37.05,-122.06
+95042,New Almaden,CA,Santa Clara County,408,US,37.17,-121.82
+95043,Paicines,CA,San Benito County,831,US,36.53,-120.96
+95044,Redwood Estates,CA,Santa Clara County,,US,37.15,-121.98
+95045,San Juan Bautista,CA,San Benito County,"408,831",US,36.83,-121.51
+95046,San Martin,CA,Santa Clara County,"408,669",US,37.1,-121.6
+95050,Santa Clara,CA,Santa Clara County,408,US,37.34,-121.95
+95051,Santa Clara,CA,Santa Clara County,408,US,37.35,-121.98
+95052,Santa Clara,CA,Santa Clara County,408,US,37.35,-121.95
+95053,Santa Clara,CA,Santa Clara County,408,US,37.35,-121.94
+95054,Santa Clara,CA,Santa Clara County,408,US,37.39,-121.96
+95055,Santa Clara,CA,Santa Clara County,408,US,37.33,-121.98
+95056,Santa Clara,CA,Santa Clara County,408,US,37.4,-121.96
+95060,Santa Cruz,CA,Santa Cruz County,831,US,37.04,-122.1
+95061,Santa Cruz,CA,Santa Cruz County,831,US,36.97,-122.02
+95062,Santa Cruz,CA,Santa Cruz County,831,US,36.97,-121.98
+95063,Santa Cruz,CA,Santa Cruz County,831,US,36.97,-122
+95064,Santa Cruz,CA,Santa Cruz County,831,US,36.99,-122.06
+95065,Santa Cruz,CA,Santa Cruz County,831,US,37.03,-121.98
+95066,Scotts Valley,CA,Santa Cruz County,831,US,37.06,-122.01
+95067,Scotts Valley,CA,Santa Cruz County,831,US,36.97,-122.03
+95070,Saratoga,CA,Santa Clara County,408,US,37.25,-122.06
+95071,Saratoga,CA,Santa Clara County,408,US,37.25,-122.03
+95073,Soquel,CA,Santa Cruz County,831,US,37.02,-121.94
+95075,Tres Pinos,CA,San Benito County,"408,831",US,36.77,-121.29
+95076,Watsonville,CA,Santa Cruz County,"408,831",US,36.95,-121.72
+95077,Watsonville,CA,Santa Cruz County,831,US,36.91,-121.75
+95101,San Jose,CA,Santa Clara County,"408,510,650,669",US,37.38,-121.89
+95103,San Jose,CA,Santa Clara County,408,US,37.33,-121.89
+95106,San Jose,CA,Santa Clara County,408,US,37.33,-121.89
+95108,San Jose,CA,Santa Clara County,408,US,37.33,-122.08
+95109,San Jose,CA,Santa Clara County,408,US,37.33,-121.89
+95110,San Jose,CA,Santa Clara County,"408,650,669",US,37.34,-121.9
+95111,San Jose,CA,Santa Clara County,408,US,37.28,-121.83
+95112,San Jose,CA,Santa Clara County,"408,650,669",US,37.34,-121.88
+95113,San Jose,CA,Santa Clara County,"408,650,669",US,37.33,-121.89
+95115,San Jose,CA,Santa Clara County,408,US,37.3,-121.89
+95116,San Jose,CA,Santa Clara County,408,US,37.35,-121.85
+95117,San Jose,CA,Santa Clara County,408,US,37.31,-121.96
+95118,San Jose,CA,Santa Clara County,408,US,37.25,-121.88
+95119,San Jose,CA,Santa Clara County,"408,669",US,37.22,-121.78
+95120,San Jose,CA,Santa Clara County,408,US,37.19,-121.83
+95121,San Jose,CA,Santa Clara County,408,US,37.3,-121.8
+95122,San Jose,CA,Santa Clara County,408,US,37.33,-121.83
+95123,San Jose,CA,Santa Clara County,"408,669",US,37.23,-121.82
+95124,San Jose,CA,Santa Clara County,408,US,37.25,-121.92
+95125,San Jose,CA,Santa Clara County,408,US,37.29,-121.88
+95126,San Jose,CA,Santa Clara County,408,US,37.32,-121.91
+95127,San Jose,CA,Santa Clara County,408,US,37.37,-121.8
+95128,San Jose,CA,Santa Clara County,408,US,37.31,-121.93
+95129,San Jose,CA,Santa Clara County,408,US,37.3,-122
+95130,San Jose,CA,Santa Clara County,408,US,37.28,-121.98
+95131,San Jose,CA,Santa Clara County,"408,510,650,669",US,37.38,-121.9
+95132,San Jose,CA,Santa Clara County,408,US,37.42,-121.77
+95133,San Jose,CA,Santa Clara County,408,US,37.37,-121.86
+95134,San Jose,CA,Santa Clara County,"408,510,650,669",US,37.42,-121.94
+95135,San Jose,CA,Santa Clara County,408,US,37.29,-121.69
+95136,San Jose,CA,Santa Clara County,408,US,37.27,-121.84
+95138,San Jose,CA,Santa Clara County,"408,669",US,37.24,-121.73
+95139,San Jose,CA,Santa Clara County,408,US,37.22,-121.76
+95140,Mount Hamilton,CA,Santa Clara County,408,US,37.36,-121.67
+95141,San Jose,CA,Santa Clara County,408,US,37.17,-121.75
+95148,San Jose,CA,Santa Clara County,408,US,37.33,-121.77
+95150,San Jose,CA,Santa Clara County,408,US,37.29,-121.91
+95151,San Jose,CA,Santa Clara County,408,US,37.29,-121.78
+95152,San Jose,CA,Santa Clara County,408,US,37.41,-121.82
+95153,San Jose,CA,Santa Clara County,408,US,37.24,-121.84
+95154,San Jose,CA,Santa Clara County,408,US,37.26,-121.91
+95155,San Jose,CA,Santa Clara County,408,US,37.31,-121.9
+95156,San Jose,CA,Santa Clara County,408,US,37.35,-121.84
+95157,San Jose,CA,Santa Clara County,408,US,37.3,-121.97
+95158,San Jose,CA,Santa Clara County,408,US,37.26,-121.87
+95159,San Jose,CA,Santa Clara County,408,US,37.31,-121.93
+95160,San Jose,CA,Santa Clara County,408,US,37.21,-121.86
+95161,San Jose,CA,Santa Clara County,408,US,37.38,-121.89
+95164,San Jose,CA,Santa Clara County,408,US,37.39,-121.92
+95170,San Jose,CA,Santa Clara County,408,US,37.31,-122
+95172,San Jose,CA,Santa Clara County,408,US,37.33,-121.88
+95173,San Jose,CA,Santa Clara County,408,US,37.33,-121.89
+95190,San Jose,CA,Santa Clara County,408,US,37.37,-121.9
+95191,San Jose,CA,Santa Clara County,408,US,37.32,-121.91
+95192,San Jose,CA,Santa Clara County,408,US,37.34,-121.89
+95193,San Jose,CA,Santa Clara County,408,US,37.24,-121.83
+95194,San Jose,CA,Santa Clara County,408,US,37.34,-121.88
+95196,San Jose,CA,Santa Clara County,408,US,37.33,-121.89
+95201,Stockton,CA,San Joaquin County,209,US,37.9,-121.22
+95202,Stockton,CA,San Joaquin County,209,US,37.96,-121.29
+95203,Stockton,CA,San Joaquin County,209,US,37.95,-121.32
+95204,Stockton,CA,San Joaquin County,209,US,37.97,-121.32
+95205,Stockton,CA,San Joaquin County,209,US,37.96,-121.26
+95206,Stockton,CA,San Joaquin County,209,US,37.9,-121.4
+95207,Stockton,CA,San Joaquin County,209,US,38,-121.32
+95208,Stockton,CA,San Joaquin County,209,US,37.95,-121.43
+95209,Stockton,CA,San Joaquin County,209,US,38.04,-121.35
+95210,Stockton,CA,San Joaquin County,209,US,38.02,-121.3
+95211,Stockton,CA,San Joaquin County,209,US,37.98,-121.31
+95212,Stockton,CA,San Joaquin County,209,US,38.05,-121.23
+95213,Stockton,CA,San Joaquin County,209,US,37.95,-121.43
+95214,Stockton,CA,,,US,37.95,-121.29
+95215,Stockton,CA,San Joaquin County,209,US,37.95,-121.12
+95219,Stockton,CA,San Joaquin County,209,US,38.01,-121.38
+95220,Acampo,CA,San Joaquin County,209,US,38.19,-121.25
+95221,Altaville,CA,Calaveras County,209,US,38.07,-120.55
+95222,Angels Camp,CA,Calaveras County,209,US,38.04,-120.61
+95223,Arnold,CA,Calaveras County,,US,38.35,-120.2
+95224,Avery,CA,Calaveras County,209,US,38.21,-120.33
+95225,Burson,CA,Calaveras County,209,US,38.2,-120.89
+95226,Campo Seco,CA,Calaveras County,209,US,38.23,-120.86
+95227,Clements,CA,San Joaquin County,209,US,38.21,-121.03
+95228,Copperopolis,CA,Calaveras County,209,US,37.94,-120.66
+95229,Douglas Flat,CA,Calaveras County,209,US,38.11,-120.45
+95230,Farmington,CA,San Joaquin County,209,US,37.96,-120.87
+95231,French Camp,CA,San Joaquin County,209,US,37.87,-121.29
+95232,Glencoe,CA,Calaveras County,209,US,38.35,-120.58
+95233,Hathaway Pines,CA,Calaveras County,209,US,38.18,-120.37
+95234,Holt,CA,San Joaquin County,209,US,37.93,-121.53
+95236,Linden,CA,San Joaquin County,209,US,38.05,-121.03
+95237,Lockeford,CA,San Joaquin County,209,US,38.17,-121.13
+95240,Lodi,CA,San Joaquin County,209,US,38.11,-121.16
+95241,Lodi,CA,San Joaquin County,209,US,38.15,-121.3
+95242,Lodi,CA,San Joaquin County,209,US,38.13,-121.39
+95245,Mokelumne Hill,CA,Calaveras County,209,US,38.29,-120.58
+95246,Mountain Ranch,CA,Calaveras County,209,US,38.23,-120.49
+95247,Murphys,CA,Calaveras County,209,US,38.14,-120.45
+95248,Rail Road Flat,CA,Calaveras County,209,US,38.31,-120.51
+95249,San Andreas,CA,Calaveras County,209,US,38.2,-120.62
+95250,San Andreas,CA,Calaveras County,209,US,38.24,-120.43
+95251,Vallecito,CA,Calaveras County,209,US,38.08,-120.45
+95252,Valley Springs,CA,Calaveras County,209,US,38.16,-120.84
+95253,Victor,CA,San Joaquin County,209,US,38.14,-121.2
+95254,Wallace,CA,Calaveras County,209,US,38.19,-120.95
+95255,West Point,CA,Calaveras County,209,US,38.42,-120.44
+95257,Wilseyville,CA,Calaveras County,209,US,38.38,-120.44
+95258,Woodbridge,CA,San Joaquin County,209,US,38.17,-121.31
+95267,Stockton,CA,San Joaquin County,209,US,38,-121.31
+95269,Stockton,CA,San Joaquin County,209,US,38.01,-121.32
+95296,Stockton,CA,San Joaquin County,209,US,38.02,-121.3
+95297,Stockton,CA,San Joaquin County,209,US,37.96,-121.3
+95301,Atwater,CA,Merced County,209,US,37.32,-120.63
+95303,Ballico,CA,Merced County,209,US,37.47,-120.65
+95304,Tracy,CA,San Joaquin County,209,US,37.69,-121.39
+95305,Big Oak Flat,CA,Tuolumne County,209,US,37.79,-120.27
+95306,Catheys Valley,CA,Mariposa County,209,US,37.38,-120.12
+95307,Ceres,CA,Stanislaus County,209,US,37.55,-120.96
+95309,Chinese Camp,CA,Tuolumne County,209,US,37.86,-120.44
+95310,Columbia,CA,Tuolumne County,209,US,38.11,-120.38
+95311,Coulterville,CA,Mariposa County,209,US,37.71,-120.12
+95312,Cressey,CA,Merced County,209,US,37.42,-120.65
+95313,Crows Landing,CA,Stanislaus County,209,US,37.39,-121.05
+95314,Pinecrest,CA,Tuolumne County,209,US,38.34,-119.83
+95315,Delhi,CA,Merced County,209,US,37.42,-120.77
+95316,Denair,CA,Stanislaus County,209,US,37.54,-120.68
+95317,El Nido,CA,Merced County,209,US,37.12,-120.51
+95318,El Portal,CA,Mariposa County,,US,37.65,-119.8
+95319,Empire,CA,Stanislaus County,209,US,37.64,-120.9
+95320,Escalon,CA,San Joaquin County,209,US,37.83,-121.03
+95321,Groveland,CA,Tuolumne County,209,US,37.85,-120.01
+95322,Gustine,CA,Merced County,209,US,37.14,-121.04
+95323,Hickman,CA,Stanislaus County,209,US,37.6,-120.68
+95324,Hilmar,CA,Merced County,209,US,37.39,-120.89
+95325,Hornitos,CA,Mariposa County,209,US,37.43,-120.24
+95326,Hughson,CA,Stanislaus County,209,US,37.59,-120.85
+95327,Jamestown,CA,Tuolumne County,209,US,37.85,-120.49
+95328,Keyes,CA,Stanislaus County,209,US,37.55,-120.91
+95329,La Grange,CA,Tuolumne County,209,US,37.66,-120.45
+95330,Lathrop,CA,San Joaquin County,209,US,37.82,-121.29
+95333,Le Grand,CA,Merced County,209,US,37.25,-120.2
+95334,Livingston,CA,Merced County,209,US,37.34,-120.75
+95335,Long Barn,CA,Tuolumne County,209,US,38.12,-120.08
+95336,Manteca,CA,San Joaquin County,209,US,37.83,-121.18
+95337,Manteca,CA,San Joaquin County,209,US,37.73,-121.24
+95338,Mariposa,CA,Mariposa County,209,US,37.49,-120
+95340,Merced,CA,Merced County,209,US,37.35,-120.42
+95341,Merced,CA,Merced County,209,US,37.23,-120.5
+95343,Merced,CA,Merced County,209,US,37.29,-120.48
+95344,Merced,CA,Merced County,209,US,37.37,-120.61
+95345,Midpines,CA,Mariposa County,209,US,37.58,-119.97
+95346,Mi Wuk Village,CA,Tuolumne County,209,US,38.07,-120.17
+95347,Moccasin,CA,Tuolumne County,209,US,37.78,-120.3
+95348,Merced,CA,Merced County,209,US,37.41,-120.5
+95350,Modesto,CA,Stanislaus County,209,US,37.67,-121.01
+95351,Modesto,CA,Stanislaus County,209,US,37.63,-121.01
+95352,Modesto,CA,Stanislaus County,209,US,37.66,-120.99
+95353,Modesto,CA,Stanislaus County,209,US,37.66,-120.94
+95354,Modesto,CA,Stanislaus County,209,US,37.63,-120.97
+95355,Modesto,CA,Stanislaus County,209,US,37.67,-120.95
+95356,Modesto,CA,Stanislaus County,209,US,37.72,-121.03
+95357,Modesto,CA,Stanislaus County,209,US,37.67,-120.89
+95358,Modesto,CA,Stanislaus County,209,US,37.65,-121.13
+95360,Newman,CA,Stanislaus County,209,US,37.28,-121.2
+95361,Oakdale,CA,Stanislaus County,209,US,37.8,-120.74
+95363,Patterson,CA,Stanislaus County,209,US,37.45,-121.23
+95364,Pinecrest,CA,Tuolumne County,209,US,38.28,-119.82
+95365,Planada,CA,Merced County,209,US,37.32,-120.3
+95366,Ripon,CA,San Joaquin County,209,US,37.75,-121.12
+95367,Riverbank,CA,Stanislaus County,209,US,37.73,-120.95
+95368,Salida,CA,Stanislaus County,209,US,37.71,-121.09
+95369,Snelling,CA,Merced County,209,US,37.54,-120.45
+95370,Sonora,CA,Tuolumne County,209,US,37.98,-120.39
+95372,Soulsbyville,CA,Tuolumne County,209,US,37.99,-120.26
+95373,Standard,CA,Tuolumne County,209,US,37.96,-120.31
+95374,Stevinson,CA,Merced County,209,US,37.3,-120.87
+95375,Strawberry,CA,Tuolumne County,209,US,38.19,-120.01
+95376,Tracy,CA,San Joaquin County,209,US,37.73,-121.42
+95377,Tracy,CA,San Joaquin County,209,US,37.62,-121.45
+95378,Tracy,CA,San Joaquin County,209,US,37.8,-121.55
+95379,Tuolumne,CA,Tuolumne County,209,US,37.95,-120.2
+95380,Turlock,CA,Stanislaus County,209,US,37.47,-120.85
+95381,Turlock,CA,Stanislaus County,209,US,37.49,-120.85
+95382,Turlock,CA,Stanislaus County,209,US,37.53,-120.84
+95383,Twain Harte,CA,Tuolumne County,209,US,38.08,-120.24
+95385,Vernalis,CA,Stanislaus County,209,US,37.61,-121.25
+95386,Waterford,CA,Stanislaus County,209,US,37.68,-120.64
+95387,Westley,CA,Stanislaus County,209,US,37.54,-121.29
+95388,Winton,CA,Merced County,209,US,37.41,-120.59
+95389,Yosemite National Park,CA,Mariposa County,209,US,37.63,-119.68
+95391,Tracy,CA,San Joaquin County,209,US,37.76,-121.63
+95397,Modesto,CA,Stanislaus County,209,US,37.65,-120.99
+95401,Santa Rosa,CA,Sonoma County,707,US,38.44,-122.78
+95402,Santa Rosa,CA,Sonoma County,707,US,38.47,-122.6
+95403,Santa Rosa,CA,Sonoma County,707,US,38.5,-122.76
+95404,Santa Rosa,CA,Sonoma County,707,US,38.53,-122.69
+95405,Santa Rosa,CA,Sonoma County,707,US,38.43,-122.67
+95406,Santa Rosa,CA,Sonoma County,707,US,38.45,-122.72
+95407,Santa Rosa,CA,Sonoma County,707,US,38.39,-122.75
+95409,Santa Rosa,CA,Sonoma County,707,US,38.45,-122.59
+95410,Albion,CA,Mendocino County,707,US,39.21,-123.69
+95412,Annapolis,CA,Sonoma County,707,US,38.71,-123.33
+95415,Boonville,CA,Mendocino County,707,US,38.99,-123.36
+95416,Boyes Hot Springs,CA,Sonoma County,707,US,38.31,-122.48
+95417,Branscomb,CA,Mendocino County,707,US,39.69,-123.61
+95418,Calpella,CA,Mendocino County,707,US,39.15,-123.2
+95419,Camp Meeker,CA,Sonoma County,707,US,38.42,-122.95
+95420,Caspar,CA,Mendocino County,707,US,39.37,-123.8
+95421,Cazadero,CA,Sonoma County,707,US,38.56,-123.2
+95422,Clearlake,CA,Lake County,707,US,38.96,-122.64
+95423,Clearlake Oaks,CA,Lake County,707,US,39.05,-122.55
+95424,Clearlake Park,CA,Lake County,707,US,38.97,-122.66
+95425,Cloverdale,CA,Sonoma County,707,US,38.78,-122.92
+95426,Cobb,CA,Lake County,707,US,38.83,-122.71
+95427,Comptche,CA,Mendocino County,707,US,39.24,-123.53
+95428,Covelo,CA,Mendocino County,707,US,39.82,-123.16
+95429,Dos Rios,CA,Mendocino County,707,US,39.73,-123.33
+95430,Duncans Mills,CA,Sonoma County,707,US,38.46,-123.05
+95431,Eldridge,CA,Sonoma County,707,US,38.35,-122.52
+95432,Elk,CA,Mendocino County,707,US,39.12,-123.62
+95433,El Verano,CA,Sonoma County,707,US,38.29,-122.48
+95435,Finley,CA,Lake County,707,US,39.01,-122.87
+95436,Forestville,CA,Sonoma County,707,US,38.48,-122.9
+95437,Fort Bragg,CA,Mendocino County,707,US,39.49,-123.74
+95439,Fulton,CA,Sonoma County,707,US,38.49,-122.77
+95441,Geyserville,CA,Sonoma County,707,US,38.73,-122.91
+95442,Glen Ellen,CA,Sonoma County,707,US,38.38,-122.52
+95443,Glenhaven,CA,Lake County,707,US,39.04,-122.74
+95444,Graton,CA,Sonoma County,707,US,38.43,-122.87
+95445,Gualala,CA,Mendocino County,707,US,38.82,-123.51
+95446,Guerneville,CA,Sonoma County,707,US,38.52,-123.01
+95448,Healdsburg,CA,Sonoma County,707,US,38.63,-122.89
+95449,Hopland,CA,Mendocino County,707,US,38.93,-123.11
+95450,Jenner,CA,Sonoma County,707,US,38.51,-123.21
+95451,Kelseyville,CA,Lake County,707,US,38.91,-122.79
+95452,Kenwood,CA,Sonoma County,707,US,38.42,-122.54
+95453,Lakeport,CA,Lake County,707,US,39.04,-122.93
+95454,Laytonville,CA,Mendocino County,707,US,39.8,-123.5
+95456,Little River,CA,Mendocino County,707,US,39.26,-123.76
+95457,Lower Lake,CA,Lake County,707,US,38.88,-122.55
+95458,Lucerne,CA,Lake County,707,US,39.16,-122.75
+95459,Manchester,CA,Mendocino County,707,US,39,-123.62
+95460,Mendocino,CA,Mendocino County,707,US,39.3,-123.73
+95461,Middletown,CA,Lake County,707,US,38.78,-122.58
+95462,Monte Rio,CA,Sonoma County,707,US,38.45,-123.01
+95463,Navarro,CA,Mendocino County,707,US,39.19,-123.56
+95464,Nice,CA,Lake County,707,US,39.12,-122.84
+95465,Occidental,CA,Sonoma County,707,US,38.41,-123.01
+95466,Philo,CA,Mendocino County,707,US,39.07,-123.52
+95467,Hidden Valley Lake,CA,Lake County,707,US,38.8,-122.55
+95468,Point Arena,CA,Mendocino County,707,US,38.91,-123.58
+95469,Potter Valley,CA,Mendocino County,707,US,39.39,-123.05
+95470,Redwood Valley,CA,Mendocino County,707,US,39.32,-123.23
+95471,Rio Nido,CA,Sonoma County,707,US,38.52,-122.97
+95472,Sebastopol,CA,Sonoma County,707,US,38.4,-122.86
+95473,Sebastopol,CA,Sonoma County,707,US,38.4,-122.82
+95476,Sonoma,CA,Sonoma County,707,US,38.24,-122.46
+95480,Stewarts Point,CA,Sonoma County,707,US,38.64,-123.37
+95481,Talmage,CA,Mendocino County,707,US,39.12,-123.16
+95482,Ukiah,CA,Mendocino County,707,US,39.12,-123.28
+95485,Upper Lake,CA,Lake County,707,US,39.26,-122.96
+95486,Villa Grande,CA,Sonoma County,707,US,38.47,-123.02
+95487,Vineburg,CA,Sonoma County,707,US,38.25,-122.45
+95488,Westport,CA,Mendocino County,707,US,39.68,-123.74
+95490,Willits,CA,Mendocino County,707,US,39.49,-123.36
+95492,Windsor,CA,Sonoma County,707,US,38.53,-122.81
+95493,Witter Springs,CA,Lake County,707,US,39.2,-122.98
+95494,Yorkville,CA,Mendocino County,707,US,38.88,-123.29
+95497,The Sea Ranch,CA,Sonoma County,707,US,38.7,-123.44
+95501,Eureka,CA,Humboldt County,707,US,40.8,-124.15
+95502,Eureka,CA,Humboldt County,707,US,40.81,-124.08
+95503,Eureka,CA,Humboldt County,707,US,40.71,-124.11
+95511,Alderpoint,CA,Humboldt County,707,US,40.14,-123.68
+95514,Blocksburg,CA,Humboldt County,707,US,40.31,-123.65
+95518,Arcata,CA,Humboldt County,707,US,40.86,-124.08
+95519,Mckinleyville,CA,Humboldt County,707,US,40.94,-124.02
+95521,Arcata,CA,Humboldt County,707,US,40.85,-124.05
+95524,Bayside,CA,Humboldt County,707,US,40.81,-124.01
+95525,Blue Lake,CA,Humboldt County,530,US,40.96,-123.85
+95526,Bridgeville,CA,Humboldt County,707,US,40.46,-123.67
+95527,Burnt Ranch,CA,Trinity County,,US,40.95,-123.43
+95528,Carlotta,CA,Humboldt County,707,US,40.48,-123.95
+95531,Crescent City,CA,Del Norte County,707,US,41.78,-124.16
+95532,Crescent City,CA,Del Norte County,707,US,41.75,-124.2
+95534,Cutten,CA,Humboldt County,707,US,40.79,-124.15
+95536,Ferndale,CA,Humboldt County,707,US,40.45,-124.26
+95537,Fields Landing,CA,Humboldt County,,US,40.73,-124.22
+95538,Fort Dick,CA,Del Norte County,707,US,41.83,-124.16
+95540,Fortuna,CA,Humboldt County,707,US,40.57,-124.15
+95542,Garberville,CA,Humboldt County,707,US,40.08,-123.78
+95543,Gasquet,CA,Del Norte County,707,US,41.84,-123.85
+95545,Honeydew,CA,Humboldt County,,US,40.25,-124.13
+95546,Hoopa,CA,Humboldt County,530,US,41.11,-123.64
+95547,Hydesville,CA,Humboldt County,707,US,40.56,-124.07
+95548,Klamath,CA,Del Norte County,707,US,41.59,-124.06
+95549,Kneeland,CA,Humboldt County,,US,40.67,-123.88
+95550,Korbel,CA,Humboldt County,,US,40.76,-123.82
+95551,Loleta,CA,Humboldt County,707,US,40.68,-124.22
+95552,Mad River,CA,Trinity County,707,US,40.37,-123.44
+95553,Miranda,CA,Humboldt County,707,US,40.21,-123.86
+95554,Myers Flat,CA,Humboldt County,707,US,40.27,-123.82
+95555,Orick,CA,Humboldt County,707,US,41.35,-124.04
+95556,Orleans,CA,Humboldt County,,US,41.31,-123.61
+95558,Petrolia,CA,Humboldt County,707,US,40.24,-124.21
+95559,Phillipsville,CA,Humboldt County,707,US,40.18,-123.76
+95560,Redway,CA,Humboldt County,707,US,40.15,-123.89
+95562,Rio Dell,CA,Humboldt County,707,US,40.46,-124.13
+95563,Salyer,CA,Trinity County,,US,40.86,-123.55
+95564,Samoa,CA,Humboldt County,707,US,40.79,-124.2
+95565,Scotia,CA,Humboldt County,707,US,40.46,-124.02
+95567,Smith River,CA,Del Norte County,707,US,41.93,-124.08
+95568,Somes Bar,CA,Siskiyou County,530,US,41.47,-123.46
+95569,Redcrest,CA,Humboldt County,707,US,40.37,-123.84
+95570,Trinidad,CA,Humboldt County,707,US,41.08,-124.16
+95571,Weott,CA,Humboldt County,,US,40.32,-123.92
+95573,Willow Creek,CA,Humboldt County,530,US,40.94,-123.65
+95585,Leggett,CA,Mendocino County,707,US,39.87,-123.69
+95587,Piercy,CA,Mendocino County,707,US,39.95,-123.74
+95589,Whitethorn,CA,Humboldt County,707,US,40.07,-123.92
+95595,Zenia,CA,Trinity County,,US,40.16,-123.4
+95601,Amador City,CA,Amador County,209,US,38.43,-120.83
+95602,Auburn,CA,Placer County,530,US,39,-121.09
+95603,Auburn,CA,Placer County,530,US,38.92,-121.07
+95604,Auburn,CA,Placer County,530,US,39.24,-120.07
+95605,West Sacramento,CA,Yolo County,"530,916",US,38.59,-121.54
+95606,Brooks,CA,Yolo County,,US,38.8,-122.18
+95607,Capay,CA,Yolo County,530,US,38.69,-122.12
+95608,Carmichael,CA,Sacramento County,916,US,38.62,-121.32
+95609,Carmichael,CA,Sacramento County,916,US,38.62,-121.32
+95610,Citrus Heights,CA,Sacramento County,916,US,38.69,-121.27
+95611,Citrus Heights,CA,Sacramento County,916,US,38.7,-121.28
+95612,Clarksburg,CA,Yolo County,916,US,38.37,-121.58
+95613,Coloma,CA,El Dorado County,,US,38.8,-120.88
+95614,Cool,CA,El Dorado County,,US,38.88,-120.98
+95615,Courtland,CA,Sacramento County,916,US,38.31,-121.54
+95616,Davis,CA,Yolo County,530,US,38.55,-121.8
+95617,Davis,CA,Yolo County,530,US,38.54,-121.72
+95618,Davis,CA,Yolo County,530,US,38.53,-121.66
+95619,Diamond Springs,CA,El Dorado County,530,US,38.68,-120.81
+95620,Dixon,CA,Solano County,"530,707",US,38.39,-121.81
+95621,Citrus Heights,CA,Sacramento County,916,US,38.69,-121.31
+95623,El Dorado,CA,El Dorado County,530,US,38.6,-120.84
+95624,Elk Grove,CA,Sacramento County,916,US,38.44,-121.3
+95625,Elmira,CA,Solano County,707,US,38.36,-121.91
+95626,Elverta,CA,Sacramento County,916,US,38.73,-121.46
+95627,Esparto,CA,Yolo County,530,US,38.73,-122.03
+95628,Fair Oaks,CA,Sacramento County,916,US,38.65,-121.25
+95629,Fiddletown,CA,Amador County,,US,38.52,-120.7
+95630,Folsom,CA,Sacramento County,916,US,38.67,-121.14
+95631,Foresthill,CA,Placer County,530,US,39.03,-120.82
+95632,Galt,CA,Sacramento County,209,US,38.27,-121.22
+95633,Garden Valley,CA,El Dorado County,,US,38.84,-120.83
+95634,Georgetown,CA,El Dorado County,530,US,38.93,-120.77
+95635,Greenwood,CA,El Dorado County,,US,38.92,-120.89
+95636,Grizzly Flats,CA,El Dorado County,530,US,38.64,-120.51
+95637,Guinda,CA,Yolo County,530,US,38.83,-122.24
+95638,Herald,CA,Sacramento County,209,US,38.33,-121.14
+95639,Hood,CA,Sacramento County,,US,38.39,-121.5
+95640,Ione,CA,Amador County,209,US,38.33,-120.88
+95641,Isleton,CA,Sacramento County,916,US,38.16,-121.59
+95642,Jackson,CA,Amador County,209,US,38.35,-120.77
+95644,Kit Carson,CA,El Dorado County,,US,38.45,-120.52
+95645,Knights Landing,CA,Yolo County,530,US,38.89,-121.8
+95646,Kirkwood,CA,Alpine County,,US,38.69,-120.05
+95648,Lincoln,CA,Placer County,916,US,38.93,-121.25
+95650,Loomis,CA,Placer County,916,US,38.81,-121.16
+95651,Lotus,CA,El Dorado County,,US,38.81,-120.93
+95652,Mcclellan,CA,Sacramento County,916,US,38.66,-121.4
+95653,Madison,CA,Yolo County,,US,38.7,-121.98
+95654,Martell,CA,Amador County,209,US,38.36,-120.79
+95655,Mather,CA,Sacramento County,,US,38.54,-121.28
+95656,Mount Aukum,CA,El Dorado County,,US,38.56,-120.71
+95658,Newcastle,CA,Placer County,"530,916",US,38.87,-121.15
+95659,Nicolaus,CA,Sutter County,"916,530",US,38.83,-121.58
+95660,North Highlands,CA,Sacramento County,916,US,38.66,-121.37
+95661,Roseville,CA,Placer County,"916,530",US,38.74,-121.25
+95662,Orangevale,CA,Sacramento County,916,US,38.68,-121.22
+95663,Penryn,CA,Placer County,916,US,38.85,-121.18
+95664,Pilot Hill,CA,El Dorado County,,US,38.8,-121.04
+95665,Pine Grove,CA,Amador County,209,US,38.38,-120.64
+95666,Pioneer,CA,Amador County,209,US,38.52,-120.38
+95667,Placerville,CA,El Dorado County,530,US,38.73,-120.8
+95668,Pleasant Grove,CA,Sutter County,"530,916",US,38.83,-121.5
+95669,Plymouth,CA,Amador County,"916,209",US,38.46,-120.88
+95670,Rancho Cordova,CA,Sacramento County,916,US,38.6,-121.28
+95671,Represa,CA,Sacramento County,916,US,38.67,-121.14
+95672,Rescue,CA,El Dorado County,530,US,38.72,-121
+95673,Rio Linda,CA,Sacramento County,916,US,38.68,-121.45
+95674,Rio Oso,CA,Sutter County,530,US,38.95,-121.49
+95675,River Pines,CA,Amador County,209,US,38.54,-120.74
+95676,Robbins,CA,Sutter County,530,US,38.94,-121.74
+95677,Rocklin,CA,Placer County,"530,916",US,38.8,-121.24
+95678,Roseville,CA,Placer County,"530,916",US,38.76,-121.28
+95679,Rumsey,CA,Yolo County,,US,38.9,-122.29
+95680,Ryde,CA,Sacramento County,,US,38.24,-121.59
+95681,Sheridan,CA,Placer County,,US,38.98,-121.35
+95682,Shingle Springs,CA,El Dorado County,530,US,38.61,-120.97
+95683,Sloughhouse,CA,Sacramento County,916,US,38.51,-121.12
+95684,Somerset,CA,El Dorado County,,US,38.62,-120.62
+95685,Sutter Creek,CA,Amador County,209,US,38.42,-120.75
+95686,Thornton,CA,San Joaquin County,209,US,38.17,-121.52
+95687,Vacaville,CA,Solano County,707,US,38.35,-121.93
+95688,Vacaville,CA,Solano County,707,US,38.41,-122.01
+95689,Volcano,CA,Amador County,209,US,38.48,-120.61
+95690,Walnut Grove,CA,Sacramento County,"209,916",US,38.23,-121.58
+95691,West Sacramento,CA,Yolo County,916,US,38.66,-121.62
+95692,Wheatland,CA,Yuba County,530,US,39.04,-121.39
+95693,Wilton,CA,Sacramento County,916,US,38.39,-121.24
+95694,Winters,CA,Yolo County,530,US,38.56,-121.99
+95695,Woodland,CA,Yolo County,530,US,38.71,-121.85
+95696,Vacaville,CA,Solano County,707,US,38.31,-121.92
+95697,Yolo,CA,Yolo County,,US,38.73,-121.81
+95698,Zamora,CA,Yolo County,,US,38.8,-121.9
+95699,Drytown,CA,Amador County,209,US,38.44,-120.85
+95701,Alta,CA,Placer County,,US,39.21,-120.79
+95703,Applegate,CA,Placer County,530,US,38.99,-120.98
+95709,Camino,CA,El Dorado County,530,US,38.74,-120.68
+95712,Chicago Park,CA,Nevada County,530,US,39.16,-120.95
+95713,Colfax,CA,Placer County,530,US,39.09,-120.92
+95714,Dutch Flat,CA,Placer County,,US,39.19,-120.83
+95715,Emigrant Gap,CA,Placer County,,US,39.25,-120.69
+95717,Gold Run,CA,Placer County,,US,39.14,-120.85
+95720,Kyburz,CA,El Dorado County,"209,530",US,38.77,-120.26
+95721,Echo Lake,CA,El Dorado County,,US,38.84,-120.07
+95722,Meadow Vista,CA,Placer County,530,US,39,-121.03
+95724,Norden,CA,Placer County,,US,39.31,-120.33
+95726,Pollock Pines,CA,El Dorado County,530,US,38.74,-120.57
+95728,Soda Springs,CA,Placer County,530,US,39.32,-120.4
+95735,Twin Bridges,CA,El Dorado County,"530,209",US,38.83,-120.18
+95736,Weimar,CA,Placer County,,US,39.04,-120.98
+95741,Rancho Cordova,CA,Sacramento County,916,US,38.58,-121.3
+95742,Rancho Cordova,CA,Sacramento County,916,US,38.57,-121.17
+95746,Granite Bay,CA,Placer County,916,US,38.76,-121.16
+95747,Roseville,CA,Placer County,916,US,38.78,-121.37
+95757,Elk Grove,CA,Sacramento County,916,US,38.35,-121.42
+95758,Elk Grove,CA,Sacramento County,916,US,38.43,-121.44
+95759,Elk Grove,CA,Sacramento County,916,US,38.4,-121.37
+95762,El Dorado Hills,CA,El Dorado County,916,US,38.68,-121.05
+95763,Folsom,CA,Sacramento County,916,US,38.67,-121.17
+95765,Rocklin,CA,Placer County,916,US,38.81,-121.28
+95776,Woodland,CA,Yolo County,530,US,38.69,-121.68
+95798,West Sacramento,CA,Yolo County,916,US,38.57,-121.56
+95799,West Sacramento,CA,Yolo County,916,US,38.53,-121.55
+95811,Sacramento,CA,Sacramento County,916,US,38.59,-121.49
+95812,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+95813,Sacramento,CA,Sacramento County,916,US,38.5,-121.41
+95814,Sacramento,CA,Sacramento County,"530,916",US,38.58,-121.49
+95815,Sacramento,CA,Sacramento County,916,US,38.6,-121.46
+95816,Sacramento,CA,Sacramento County,"530,916",US,38.57,-121.46
+95817,Sacramento,CA,Sacramento County,916,US,38.55,-121.45
+95818,Sacramento,CA,Sacramento County,"530,916",US,38.55,-121.49
+95819,Sacramento,CA,Sacramento County,916,US,38.56,-121.43
+95820,Sacramento,CA,Sacramento County,916,US,38.53,-121.44
+95821,Sacramento,CA,Sacramento County,916,US,38.62,-121.38
+95822,Sacramento,CA,Sacramento County,916,US,38.51,-121.49
+95823,Sacramento,CA,Sacramento County,916,US,38.47,-121.44
+95824,Sacramento,CA,Sacramento County,916,US,38.52,-121.44
+95825,Sacramento,CA,Sacramento County,916,US,38.59,-121.41
+95826,Sacramento,CA,Sacramento County,916,US,38.54,-121.38
+95827,Sacramento,CA,Sacramento County,916,US,38.55,-121.32
+95828,Sacramento,CA,Sacramento County,916,US,38.48,-121.4
+95829,Sacramento,CA,Sacramento County,916,US,38.48,-121.34
+95830,Sacramento,CA,Sacramento County,916,US,38.49,-121.27
+95831,Sacramento,CA,Sacramento County,916,US,38.49,-121.53
+95832,Sacramento,CA,Sacramento County,916,US,38.43,-121.51
+95833,Sacramento,CA,Sacramento County,"530,916",US,38.61,-121.49
+95834,Sacramento,CA,Sacramento County,916,US,38.64,-121.54
+95835,Sacramento,CA,Sacramento County,916,US,38.67,-121.53
+95836,Sacramento,CA,Sacramento County,916,US,38.71,-121.54
+95837,Sacramento,CA,Sacramento County,916,US,38.69,-121.6
+95838,Sacramento,CA,Sacramento County,916,US,38.64,-121.44
+95840,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+95841,Sacramento,CA,Sacramento County,916,US,38.66,-121.35
+95842,Sacramento,CA,Sacramento County,916,US,38.68,-121.34
+95843,Antelope,CA,Sacramento County,916,US,38.71,-121.36
+95851,Sacramento,CA,Sacramento County,916,US,38.6,-121.44
+95852,Sacramento,CA,Sacramento County,916,US,38.6,-121.44
+95853,Sacramento,CA,Sacramento County,916,US,38.6,-121.44
+95860,Sacramento,CA,Sacramento County,916,US,38.61,-121.38
+95864,Sacramento,CA,Sacramento County,916,US,38.58,-121.37
+95865,Sacramento,CA,Sacramento County,916,US,38.59,-121.4
+95866,Sacramento,CA,Sacramento County,916,US,38.59,-121.4
+95867,Sacramento,CA,Sacramento County,916,US,38.58,-121.49
+95887,Sacramento,CA,Sacramento County,916,US,38.61,-121.36
+95894,Sacramento,CA,Sacramento County,916,US,38.55,-121.49
+95899,Sacramento,CA,Sacramento County,916,US,38.57,-121.52
+95901,Marysville,CA,Yuba County,530,US,39.15,-121.47
+95903,Beale Afb,CA,Yuba County,530,US,39.11,-121.37
+95910,Alleghany,CA,Sierra County,530,US,39.46,-120.84
+95912,Arbuckle,CA,Colusa County,530,US,39.02,-122.04
+95913,Artois,CA,Glenn County,530,US,39.72,-122.14
+95914,Bangor,CA,Butte County,530,US,39.42,-121.36
+95915,Belden,CA,Plumas County,530,US,40.01,-121.16
+95916,Berry Creek,CA,Butte County,530,US,39.66,-121.38
+95917,Biggs,CA,Butte County,530,US,39.42,-121.67
+95918,Browns Valley,CA,Yuba County,530,US,39.33,-121.33
+95919,Brownsville,CA,Yuba County,530,US,39.43,-121.25
+95920,Butte City,CA,Glenn County,530,US,39.46,-121.93
+95922,Camptonville,CA,Yuba County,530,US,39.42,-121.11
+95923,Canyon Dam,CA,Plumas County,530,US,40.13,-121.09
+95924,Cedar Ridge,CA,Nevada County,530,US,39.19,-121.02
+95925,Challenge,CA,Yuba County,530,US,39.47,-121.19
+95926,Chico,CA,Butte County,"530,916",US,39.74,-121.83
+95927,Chico,CA,Butte County,530,US,39.75,-121.81
+95928,Chico,CA,Butte County,"530,916",US,39.71,-121.81
+95929,Chico,CA,Butte County,530,US,39.75,-121.8
+95930,Clipper Mills,CA,Butte County,530,US,39.55,-121.19
+95932,Colusa,CA,Colusa County,530,US,39.27,-122.05
+95934,Crescent Mills,CA,Plumas County,530,US,40.07,-120.92
+95935,Dobbins,CA,Yuba County,530,US,39.36,-121.2
+95936,Downieville,CA,Sierra County,530,US,39.58,-120.79
+95937,Dunnigan,CA,Yolo County,,US,38.88,-122
+95938,Durham,CA,Butte County,530,US,39.61,-121.77
+95939,Elk Creek,CA,Glenn County,530,US,39.54,-122.57
+95940,Feather Falls,CA,Butte County,530,US,39.51,-121.55
+95941,Forbestown,CA,Butte County,,US,39.52,-121.24
+95942,Forest Ranch,CA,Butte County,530,US,40.02,-121.57
+95943,Glenn,CA,Glenn County,530,US,39.6,-122.02
+95944,Goodyears Bar,CA,Sierra County,530,US,39.51,-120.94
+95945,Grass Valley,CA,Nevada County,530,US,39.18,-120.98
+95946,Penn Valley,CA,Nevada County,530,US,39.18,-121.2
+95947,Greenville,CA,Plumas County,530,US,40.15,-120.84
+95948,Gridley,CA,Butte County,530,US,39.35,-121.76
+95949,Grass Valley,CA,Nevada County,530,US,39.11,-121.12
+95950,Grimes,CA,Colusa County,530,US,39.04,-121.9
+95951,Hamilton City,CA,Glenn County,530,US,39.72,-122
+95953,Live Oak,CA,Sutter County,530,US,39.23,-121.78
+95954,Magalia,CA,Butte County,530,US,39.84,-121.6
+95955,Maxwell,CA,Colusa County,530,US,39.31,-122.17
+95956,Meadow Valley,CA,Plumas County,530,US,39.92,-121.05
+95957,Meridian,CA,Sutter County,530,US,39.07,-121.84
+95958,Nelson,CA,Butte County,530,US,39.55,-121.77
+95959,Nevada City,CA,Nevada County,530,US,39.34,-120.87
+95960,North San Juan,CA,Nevada County,530,US,39.42,-120.99
+95961,Olivehurst,CA,Yuba County,530,US,39.08,-121.55
+95962,Oregon House,CA,Yuba County,530,US,39.34,-121.23
+95963,Orland,CA,Glenn County,530,US,39.73,-122.33
+95965,Oroville,CA,Butte County,530,US,39.5,-121.67
+95966,Oroville,CA,Butte County,530,US,39.45,-121.39
+95967,Paradise,CA,Butte County,530,US,39.74,-121.6
+95968,Palermo,CA,Butte County,530,US,39.43,-121.55
+95969,Paradise,CA,Butte County,530,US,39.74,-121.61
+95970,Princeton,CA,Colusa County,530,US,39.41,-122.04
+95971,Quincy,CA,Plumas County,530,US,39.96,-121
+95972,Rackerby,CA,Yuba County,530,US,39.45,-121.31
+95973,Chico,CA,Butte County,"530,916",US,39.9,-121.83
+95974,Richvale,CA,Butte County,530,US,39.48,-121.84
+95975,Rough And Ready,CA,Nevada County,530,US,39.22,-121.15
+95976,Chico,CA,Butte County,530,US,39.75,-121.86
+95977,Smartsville,CA,Nevada County,530,US,39.17,-121.29
+95978,Stirling City,CA,Butte County,530,US,39.88,-121.54
+95979,Stonyford,CA,Colusa County,530,US,39.27,-122.46
+95980,Storrie,CA,Plumas County,530,US,39.91,-121.33
+95981,Strawberry Valley,CA,Yuba County,530,US,39.56,-121.1
+95982,Sutter,CA,Sutter County,530,US,39.18,-121.81
+95983,Taylorsville,CA,Plumas County,530,US,40.04,-120.75
+95984,Twain,CA,Plumas County,530,US,40.03,-121.08
+95986,Washington,CA,Nevada County,530,US,39.34,-120.77
+95987,Williams,CA,Colusa County,530,US,39.11,-122.27
+95988,Willows,CA,Glenn County,530,US,39.5,-122.28
+95991,Yuba City,CA,Sutter County,530,US,39.05,-121.61
+95992,Yuba City,CA,Sutter County,530,US,39.02,-121.61
+95993,Yuba City,CA,Sutter County,530,US,39.05,-121.73
+96001,Redding,CA,Shasta County,530,US,40.6,-122.46
+96002,Redding,CA,Shasta County,530,US,40.52,-122.32
+96003,Redding,CA,Shasta County,530,US,40.68,-122.25
+96006,Adin,CA,Modoc County,530,US,41.15,-120.89
+96007,Anderson,CA,Shasta County,530,US,40.44,-122.35
+96008,Bella Vista,CA,Shasta County,530,US,40.7,-122.09
+96009,Bieber,CA,Lassen County,530,US,41.06,-121.11
+96010,Big Bar,CA,Trinity County,,US,40.81,-123.25
+96011,Big Bend,CA,Shasta County,530,US,41.04,-121.89
+96013,Burney,CA,Shasta County,530,US,40.94,-121.74
+96014,Callahan,CA,Siskiyou County,530,US,41.36,-122.77
+96015,Canby,CA,Modoc County,530,US,41.44,-120.94
+96016,Cassel,CA,Shasta County,530,US,40.92,-121.57
+96017,Castella,CA,Shasta County,530,US,41.1,-122.35
+96019,Shasta Lake,CA,Shasta County,530,US,40.68,-122.37
+96020,Chester,CA,Plumas County,530,US,40.27,-121.24
+96021,Corning,CA,Tehama County,530,US,39.92,-122.28
+96022,Cottonwood,CA,Tehama County,530,US,40.33,-122.45
+96023,Dorris,CA,Siskiyou County,530,US,41.89,-121.74
+96024,Douglas City,CA,Trinity County,,US,40.58,-122.86
+96025,Dunsmuir,CA,Siskiyou County,530,US,41.19,-122.26
+96027,Etna,CA,Siskiyou County,530,US,41.41,-123.02
+96028,Fall River Mills,CA,Shasta County,530,US,41.01,-121.47
+96029,Flournoy,CA,Tehama County,530,US,39.93,-122.48
+96031,Forks Of Salmon,CA,Siskiyou County,530,US,41.19,-123.2
+96032,Fort Jones,CA,Siskiyou County,530,US,41.59,-122.96
+96033,French Gulch,CA,Shasta County,530,US,40.73,-122.6
+96034,Gazelle,CA,Siskiyou County,530,US,41.43,-122.61
+96035,Gerber,CA,Tehama County,530,US,40.03,-122.17
+96037,Greenview,CA,Siskiyou County,530,US,41.54,-122.93
+96038,Grenada,CA,Siskiyou County,530,US,41.6,-122.54
+96039,Happy Camp,CA,Siskiyou County,530,US,41.78,-123.47
+96040,Hat Creek,CA,Shasta County,530,US,40.8,-121.46
+96041,Hayfork,CA,Trinity County,530,US,40.5,-123.19
+96044,Hornbrook,CA,Siskiyou County,530,US,41.91,-122.49
+96046,Hyampom,CA,Trinity County,,US,40.6,-123.4
+96047,Igo,CA,Shasta County,530,US,40.46,-122.7
+96048,Junction City,CA,Trinity County,530,US,40.87,-123.1
+96049,Redding,CA,Siskiyou County,530,US,41.76,-123.33
+96050,Klamath River,CA,Siskiyou County,530,US,41.83,-122.92
+96051,Lakehead,CA,Shasta County,530,US,40.88,-122.38
+96052,Lewiston,CA,Trinity County,530,US,40.78,-122.84
+96054,Lookout,CA,Modoc County,530,US,41.3,-121.1
+96055,Los Molinos,CA,Tehama County,530,US,40.05,-122.07
+96056,Mcarthur,CA,Shasta County,530,US,41.1,-121.34
+96057,Mccloud,CA,Siskiyou County,530,US,41.26,-122.1
+96058,Macdoel,CA,Siskiyou County,530,US,41.74,-121.89
+96059,Manton,CA,Tehama County,530,US,40.41,-121.84
+96061,Mill Creek,CA,Tehama County,530,US,40.34,-121.46
+96062,Millville,CA,Shasta County,530,US,40.56,-122.07
+96063,Mineral,CA,Tehama County,530,US,40.37,-121.61
+96064,Montague,CA,Siskiyou County,530,US,41.76,-122.39
+96065,Montgomery Creek,CA,Shasta County,530,US,40.86,-121.91
+96067,Mount Shasta,CA,Siskiyou County,530,US,41.31,-122.32
+96068,Nubieber,CA,Lassen County,530,US,41.12,-121.21
+96069,Oak Run,CA,Shasta County,530,US,40.69,-122.02
+96070,Obrien,CA,Shasta County,530,US,40.81,-122.32
+96071,Old Station,CA,Shasta County,530,US,40.67,-121.47
+96073,Palo Cedro,CA,Shasta County,530,US,40.6,-122.19
+96074,Paskenta,CA,Tehama County,530,US,39.88,-122.58
+96075,Paynes Creek,CA,Tehama County,530,US,40.34,-121.85
+96076,Platina,CA,Trinity County,,US,40.38,-122.91
+96078,Proberta,CA,Tehama County,530,US,40.08,-122.17
+96079,Shasta Lake,CA,Shasta County,530,US,40.68,-122.34
+96080,Red Bluff,CA,Tehama County,530,US,40.13,-122.43
+96084,Round Mountain,CA,Shasta County,530,US,40.92,-122.02
+96085,Scott Bar,CA,Siskiyou County,530,US,41.73,-123.04
+96086,Seiad Valley,CA,Siskiyou County,530,US,41.86,-123.22
+96087,Shasta,CA,Shasta County,530,US,40.62,-122.5
+96088,Shingletown,CA,Shasta County,530,US,40.5,-121.8
+96089,Shasta Lake,CA,Shasta County,530,US,40.68,-122.4
+96090,Tehama,CA,Tehama County,530,US,40.02,-122.13
+96091,Trinity Center,CA,Trinity County,530,US,41.05,-122.78
+96092,Vina,CA,Tehama County,530,US,39.97,-122.02
+96093,Weaverville,CA,Trinity County,,US,40.74,-122.93
+96094,Weed,CA,Siskiyou County,530,US,41.51,-122.36
+96095,Whiskeytown,CA,Shasta County,530,US,40.7,-122.6
+96096,Whitmore,CA,Shasta County,530,US,40.63,-121.87
+96097,Yreka,CA,Siskiyou County,530,US,41.75,-122.67
+96099,Redding,CA,Shasta County,530,US,40.64,-122.5
+96101,Alturas,CA,Modoc County,530,US,41.43,-120.53
+96103,Blairsden-graeagle,CA,Plumas County,530,US,39.78,-120.65
+96104,Cedarville,CA,Modoc County,530,US,41.48,-120.14
+96105,Chilcoot,CA,Plumas County,530,US,39.75,-120.06
+96106,Clio,CA,Plumas County,530,US,39.72,-120.57
+96107,Coleville,CA,Mono County,530,US,38.47,-119.48
+96108,Davis Creek,CA,Modoc County,530,US,41.75,-120.4
+96109,Doyle,CA,Lassen County,530,US,39.94,-120.06
+96110,Eagleville,CA,Modoc County,530,US,41.3,-120.1
+96111,Floriston,CA,Sierra County,530,US,39.39,-120.02
+96112,Fort Bidwell,CA,Modoc County,530,US,41.88,-120.11
+96113,Herlong,CA,Lassen County,530,US,40.14,-120.16
+96114,Janesville,CA,Lassen County,530,US,40.28,-120.5
+96115,Lake City,CA,Modoc County,530,US,41.71,-120.23
+96116,Likely,CA,Modoc County,530,US,41.29,-120.44
+96117,Litchfield,CA,Lassen County,530,US,40.51,-120.31
+96118,Loyalton,CA,Sierra County,530,US,39.63,-120.21
+96119,Madeline,CA,Lassen County,530,US,41.05,-120.49
+96120,Markleeville,CA,Alpine County,530,US,38.73,-119.84
+96121,Milford,CA,Lassen County,530,US,40.18,-120.36
+96122,Portola,CA,Plumas County,530,US,39.79,-120.46
+96123,Ravendale,CA,Lassen County,530,US,40.73,-120.4
+96124,Calpine,CA,Sierra County,530,US,39.66,-120.43
+96125,Sierra City,CA,Sierra County,530,US,39.6,-120.65
+96126,Sierraville,CA,Sierra County,530,US,39.57,-120.34
+96127,Susanville,CA,Lassen County,530,US,40.41,-120.65
+96128,Standish,CA,Lassen County,530,US,40.35,-120.38
+96129,Beckwourth,CA,Plumas County,530,US,39.82,-120.37
+96130,Susanville,CA,Lassen County,530,US,40.57,-120.61
+96132,Termo,CA,Lassen County,530,US,40.94,-120.64
+96133,Topaz,CA,Mono County,,US,38.64,-119.48
+96134,Tulelake,CA,Siskiyou County,530,US,41.8,-121.46
+96135,Vinton,CA,Plumas County,530,US,39.71,-120.21
+96136,Wendel,CA,Lassen County,530,US,40.31,-120.2
+96137,Westwood,CA,Lassen County,530,US,40.26,-121.02
+96140,Carnelian Bay,CA,Placer County,,US,39.23,-120.1
+96141,Homewood,CA,Placer County,,US,39.08,-120.18
+96142,Tahoma,CA,El Dorado County,,US,39.02,-120.14
+96143,Kings Beach,CA,Placer County,,US,39.25,-120.02
+96145,Tahoe City,CA,Placer County,,US,39.18,-120.14
+96146,Olympic Valley,CA,Placer County,530,US,39.19,-120.22
+96148,Tahoe Vista,CA,Placer County,,US,39.24,-120.05
+96150,South Lake Tahoe,CA,El Dorado County,530,US,38.84,-120.01
+96151,South Lake Tahoe,CA,El Dorado County,530,US,38.94,-119.97
+96152,South Lake Tahoe,CA,El Dorado County,530,US,38.94,-119.97
+96154,South Lake Tahoe,CA,El Dorado County,530,US,38.94,-119.97
+96155,South Lake Tahoe,CA,El Dorado County,530,US,38.78,-120.07
+96156,South Lake Tahoe,CA,Alpine County,530,US,38.94,-119.97
+96157,South Lake Tahoe,CA,El Dorado County,530,US,38.94,-119.97
+96158,South Lake Tahoe,CA,El Dorado County,530,US,38.92,-119.96
+96160,Truckee,CA,Nevada County,530,US,39.32,-120.18
+96161,Truckee,CA,Nevada County,530,US,39.33,-120.24
+96162,Truckee,CA,Placer County,530,US,39.3,-120.31
