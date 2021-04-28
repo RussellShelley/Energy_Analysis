@@ -1,0 +1,32 @@
+cec_19 NREL Changelog 
+Version date: 2020-02-17 
+ 
+Table name changes: 
+ 
+    2019 CVS Com Discrete Choice Experiment renamed to survey_com_dce. 
+    2019 CVS Com FCEV.xlsx renamed to survey_com_fcev. 
+    2019 CVS Com Main.xlsx renamed to survey_com_main. 
+    2019 CVS Com PEV.xlsx renamed to survey_com_pev. 
+    2019 CVS Com Vehicle.xlsx renamed to survey_com_vehicle. 
+    2019 CVS Res Discrete Choice Experiment.xlsx renamed to survey_res_dce. 
+    2019 CVS Res FCEV.xlsx renamed to survey_res_fcev. 
+    2019 CVS Res Main.xlsx renamed to survey_res_main. 
+    2019 CVS Res Person.xlsx renamed to survey_res_person. 
+    2019 CVS Res PEV.xlsx renamed to survey_res_pev. 
+    2019 CVS Res Vehicle.xlsx renamed to survey_res_vehicle. 
+
+Column name changes: 
+ 
+    respondent_id renamed to sampno. 
+    pernum renamed to perno. 
+    vehid renamed to vehno. 
+
+Column redactions: 
+ 
+    vehicle_string
+    model
+    model_clean
+    model_other
+
+Column additions: 
+ 
