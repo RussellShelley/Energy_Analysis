@@ -14,9 +14,20 @@ WHERE
 fuel_clean = 3 
 OR fuel_clean = 5;
 
--- UPDATE tbl_vehicle
--- SET ev_flag = 0
--- WHERE fuel_clean ISNULL;
+UPDATE tbl_vehicle
+SET ev_flag = 0
+WHERE fuel_clean ISNULL;
+
+UPDATE tbl_vehicle
+SET ev_flag = 0
+WHERE 
+fuel_clean = 1
+OR fuel_clean = 2
+OR fuel_clean = 4
+OR fuel_clean = 6
+OR fuel_clean = 7
+OR fuel_clean = 8
+OR fuel_clean = 9;
 
 SELECT COUNT(*) FROM tbl_vehicle
 GROUP BY ev_flag;
