@@ -1,1 +1,0 @@
-charger_api_key="migYYwRE8N5JRmFTdRNe3Q8VOdyBE1wyNzXG7WiH"
