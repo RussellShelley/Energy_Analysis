@@ -9,4 +9,4 @@ Postgres is the database we intend to use, and we will integrate third party web
 SciKitLearn is the ML library we'll be using to run our training and testing datasets.
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. 
+In addition to using Tableau, we will also integrate D3.js (Javascript) for a fully functioning and interactive dashboard. 
