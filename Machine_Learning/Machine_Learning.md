@@ -12,3 +12,12 @@ This will require quite a bit in the ETL pipeline. We will need to reformat and 
 Because we will be relating dozens of potential variables, we have decided to utilize a nueral network to explore these relationships.
 
 The jupyter notebook file in this folder explores a test dataset for our first iteration. "Family size" is a placeholder for "EV charing station" or "# of EVs per zip" because we have not yet downloaded and merged these datasets. The accuracy of the current model is very low, as the classification portion of the model has been excluded.
+
+Make sure to document how it ties into the project. There needs to be a description of the model as well as any preprocessing that was involved. Additionally, capture an interpretation of how accurate, precise, or sensitive the model is.
+
+One question: If you had more time, where would you like to investigate for finer tuning? Keep this in mind as the presentation is being put together since it could be a really strong talking point.
+How does it work?
+Why this specific model?
+What is the model's accuracy?
+If there are statistics involved, what stats are being included in analysis and why?
+If no statistics are involved, what would you include if you had more time?
