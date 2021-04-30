@@ -5,7 +5,7 @@ Electric vehicles currently make up only about 2% of all cars sold in the US. Ma
 
 ## Project Overview
 
-The purpose of this project is to explore an overall analysis of the electric vehicle car market, availability of charging stations, and potential climate implications. We choose this project because of it's immediate relevance as well as potential large scale global and humanitarian impact. 
+The purpose of this project is to explore an overall analysis of the electric vehicle car market, availability of charging stations, and potential climate implications. We chose this topic because of its immediate relevance as well as potential large scale global and humanitarian impact. 
 
 ## Process
 
@@ -29,9 +29,8 @@ The purpose of this project is to explore an overall analysis of the electric ve
 
 ## Database
 
-* Placeholder
-* Placeholder
-* Placeholder
+* `PostgresSQL` - Used to create tables and joining preprocessed datasets for ML model.
+* `AWS` Relational Database Service (RDS) - Cloud-based web service used to host the `Postgres` database that will be used to run the ML model.
 
 ## Machine Learning Model
 
@@ -68,6 +67,7 @@ We will incorporate visualizations into `Google Slides`, as well as create an in
 * `Zoom`
 	* Week 1 check-in 10am Sunday, April 17th (PST)
 	* Week 2 TBD
-	* Week 3 TBD
+	* Week 3 check-in 10am Sunday, May 2nd (PST)
+
 
 
