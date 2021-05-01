@@ -21,3 +21,9 @@ Why this specific model?
 What is the model's accuracy?
 If there are statistics involved, what stats are being included in analysis and why?
 If no statistics are involved, what would you include if you had more time?
+
+### Data Collection
+We will collect data from various resources to identify the likelihood of owning an electric vehicle in comparison to demographic and geographic location, such as, proximity to charging stations, county of residence, household income, gender, education, employment, driving frequency, and more.
+
+### Preprocessing and Machine Learning
+This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership.
