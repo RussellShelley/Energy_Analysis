@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Machine Learning Overview
 
-In this machine learning analysis, we are looking to explore the relationships of many different demographic variables with electric vehicle ownership. We have compiled census data on demographics (gender, age, family size, race, income) at the census tract and block level across the state of California. This will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. Because we will be relating many variables, we have decided to utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. 
+In this machine learning analysis, we are looking to explore the relationships of various demographic variables with electric vehicle ownership. We have compiled census data on demographics (gender, age, family size, race, income) at the census tract and block level across the state of California. This will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. Because we will be relating many variables, we have decided to utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. 
 
 Supervised Machine Learning deals with labeled datasets. This ML approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets. 
 
