@@ -37,11 +37,11 @@ Our collective database includes five tables, all collected from one large surve
 
 ## Machine Learning Model
 
-In this machine learning analysis, we are looking to explore the relationships of many different demographic and environmental variables with electric vehicle ownership and/or electric vehicle charing stations.
+In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. This will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model.
 
-We have compiled census data on demographics (gender, age, family size, race, income) at the census tract and block level across the state of California. We have also downloaded a GEOjson of air pollution levels from 1986-2010, and we are creating an API to pull EV charging location points from OpenChargeMap.org.
+Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
 
-Our hopes are to explore the likelihood of EV ownership within a given zipcode (or) census tract (or) census block (whichever our data best lends itself to), in order to provide homeowners potential recommendations on EV ownership suitability in their region. We also hope to explore the relationship between EV charging stations and actual EV ownership (is the ratio consistent? Are some communities underserved?), the relationship between air pollution and EV charging stations (is EV adoption occurring in communities with high levels of airborne pollution?), as well as the relationships between familial demographics (ages, household size, etc.) and EV ownership.
+This Machine Learning model ties into our overall project in that by finding key variables that contribute to whether someone is likely to own and electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can therefore propose to public policy makers where might be the next best markets for installing charging stations.
 
 ## Visualization
 
