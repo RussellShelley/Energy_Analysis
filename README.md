@@ -10,10 +10,10 @@ The purpose of this project is to explore an overall analysis of the electric ve
 ## Process
 
 **Data Collection**
-* We will collect data from various resources to identify the likelihood of owning an electric vehicle in comparison to demographic and geographic location, such as, proximity to charging stations, household income, and more. 
+* We will collect data from various resources to identify the likelihood of owning an electric vehicle in comparison to demographic and geographic location, such as, proximity to charging stations, county of residence, household income, gender, education, employment, driving frequency, and more.
 
 **Preprocessing and Machine Learning**
-* This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income is a factor in determining ownership. 
+* This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership. 
 
 **Analysis, Presentation, and Visualization**
 * The overall analysis will be written into a Google Slide presentation, as well as visualized on a webpage.
