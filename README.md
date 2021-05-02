@@ -96,8 +96,17 @@ Because we are relating many variables, we will utilize both a Supervised Decisi
 * **Random Forest Drawbacks:** The main limitation of random forest is that a large number of trees can make the algorithm too slow and ineffective for real-time predictions. In general, these algorithms are fast to train, but quite slow to create predictions once they are trained.
 
 ### *Model Results*
-Accuracy, Precision, Sensitivity
+Accuracy: 
 Both models achieved an accuracy score of .90. This means that 90% of observation in the testing set were predicted correctly by the model. Because we have a Supervised Machine Learning dataset with binary outcomes, the accuracy of the predictions can be further analyzed by viewing the Confusion Matrices for the two models. In the Decision Tree Model, out of 4,242 Predicted True's, only 265 were false positives and out of 128 Predicted Falses, there were 149 False Negatives. There were more False Negatives than True Negatives in this result. In the Random Forest Model, out of 4,227 Predicted Trues, there were only 266 False Positives (very similar to the Decision Tree Results) and out of 233 Predicted Falses, there were 165 False Negatives. Again, there were more False Negatives than True Negatives in this model. 
+
+Precision: 
+Precision, also known as positive predictive value (PPV), is a measure of how likely that a Predicted Positive is a True Positive. Precision is obtained by dividing the number of true positives (TP) by the number of all positives (i.e., the sum of true positives and false positives, or TP + FP). For our models below, both the Decision Tree and Random Forest achieved a high Precision score of .94. This means that out of 100 predicted positives, 94 were True Positives. 
+
+Sensitivty/Recall: 
+Another way to assess a model's performance is with sensitivity, also called recall. Sensitivity is a measure of how many True Positives were correctly predicted. For our models below, both the Decision Tree and Random Forest achieved a high Recall Score of .96. This means that the model is 96% likely to correctly guess accurately if someone will own an electric vehicle or not. 
+
+F1 Score - Tradeoff Between Precision and Sensitivity: 
+There is a fundamental tension between precision and sensitivity. Highly sensitive tests and algorithms tend to be aggressive, as they do a good job of detecting the intended targets, but also risk resulting in a number of false positives. High precision, on the other hand, is usually the result of a conservative process, so that predicted positives are likely true positives; but a number of other true positives may not be predicted. In practice, there is a trade-off between sensitivity and precision that requires a balancing act between the two. A useful way to think about the F1 score is that a pronounced imbalance between sensitivity and precision will yield a low F1 score. For our models below, both models achieved a high F1 Score of .95. 
 
 **Decision Tree Results**
 
