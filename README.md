@@ -44,6 +44,12 @@ View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_
 Our model will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. This data will be consolidated into an SQL database (later to be housed by AWS for web interactivity) and the variables will be applied to a Machine Learning model to predict if certain demographic variables are a factor in determining EV ownership. The Survey Data Files are first read in a Jupyter Notebook using Pandas Library in Python. Unique values are counted, unecessary columns are dropped, and the csv files are then connected to a PostgreSQL Database. Using SQL, a Machine Learning Input Table is created by running a Full Outer Join on the personal demographic table with the vehicle ownership table. SQL code is then used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). We also use One Hot Encoder to ensure that all the columns will be numerical when running the model. The data is also scaled and normalized reducing the likelihood that large values will unduly influence the model.
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
+Scikit-learn
+Targets: 
+Features: 
+Reshape
+Stratify?
+
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
 
@@ -56,6 +62,14 @@ Instead of having a single, complex tree like the ones created by decision trees
 
 ### *Model Results*
 Accuracy, Precision, Sensitivity
+
+**Decision Tree Results**
+
+![decision tree](https://user-images.githubusercontent.com/73972332/116798859-940c6500-aaa8-11eb-991e-11bc9d5e94a9.png)
+
+**Random Forest Results**
+
+![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
 ## Visualization
 
