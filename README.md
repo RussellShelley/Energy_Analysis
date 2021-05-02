@@ -39,12 +39,23 @@ Additionally, the database meets all of the criteria requested for this unit's d
 * _The ERD is displayed_ Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/r_verhofste/SQL%20Database/QuickDBD.png) to view the ERD.
 
 ## Machine Learning Model
-In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. This Machine Learning model ties into our overall project in that by finding key variables that contribute to whether someone is likely to own and electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can therefore propose to public policy makers where might be the next best markets for installing charging stations. 
+In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. 
+
+**ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership. 
+Implications: By finding key variables that contribute to whether someone is likely to own an electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can propose to public policy makers where might be the next best markets for installing charging stations.
+
+**Demographic Data Explored:**
+* Education
+* Age
+* Income
+* Household size
+* Number of Vehicles in the household
+* And more...
 
 View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
 ### *Preliminary Data Preprocessing* 
-Code for the Data Preprocessing and Database Table Creations can be found [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/Data%20File%20Review-Practice1.ipynb)
+View Code for the Data Preprocessing and Database Table Creations [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/Data%20File%20Review-Practice1.ipynb)
 
 Our model requires quite a bit in the ETL pipeline. 
 * Reformat and load in data from the survey respondents: Survey Data Files are read into a dataframe in Jupyter Notebook using Python Pandas Library.
@@ -57,16 +68,17 @@ Our model requires quite a bit in the ETL pipeline.
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
 
-Code for the Feature Engineering can be found [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/CREATE_ml_input_table.sql) and [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
+View Code for the Feature Engineering [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/CREATE_ml_input_table.sql) and [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
 **Target:** Whether or not some owns an Electric Vehicle (1 for Yes, 0 for No)
 
 **Features:** Demographic Data such as gender, employment, education, income, household size, etc.
 
-![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
-
 **Feature Engineering:**
 EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). 
+
+![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
+
 
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
