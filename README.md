@@ -44,7 +44,7 @@ View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_
 
 In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership to see if we can predict whether someone is likely to own an electric vehicle or not.  
 
-**ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership to make future predictions on Likelihood of EV Ownership.
+**ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership to make future predictions on likelihood of EV Ownership.
 
 **Implications:** By finding key variables that contribute to whether someone is likely to own an electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can propose to public policy makers where might be the next best markets for installing charging stations.
 
