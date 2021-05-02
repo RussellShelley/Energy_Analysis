@@ -97,7 +97,7 @@ Because we are relating many variables, we will utilize both a Supervised Decisi
 
 ### *Model Results*
 Accuracy, Precision, Sensitivity
-Both models achieved an accuracy score of .90. This means that 90% of observation in the testing set were predicted correctly by the model. Because we have a Supervised Machine Learning dataset with binary outcomes, the accuracy of the predictions can be further analyzed by viewing the Confusion Matrices for the two models. 
+Both models achieved an accuracy score of .90. This means that 90% of observation in the testing set were predicted correctly by the model. Because we have a Supervised Machine Learning dataset with binary outcomes, the accuracy of the predictions can be further analyzed by viewing the Confusion Matrices for the two models. In the Decision Tree Model, out of 4,242 Predicted True's, only 265 were false positives and out of 128 Predicted Falses, there were 149 False Negatives. There were more False Negatives than True Negatives in this result. In the Random Forest Model, out of 4,227 Predicted Trues, there were only 266 False Positives (very similar to the Decision Tree Results) and out of 233 Predicted Falses, there were 165 False Negatives. Again, there were more False Negatives than True Negatives in this model. 
 
 **Decision Tree Results**
 
