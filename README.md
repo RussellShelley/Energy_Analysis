@@ -44,24 +44,43 @@ In this machine learning analysis, we look to explore the relationship of variou
 View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
 ### *Preliminary Data Preprocessing* 
-Our model will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. This data will be consolidated into an SQL database (later to be housed by AWS for web interactivity) and the variables will be applied to a Machine Learning model to predict if certain demographic variables are a factor in determining EV ownership. The Survey Data Files are first read in a Jupyter Notebook using Pandas Library in Python. Unique values are counted, unecessary columns are dropped, and the csv files are then connected to a PostgreSQL Database. Using SQL, a Machine Learning Input Table is created by running a Full Outer Join on the personal demographic table with the vehicle ownership table. SQL code is then used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). We also use One Hot Encoder to ensure that all the columns will be numerical when running the model. The data is also scaled and normalized reducing the likelihood that large values will unduly influence the model.
+Our model requires quite a bit in the ETL pipeline. 
+* Reformat and load in data from the survey respondents: Survey Data Files are read into a dataframe in Jupyter Notebook using Python Pandas Library.
+* Unique values are counted, unnecessary columns are dropped, csv files are then connected to a PostgreSQL Database. 
+* Data is consolidated into an SQL database (later to be housed by AWS for web interactivity).
+* Using SQL, a “Machine Learning Input” Table is created by running a Full Outer Join on the personal demographic table with the vehicle ownership table. 
+* SQL code is then used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. This Feature Engineering is described in further detail on the next slide. 
+* One Hot Encoder is applied to ensure that all the columns will be numerical when running the model. 
+* Data is scaled and normalized reducing the likelihood that large values will unduly influence the model.
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
 Scikit-learn
-Targets: 
-Features: 
+
+**Target:** Whether or not some owns an Electric Vehicle (1 for Yes, 0 for No)
+
+**Features:** Demographic Data such as gender, employment, education, income, household size, etc.
+
+![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
+
+**Feature Engineering:**
+EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). 
+
 Reshape
 Stratify?
 
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
 
+![train test](https://user-images.githubusercontent.com/73972332/116827206-b8218200-ab4c-11eb-9314-e6501c021ea9.png)
+
+
 ### *Model Choice: Limitations and Benefits*
 Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
 
-The benefit to Decision Tree Algorithms is that they are one of the most interpretable models, as they provide a clear representation of how the model works. Decision trees are natural ways in which you can classify or label objects by asking a series of questions designed to zero in on the true answer. However, decision trees can become very complex and very deep, depending on how many questions have to be answered. Deep and complex trees tend to overfit to the data and do not generalize well.
-
-Instead of having a single, complex tree like the ones created by decision trees, a random forest algorithm will sample the data and build several smaller, simpler decision trees. Each tree is simpler because it is built from a random subset of features. Random forest algorithms are beneficial because they are robust against overfitting as all of those weak learners are trained on different pieces of the data, can be used to rank the importance of input variables in a natural way, can handle thousands of input variables without variable deletion, are robust to outliers and nonlinear data and run efficiently on large datasets.
+* **Decision Tree Benefits:** One of the most interpretable models, as they provide a clear representation of how the model works. Easy to classify or label objects by asking a series of questions designed to zero in on the true answer. 
+* **Decision Tree Drawbacks:** Can become very complex and very deep, depending on how many questions have to be answered. Deep and complex trees tend to overfit to the data and do not generalize well.
+* **Random Forest Benefits:** Instead of having a single, complex tree like the ones created by decision trees, a random forest algorithm will sample the data and build several smaller, simpler decision trees. Each tree is simpler because it is built from a random subset of features. Random forest algorithms are beneficial because they are robust against overfitting as all of those weak learners are trained on different pieces of the data, can be used to rank the importance of input variables in a natural way, can handle thousands of input variables without variable deletion, are robust to outliers and nonlinear data and run efficiently on large datasets.
+* **Random Forest Drawbacks:** The main limitation of random forest is that a large number of trees can make the algorithm too slow and ineffective for real-time predictions. In general, these algorithms are fast to train, but quite slow to create predictions once they are trained.
 
 ### *Model Results*
 Accuracy, Precision, Sensitivity
