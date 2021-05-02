@@ -10,10 +10,10 @@ The purpose of this project is to explore an overall analysis of the electric ve
 ## Process
 
 **Data Collection**
-* We will collect data from various resources to identify the likelihood of owning an electric vehicle in comparison to demographic and geographic location, such as, proximity to charging stations, household income, and more. 
+* We will collect data from various resources to identify the likelihood of owning an electric vehicle in comparison to demographic and geographic location, such as, proximity to charging stations, county of residence, household income, gender, education, employment, driving frequency, and more. In 2019, the California Energy Commission ran a [California Vehicle Survey](https://www.energy.ca.gov/data-reports/surveys/california-vehicle-survey) in partnership with the NREL. The 2019 survey had over 6,000 household and commercial survey respondents, including over 700 PEV owners and 300 FCEV owners. The downloadable dataset can be found [here](https://www.nrel.gov/transportation/secure-transportation-data/tsdc-2019-california-vehicle-survey.html).
 
 **Preprocessing and Machine Learning**
-* This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income is a factor in determining ownership. 
+* This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership. 
 
 **Analysis, Presentation, and Visualization**
 * The overall analysis will be written into a Google Slide presentation, as well as visualized on a webpage.
@@ -36,12 +36,40 @@ Our collective database includes five tables, all collected from one large surve
 * `AWS` Relational Database Service (RDS) - Cloud-based web service used to host the `Postgres` database that will be used to run the ML model.
 
 ## Machine Learning Model
+In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. This Machine Learning model ties into our overall project in that by finding key variables that contribute to whether someone is likely to own and electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can therefore propose to public policy makers where might be the next best markets for installing charging stations. 
 
-In this machine learning analysis, we are looking to explore the relationships of many different demographic and environmental variables with electric vehicle ownership and/or electric vehicle charing stations.
+View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
-We have compiled census data on demographics (gender, age, family size, race, income) at the census tract and block level across the state of California. We have also downloaded a GEOjson of air pollution levels from 1986-2010, and we are creating an API to pull EV charging location points from OpenChargeMap.org.
+### *Preliminary Data Preprocessing* 
+Our model will require quite a bit in the ETL pipeline. We will need to reformat and load in data from the survey respondendts. This data will be consolidated into an SQL database (later to be housed by AWS for web interactivity) and the variables will be applied to a Machine Learning model to predict if certain demographic variables are a factor in determining EV ownership. The Survey Data Files are first read in a Jupyter Notebook using Pandas Library in Python. Unique values are counted, unecessary columns are dropped, and the csv files are then connected to a PostgreSQL Database. Using SQL, a Machine Learning Input Table is created by running a Full Outer Join on the personal demographic table with the vehicle ownership table. SQL code is then used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). We also use One Hot Encoder to ensure that all the columns will be numerical when running the model. The data is also scaled and normalized reducing the likelihood that large values will unduly influence the model.
 
-Our hopes are to explore the likelihood of EV ownership within a given zipcode (or) census tract (or) census block (whichever our data best lends itself to), in order to provide homeowners potential recommendations on EV ownership suitability in their region. We also hope to explore the relationship between EV charging stations and actual EV ownership (is the ratio consistent? Are some communities underserved?), the relationship between air pollution and EV charging stations (is EV adoption occurring in communities with high levels of airborne pollution?), as well as the relationships between familial demographics (ages, household size, etc.) and EV ownership.
+### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
+Scikit-learn
+Targets: 
+Features: 
+Reshape
+Stratify?
+
+### *Training and Testing Sets*
+The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
+
+### *Model Choice: Limitations and Benefits*
+Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
+
+The benefit to Decision Tree Algorithms is that they are one of the most interpretable models, as they provide a clear representation of how the model works. Decision trees are natural ways in which you can classify or label objects by asking a series of questions designed to zero in on the true answer. However, decision trees can become very complex and very deep, depending on how many questions have to be answered. Deep and complex trees tend to overfit to the data and do not generalize well.
+
+Instead of having a single, complex tree like the ones created by decision trees, a random forest algorithm will sample the data and build several smaller, simpler decision trees. Each tree is simpler because it is built from a random subset of features. Random forest algorithms are beneficial because they are robust against overfitting as all of those weak learners are trained on different pieces of the data, can be used to rank the importance of input variables in a natural way, can handle thousands of input variables without variable deletion, are robust to outliers and nonlinear data and run efficiently on large datasets.
+
+### *Model Results*
+Accuracy, Precision, Sensitivity
+
+**Decision Tree Results**
+
+![decision tree](https://user-images.githubusercontent.com/73972332/116798859-940c6500-aaa8-11eb-991e-11bc9d5e94a9.png)
+
+**Random Forest Results**
+
+![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
 ## Visualization
 
