@@ -60,6 +60,8 @@ Scikit-learn
 
 **Features:** Demographic Data such as gender, employment, education, income, household size, etc.
 
+![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
+
 **Feature Engineering:**
 EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). 
 
