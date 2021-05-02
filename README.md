@@ -39,6 +39,9 @@ Additionally, the database meets all of the criteria requested for this unit's d
 * _The ERD is displayed_ Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/r_verhofste/SQL%20Database/QuickDBD.png) to view the ERD.
 
 ## Machine Learning Model
+
+View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
+
 In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. 
 
 **ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership.
@@ -53,8 +56,6 @@ In this machine learning analysis, we look to explore the relationship of variou
 * Number of Vehicles in the household
 * And more...
 
-View the Machine Learning Model [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
-
 ### *Preliminary Data Preprocessing* 
 View Code for the Data Preprocessing and Database Table Creations [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/Data%20File%20Review-Practice1.ipynb)
 
@@ -68,7 +69,6 @@ Our model requires quite a bit in the ETL pipeline.
 * Data is scaled and normalized reducing the likelihood that large values will unduly influence the model.
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
-
 View Code for the Feature Engineering [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/CREATE_ml_input_table.sql) and [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
 **Target:** Whether or not some owns an Electric Vehicle (1 for Yes, 0 for No)
