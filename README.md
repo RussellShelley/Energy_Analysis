@@ -53,8 +53,9 @@ Our model requires quite a bit in the ETL pipeline.
 * One Hot Encoder is applied to ensure that all the columns will be numerical when running the model. 
 * Data is scaled and normalized reducing the likelihood that large values will unduly influence the model.
 
+Code for the Data Preprocessing and Database Table Creations can be found [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/Data%20File%20Review-Practice1.ipynb)
+
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
-Scikit-learn
 
 **Target:** Whether or not some owns an Electric Vehicle (1 for Yes, 0 for No)
 
@@ -64,9 +65,7 @@ Scikit-learn
 
 **Feature Engineering:**
 EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a filter conditional statement to check what type of vehicle the survey respondent owns. If the response is an Electric Vehicle (BEV) or Plug In Hybrid Electric (PHEV), then the ev_flag column outputs a 1 (for yes - respondent owns an electric vehicle). If the vehicle is a non-electric vehicle, the column displays a 0 (respondent does not own an electric vehicle). 
-
-Reshape
-Stratify?
+Code for the Feature Engineering can be found [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/SQL%20Database/CREATE_ml_input_table.sql) and [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb)
 
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
