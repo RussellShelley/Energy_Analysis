@@ -48,8 +48,11 @@ Our model will require quite a bit in the ETL pipeline. We will need to reformat
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
 Scikit-learn
+
 **Target:** Whether or not some owns an Electric Vehicle (1 for Yes, 0 for No)
+
 **Features:** Demographic Data such as gender, employment, education, income, household size, etc.
+
 Reshape
 Stratify?
 
