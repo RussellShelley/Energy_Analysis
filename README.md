@@ -56,6 +56,11 @@ Instead of having a single, complex tree like the ones created by decision trees
 
 ### *Model Results*
 Accuracy, Precision, Sensitivity
+**Decision Tree Results**
+![decision tree](https://user-images.githubusercontent.com/73972332/116798859-940c6500-aaa8-11eb-991e-11bc9d5e94a9.png)
+
+**Random Forest Results**
+![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
 ## Visualization
 
