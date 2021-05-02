@@ -97,6 +97,7 @@ Because we are relating many variables, we will utilize both a Supervised Decisi
 
 ### *Model Results*
 Accuracy, Precision, Sensitivity
+Both models achieved an accuracy score of .90. This means that 90% of observation in the testing set were predicted correctly by the model. Because we have a Supervised Machine Learning dataset with binary outcomes, the accuracy of the predictions can be further analyzed by viewing the Confusion Matrices for the two models. 
 
 **Decision Tree Results**
 
