@@ -41,8 +41,9 @@ Additionally, the database meets all of the criteria requested for this unit's d
 ## Machine Learning Model
 In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. 
 
-**ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership. 
-Implications: By finding key variables that contribute to whether someone is likely to own an electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can propose to public policy makers where might be the next best markets for installing charging stations.
+**ML Goal:** Explore the relationship of various demographic variables with electric vehicle ownership.
+
+**Implications:** By finding key variables that contribute to whether someone is likely to own an electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can propose to public policy makers where might be the next best markets for installing charging stations.
 
 **Demographic Data Explored:**
 * Education
