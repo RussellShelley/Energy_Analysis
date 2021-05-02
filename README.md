@@ -45,6 +45,8 @@ Our model will require quite a bit in the ETL pipeline. We will need to reformat
 
 ### *Preliminary Feature Engineering, Feature Selection, and Decision-Making Process*
 ### *Training and Testing Sets*
+The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
+
 ### *Model Choice: Limitations and Benefits*
 Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
 
