@@ -46,6 +46,8 @@ This data will be consolidated into an SQL database (later to be housed by AWS f
 ### *Model Choice: Limitations and Benefits*
 Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
 
+The benefit to Decision Tree Algorithms is that they are one of the most interpretable models, as they provide a clear representation of how the model works. Decision trees are natural ways in which you can classify or label objects by asking a series of questions designed to zero in on the true answer. However, decision trees can become very complex and very deep, depending on how many questions have to be answered. Deep and complex trees tend to overfit to the data and do not generalize well.
+
 ## Visualization
 
 We will incorporate visualizations into `Google Slides`, as well as create an interactive webpage. A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
