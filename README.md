@@ -33,8 +33,8 @@ Our collective database includes five tables, all collected from one large surve
 
 Additionally, the database meets all of the criteria requested for this unit's deliverables. This includes:
 * _The database stores static data for use during the project._ Our static data is stored in Amazon Web Services Relational Database Service, and is used to host the `Postgres` database that is used to run the machine learning model.
-* _The database interfaces with the project in some format._ The database interfaces direclty with the machine learning model, and is stored on AWS RD. View a screenshot of the AWS RDS page [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/images/AWS.png)
-* _Includes at least two tables._ : Our database includes 5 tables, `PostgresSQL` - was used to create these tables and joining was preprocessed for datasets for the ML model. Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/images/AWS_PGadmin_page.png) to view a screenshot of the PGadmind page.
+* _The database interfaces with the project in some format._ The database interfaces direclty with the machine learning model, and is stored on AWS RD. View a screenshot of the AWS RDS page [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/AWS.PNG)
+* _Includes at least two tables._ : Our database includes 5 tables, `PostgresSQL` - was used to create these tables and joining was preprocessed for datasets for the ML model. Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/PGadmin_page.PNG) to view a screenshot of the PGadmind page.
 * _Includes at least one connection string_ : The data is connected via schalchemy to the machine learning model. Click [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb) to view the the connection string in the machine learning model.
 * _The ERD is displayed_ Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/r_verhofste/SQL%20Database/QuickDBD.png) to view the ERD.
 
