@@ -30,10 +30,13 @@ The purpose of this project is to explore an overall analysis of the electric ve
 ## Database
 
 Our collective database includes five tables, all collected from one large survey of electric vehicle ownership across California (4,000 respondents). The database was created in PostgreSQL (PGadmin), and is now stored on Amazon Web Services RDS (free tier). This allows any team member to link to - and update - the collective database. There are greater than 2 joins within SQL and there are two additional joins within our Jupyter Notebook Machine Learning model. 
-* Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/r_verhofste/SQL%20Database/QuickDBD.png) to view the ERD.
 
-* `PostgresSQL` - Used to create tables and joining preprocessed datasets for ML model.
-* `AWS` Relational Database Service (RDS) - Cloud-based web service used to host the `Postgres` database that will be used to run the ML model.
+Additionally, the database meets all of the criteria requested for this unit's deliverables. This includes:
+* _The database stores static data for use during the project._ Our static data is stored in Amazon Web Services Relational Database Service, and is used to host the `Postgres` database that is used to run the machine learning model.
+* _The database interfaces with the project in some format._ The database interfaces direclty with the machine learning model, and is stored on AWS RD. View a screenshot of the AWS RDS page [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/images/AWS.png)
+* _Includes at least two tables._ : Our database includes 5 tables, `PostgresSQL` - was used to create these tables and joining was preprocessed for datasets for the ML model. Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/main/images/AWS_PGadmin_page.png) to view a screenshot of the PGadmind page.
+* _Includes at least one connection string_ : The data is connected via schalchemy to the machine learning model. Click [Here](https://github.com/RussellShelley/Energy_Analysis/blob/main/Machine_Learning/ML_Decision_Tree_And_Random_Forest.ipynb) to view the the connection string in the machine learning model.
+* _The ERD is displayed_ Click [here](https://github.com/RussellShelley/Energy_Analysis/blob/r_verhofste/SQL%20Database/QuickDBD.png) to view the ERD.
 
 ## Machine Learning Model
 In this machine learning analysis, we look to explore the relationship of various demographic variables with electric vehicle ownership. This Machine Learning model ties into our overall project in that by finding key variables that contribute to whether someone is likely to own and electric vehicle and comparing those demographics to geographic data such as number of EV Charging Stations, we can therefore propose to public policy makers where might be the next best markets for installing charging stations. 
