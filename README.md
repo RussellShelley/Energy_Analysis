@@ -121,6 +121,11 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 ## Visualization
 
 We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as create an interactive webpage. 
+The website will be interactive in that users will be able to Toggle between tabs to switch pages. Content includes:
+* All About Electric Vehicles - History, statistics, average charging cost
+* Latest News - Links to the latest news articles from the Energy Commission website
+* Charging Station Finder - Map of charging stations based on location
+* 
 A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/ALio/Visualization/Images/Webpagedraft1.png)
