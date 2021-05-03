@@ -7,6 +7,8 @@ Electric vehicles currently make up only about 2% of all cars sold in the US. Ma
 
 The purpose of this project is to explore an overall analysis of the electric vehicle car market, availability of charging stations, and potential climate implications. We chose this topic because of its immediate relevance as well as potential large scale global and humanitarian impact. 
 
+View an In-Depth Presentation of our Project on Google Slides [Here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1)
+
 ## Process
 
 **Data Collection**
