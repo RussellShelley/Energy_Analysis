@@ -118,7 +118,7 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ## Visualization
 
-We will incorporate visualizations into `Google Slides`, as well as create an interactive webpage. A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
+We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as create an interactive webpage. A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/ALio/Visualization/Images/Webpagedraft1.png)
 
