@@ -16,7 +16,7 @@ The purpose of this project is to explore an overall analysis of the electric ve
 * This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership. 
 
 **Analysis, Presentation, and Visualization**
-* The overall analysis will be written into a Google Slide presentation, as well as visualized on a webpage.
+* The overall analysis will be written into a Google Slide presentation viewable [here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as visualized on a webpage.
 
 ## Technology
 
