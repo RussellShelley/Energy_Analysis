@@ -1,21 +1,15 @@
-## Vizualizations - 
+## Interactive Maps ## 
 
-## Graph 1
+## Map1 
 ### Map of PHEV vehicles by ZIP code - Tableau
 **Source https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data **
+https://public.tableau.com/views/ElectricVehiclePopulation4302021/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
-## Graph 2
-### Map of EV Charging Stations by GEO Location ID - Tableau
-**Source: https://developer.nrel.gov/api/alt-fuel-stations/v1.csv?fuel_type=E85,ELEC&state=CA&limit=1000&api_key **
-
-## Graph 3 
+## Map2 
 ### Map of EV Charging Station with Median Household Income in Each County - Tableau
 **Source: https://developer.nrel.gov/api/alt-fuel-stations/v1.csv?fuel_type=E85,ELEC&state=CA&limit=1000&api_key **
 **Source: https://www.census.gov/data/datasets/2019/demo/saipe/2019-state-and-county.html**
-
-## Graph 4
-### EVs on the Road by Automaker and Vehicle Type **
-**Source https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data **
+https://public.tableau.com/views/EV_16187643788980/CaliforniaIncomeandEVStations?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 Connect the three Databases by County (in Tableau)
 
