@@ -1,0 +1,121 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Shape_Length" : "Shape_Length",
+    "Shape_Area" : "Shape_Area",
+    "Descr" : "Descr"
+  },
+  "geometryType" : "esriGeometryPolygon",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Shape_Length",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape_Length"
+    },
+    {
+      "name" : "Shape_Area",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape_Area"
+    },
+    {
+      "name" : "Descr",
+      "type" : "esriFieldTypeString",
+      "alias" : "Descr",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "Shape_Length" : 2278176.3473881083,
+        "Shape_Area" : 311039899900.76642,
+        "Descr" : "This zone contains 60% of all lithium deposits on Earth"
+      },
+      "geometry" : {
+        "curveRings" : [
+          [
+            [
+              -7793878.1635999996,
+              -2478911.050999999
+            ],
+            [
+              -7791553.0362,
+              -2477294.7989000008
+            ],
+            {
+              "c" : [
+                [
+                  -7397771.8791000005,
+                  -2084428.1528999992
+                ],
+                [
+                  -7604724.0699265525,
+                  -2270776.4423140958
+                ]
+              ]
+            },
+            {
+              "c" : [
+                [
+                  -7284134.8302999996,
+                  -2904238.2908999994
+                ],
+                [
+                  -7318405.6410538591,
+                  -2491207.796257766
+                ]
+              ]
+            },
+            {
+              "c" : [
+                [
+                  -7366927.5373,
+                  -2995147.9299999997
+                ],
+                [
+                  -7310557.227846968,
+                  -2963330.1060286174
+                ]
+              ]
+            },
+            {
+              "c" : [
+                [
+                  -7678617.7283999994,
+                  -2824692.3566999994
+                ],
+                [
+                  -7532006.1222397126,
+                  -2926804.2382965507
+                ]
+              ]
+            },
+            {
+              "c" : [
+                [
+                  -7793878.1635999996,
+                  -2478911.050999999
+                ],
+                [
+                  -7802432.5319772139,
+                  -2673863.2325286521
+                ]
+              ]
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}
