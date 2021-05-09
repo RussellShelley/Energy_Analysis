@@ -4,9 +4,30 @@ body {
 }
 
 .jumbotron {
-    background-image: url("../images/gas-vs-electric.png");
     background-size: 100%100%;
-    text-align: center
-
-
   }
+
+/* Set height of body and the document to 100% to enable "full page tabs" */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  /* Style tab links */
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 20%;
+  }
+  
+  .tablink:hover {
+    background-color: red;
+  }
+  
