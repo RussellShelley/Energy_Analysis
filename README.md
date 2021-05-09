@@ -82,12 +82,10 @@ EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a f
 
 ![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
 
-
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
 
 ![train test](https://user-images.githubusercontent.com/73972332/116827206-b8218200-ab4c-11eb-9314-e6501c021ea9.png)
-
 
 ### *Model Choice: Limitations and Benefits*
 Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
@@ -120,12 +118,14 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ## Visualization
 
-We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as create an interactive webpage. 
+We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as create an interactive webpage. 
 
 The website will be interactive in that users will be able to Toggle between tabs to switch pages. Content includes:
-* All About Electric Vehicles - History, statistics, average charging cost
-* Latest News - Links to the latest news articles from the Energy Commission website
-* Charging Station Finder - Map of charging stations based on location
+* **About** - Description of the project, Machine Learning usage and analysis of the results.
+* **EV Information** - History, statistics, average charging cost and latest news from [Energy.ca.gov](https://www.energy.ca.gov) website.
+* **Vehicle Population Map by Fuel Type** - Link to visual map generated using `Tableau` with the data collected of vehicle population by fuel type for the state of California.
+* **Charging Station Finder** - Link to map of charging stations based on location that user can enter zipcode/address from [Openchargemap.org](https://openchargemap.org/site).
+* **Consumption and Impact** - Visual map to correlate pollution data, EV population and energy consumption with EV manufacturing.
 
 A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
@@ -146,13 +146,3 @@ A working draft of webpage can be found [here](https://amylio.github.io/Project_
 * Daniele Ruiz - [Database Guru](https://github.com/RussellShelley/Energy_Analysis/tree/d_ruiz)
 * Valerie Achoa - [Data Analysis Expert](https://github.com/RussellShelley/Energy_Analysis/tree/va_achoa)
 * Amy Lio - [Visualization and Experience Manager](https://github.com/RussellShelley/Energy_Analysis/tree/ALio)
-
-## Team Communication Protocols
-* `Slack`- #final_project_energy channel
-* `Zoom`
-	* Week 1 check-in 10am Sunday, April 17th (PST)
-	* Week 2 TBD
-	* Week 3 check-in 10am Sunday, May 2nd (PST)
-
-
-
