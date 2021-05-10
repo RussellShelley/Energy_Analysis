@@ -129,7 +129,7 @@ The website will be interactive in that users will be able to Toggle between tab
 
 A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
-![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/ALio_2/Visualization/Images/WebpageScreenShot.png)
+![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenShotv2.png)
 
 ## Resources
 
