@@ -116,7 +116,7 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
-## Visualization
+## Dashboard/Visualization
 
 We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as create an interactive webpage. 
 
