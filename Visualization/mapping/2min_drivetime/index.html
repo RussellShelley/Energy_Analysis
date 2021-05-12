@@ -1,0 +1,86 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Leverage a Geoprocessing Service</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+  <!-- Load Leaflet from CDN -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+  <!-- Load Esri Leaflet from CDN -->
+  <script src="https://unpkg.com/esri-leaflet@3.0.1/dist/esri-leaflet.js"
+    integrity="sha512-JmpptMCcCg+Rd6x0Dbg6w+mmyzs1M7chHCd9W8HPovnImG2nLAQWn3yltwxXRM7WjKKFFHOAKjjF2SC4CgiFBg=="
+    crossorigin=""></script>
+
+  <style>
+    body { margin:0; padding:0; }
+    #map { position: absolute; top:0; bottom:0; right:0; left:0; }
+  </style>
+</head>
+<body>
+
+<!-- load the latest release from the cdn automatically -->
+<script src="https://unpkg.com/esri-leaflet-gp"></script>
+
+<style>
+  #info-pane {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    padding: 1em;
+    background: white;
+  }
+</style>
+
+<div id="map"></div>
+<div id="info-pane" class="leaflet-bar">
+  <label>
+    click on the map to calculate<br>1 and 2 minute drivetime polygons
+  </label>
+</div>
+
+<script type='text/javascript'>
+  var map = L.map('map').setView([37.78, -122.42], 12);
+
+  L.esri.basemapLayer('Gray').addTo(map);
+
+  var gpService = L.esri.GP.service({
+    url: 'https://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Network/ESRI_DriveTime_US/GPServer/CreateDriveTimePolygons',
+    useCors: false
+  });
+
+  var gpTask = gpService.createTask();
+
+  gpTask.setParam('Drive_Times', '1 2');
+
+  var driveTimes = L.featureGroup();
+  map.addLayer(driveTimes);
+
+  var infoPane = document.getElementById('info-pane');
+
+  map.on('click', function (evt) {
+    infoPane.innerHTML = 'working...';
+    driveTimes.clearLayers();
+    gpTask.setParam('Input_Location', evt.latlng);
+    gpTask.run(driveTimeCallback);
+  });
+
+  function driveTimeCallback (error, response, raw) {
+    infoPane.innerHTML = 'click on the map to calculate<br>1 and 2 minute drivetimes';
+
+    if (error) {
+      return;
+    }
+
+    driveTimes.addLayer(L.geoJSON(response.Output_Drive_Time_Polygons));
+  }
+</script>
+
+</body>
+</html>
