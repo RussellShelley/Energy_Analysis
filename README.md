@@ -140,7 +140,7 @@ A working draft of webpage can be found [here](https://amylio.github.io/Project_
 
 ## Project Team Members
 
-* Russell Shelley - [GitHub Repository Owner](https://github.com/RussellShelley/Energy_Analysis)
+* Russell Shelley - [Python/Analytics/GitHub](https://github.com/RussellShelley/Energy_Analysis)
 * Angela Haverly - [Technology Master](https://github.com/RussellShelley/Energy_Analysis/tree/a_haverly)
 * Robbe Verhofste - [Machine Learning Architect](https://github.com/RussellShelley/Energy_Analysis/tree/r_verhofste)
 * Daniele Ruiz - [Database Guru](https://github.com/RussellShelley/Energy_Analysis/tree/d_ruiz)
