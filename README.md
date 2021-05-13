@@ -120,7 +120,7 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 We have incorporated visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as created an interactive webpage. 
 
-The website has interactive elements where users will be able to Toggle between tabs to switch pages, as well have the ability to enter inputs. Content includes:
+The website has functionality that allows users to toggle between tabs to switch pages, as well as the ability to enter inputs. Content includes:
 * **About** - Description of the project, a review of the Machine Learning process and analysis of the results.
 * **EV Information** - History, statistics, average charging cost and latest news from [Energy.ca.gov](https://www.energy.ca.gov) website.
 * **Vehicle Population Map by Fuel Type** - Link to visual map generated using `Tableau` with the data collected of vehicle population by fuel type for the state of California.
