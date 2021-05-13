@@ -118,18 +118,18 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ## Dashboard/Visualization
 
-We will incorporate visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as create an interactive webpage. 
+We have incorporated visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as created an interactive webpage. 
 
-The website will be interactive in that users will be able to Toggle between tabs to switch pages. Content includes:
-* **About** - Description of the project, Machine Learning usage and analysis of the results.
+The website has interactive elements where users will be able to Toggle between tabs to switch pages, as well have the ability to enter inputs. Content includes:
+* **About** - Description of the project, a review of the Machine Learning process and analysis of the results.
 * **EV Information** - History, statistics, average charging cost and latest news from [Energy.ca.gov](https://www.energy.ca.gov) website.
 * **Vehicle Population Map by Fuel Type** - Link to visual map generated using `Tableau` with the data collected of vehicle population by fuel type for the state of California.
 * **Charging Station Finder** - Link to map of charging stations based on location that user can enter zipcode/address from [Openchargemap.org](https://openchargemap.org/site).
-* **Consumption and Impact** - Visual map to correlate pollution data, EV population and energy consumption with EV manufacturing.
+* **Consumption and Impact** - Visual map to explore the sources of the global lithium trade.
 
-A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
+The webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
 
-![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenShotv2.png)
+![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenshotv5.png)
 
 ## Resources
 
