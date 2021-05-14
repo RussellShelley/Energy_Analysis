@@ -18,7 +18,7 @@ View an In-Depth Presentation of our Project on Google Slides [Here](https://doc
 * This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership. 
 
 **Analysis, Presentation, and Visualization**
-* The overall analysis will be written into a Google Slide presentation viewable [here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as visualized on a webpage [here](https://amylio.github.io/Project_Web_Test/).
+* The overall analysis will be written into a Google Slide presentation viewable [here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as visualized on a webpage [here](https://amylio.github.io/Electrifying_AI/).
 
 ## Technology
 
@@ -127,7 +127,7 @@ The website has functionality that allows users to toggle between tabs to switch
 * **Charging Station Finder** - Link to map of charging stations based on location that user can enter zipcode/address from [Openchargemap.org](https://openchargemap.org/site).
 * **Consumption and Impact** - Visual map to explore the sources of the global lithium trade.
 
-The webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
+The webpage can be found [here](https://amylio.github.io/Electrifying_AI/)
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenshotv5.png)
 
