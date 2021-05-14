@@ -230,11 +230,11 @@ L.control.layers(baseMaps, overlays).addTo(map);
 
       var marker = L.popup()
       .setLatLng([-20.561884, -67.377676])
-      .setContent("<h1> Bolivian Salt Miners Shovel Lithium Salts </h1> <h4> 60% of global lithium reserves are located in the salt flats of the 'Lithium Triangle' which spans portions of Bolivia, Chile, and Argentina. Here, you're looking at salt miners shoveling lithium-rich salt in the Salar de Uyuni mine in Altiplano, Bolivia. </h4> <p> Zoom out to explore this salt flat and the others in the region.  </p> <img src='./Images/Lithium_1.jpg' />")
+      .setContent("<h4> Bolivian Salt Miners Shovel Lithium Salts </h4> <h5> 60% of global lithium reserves are located in the salt flats of the 'Lithium Triangle' which spans portions of Bolivia, Chile, and Argentina. Here, you're looking at salt miners shoveling lithium-rich salt in the Salar de Uyuni mine in Altiplano, Bolivia. </h5> <p> Zoom out to explore this salt flat and the others in the region.  </p> <img src='https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/WebMockup/images/Lithium_1.jpg?raw=true', />")
       .openOn(map)
       .maxWidth(10000)
       .minWidth(200);
-
+      
       var myTriangle = L.polygon([[-25.581712, -65.920559], [-23.215772, -70.561488], [-18.576316, -66.032667]], {color: "blue", weight: 8, fillColor: "blue", fillOpacity: 1});
       var buttons = document.getElementsByName("geometry");
 		
