@@ -4,35 +4,46 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Energy Analysis</title>
+    <title>ELECTRIFYING AI</title>
 <link
     rel="stylesheet"
     href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
     crossorigin="anonymous"
   />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong&effect=neon|outline|emboss|shadow-multiple">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton|Audiowide|Sofia|Trirong&effect=neon|outline|emboss|shadow-multiple">
   <link rel="stylesheet" href="static/css/style.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
    crossorigin=""/>
-   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-   crossorigin=""></script>
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+ integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+ crossorigin=""></script>
   <link rel="stylesheet" href="static/css/style1.css">
-  <link rel="import" href="index2.html"/>
+  <!--link rel="import" href="static/js/index2.html"-->
 
 </head>
 
+<button onclick="topFunction()" id="myBtn" title="Go to top"><h3><span>&#8679;</span></h3></button>
 <button class="tablink" onclick="openPage('About', this, 'blue')"id="defaultOpen">About</button>
-<button class="tablink" onclick="openPage('EV Info', this, 'black')">EV Information</button>
-<button class="tablink" onclick="openPage('Map', this, 'green')">Fuel Type Population Map</button>
+<button class="tablink" onclick="openPage('EV Info', this, 'green')">EV Information</button>
+<button class="tablink" onclick="openPage('Map', this, 'orange')">Fuel Type Population Map</button>
 <button class="tablink" onclick="openPage('Charging', this, 'grey')">EV Charging Station Locator</button>
 <button class="tablink" onclick="openPage('Consumption', this, 'orange')">Consumption and Impact</button>
 
 <div id="About" class="tabcontent">
         <div class="wrapper">
             <div class="row">
+                <div class="col-md-12">
+                    <div class="text"><text2 style="font-family: 'Monoton', cursive;">ELECTRIFYING</text2> <b class="font-effect-shadow-multiple" 
+                        style="font-family: 'Monoton', cursive;">AI</b><br><h3 class="font-effect-shadow-multiple" style="font-family: Audiowide"><b>Predicting EV Preference through Machine Learning</b></h3>
+                    </div>
+                    <!--div class="jumbotron jumbotron-fluid" style="font-family: Audiowide; background:linear-gradient(to bottom, green 5%, white 75%)!important;">
+                        <div class="container" class="display-" style="height: 10px;">
+                    <b><h1 class="text-black text-center font-effect-shadow-multiple">ELECTRIFYING AI</b><br></h1-->
+                        <!--h2 class="text-black text-center font-effect-shadow-multiple">Predicting EV Preference through Machine Learning</h2><br-->
+                    </div>
             <div class="col-md-8">
                 <div class="jumbotron" style="background-image: url(https://github.com/amylio/Project_Web_Test/blob/main/static/images/electricplug.jpg?raw=true); 
             background-size:100%100%;">
@@ -41,10 +52,10 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="jumbotron" style="background:linear-gradient(to left, green 5%, white 55%)!important;">
+            <div class="jumbotron" style="background:linear-gradient(to left, white 5%, white 55%)!important;">
             <div class="container" style="height: 300px;">
-                <h3 class="text-black text-left font-effect-shadow-multiple class="display-4" style="font-family: Audiowide "><b><u>Project Team</h6></b></u><h6>(in Alphabetical Order)</h6><br>
-                    <h5 class="ffont-effect-outline">Amy Lio - <a href="https://github.com/amylio"target="_blank" rel="noopener noreferrer">Link to GitHub</a><br>
+                <h3 class="text-black text-left font-effect-shadow-multiple" class="display-4" style="font-family: Audiowide "><b><u>Project Team</h6></b></u><h6>(in Alphabetical Order)</h6><br>
+                    <h5>Amy Lio - <a href="https://github.com/amylio"target="_blank" rel="noopener noreferrer">Link to GitHub</a><br>
                         Angela Haverly - <a href="https://github.com/angienoelhaverly"target="_blank" rel="noopener noreferrer">Link to GitHub</a><br>
                         Daniele Ruiz - <a href="https://github.com/DYRuiz"target="_blank" rel="noopener noreferrer">Link to GitHub</a><br>
                         Robbe Verhofste - <a href="https://github.com/robbe-verhofste"target="_blank" rel="noopener noreferrer">Link to GitHub</a><br>
@@ -56,17 +67,17 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <div style="font-family: Audiowide">
-                    <h1 class="font-effect-shadow-multiple"><b>Energy Consumption and Electric Vehicle Population</b></h1></div>
+                    <h3 style="font-family: Audiowide" class="font-effect-shadow-multiple"><b>Project Overview</b></h3><br>
                     <h5 id="rcorners2">The purpose of this project is to conduct an overall analysis of the electric vehicle car market, availability of charging stations, potential climate implications and 
-                        use of Machine Learning to make future predictions on likelihood of EV ownership.<br><br>
-                        <ul><span>&#8226;</span>  Electric vehicles currently make up 2% of all cars sold in the US. Many drivers have put off purchasing electric vehicles<br>
-                         for many reasons, such as expense and concerns over the accessibility to charging options (e.g. public charging stations,<br>
-                         in-home setup). However, current trends show that these statistics are likely to change as the automotive market moves to introduce more affordable models.<br>
-                         <span>&#8226;</span>  A global focus on reducing greenhouse gases in support of minimizing climate change.<br>      
-                         <span>&#8226;</span> Most automakers have committed to all of its sales to be zero-emission, electrified vehicles by 2040 with at least 40% of the sales by 2030. 
+                        use Machine Learning to make future predictions on likelihood of EV ownership.<br><br>
+                         Electric vehicles currently make up 2% of all cars sold in the US. Many drivers have put off purchasing electric vehicles
+                         for many reasons, such as expense and concerns over the accessibility to charging options (e.g. public charging stations,
+                         in-home setup). However, current trends show that these statistics are likely to change as the automotive market moves to introduce more affordable models.<br><br>
+                        
+                        <ul><span>&#8226;</span>  A global focus on reducing greenhouse gases in support of minimizing climate change.<br>      
+                        <span>&#8226;</span> Most automakers have committed to all of its sales to be zero-emission, electrified vehicles by 2040 with at least 40% of the sales by 2030. 
                         <small><a href="https://www.consumerreports.org/hybrids-evs/why-electric-cars-may-soon-flood-the-us-market/" target="_blank" rel="noopener noreferrer">[Source]</a></small><br>                      
-                        <span>&#8226;</span> The president’s current infrastructure plan plan intends to bring electric cars fully into the mainstream by spending $174 billion
+                        <span>&#8226;</span> The president’s current infrastructure plan intends to bring electric cars fully into the mainstream by spending $174 billion
                         to promote EVs and build charging stations. <small><a href="https://www.caranddriver.com/news/a36017463/biden-23-trillion-infrastructure-plan-electric-cars/" target="_blank" rel="noopener noreferrer">
                         [Source]</a></small></h5>
 
@@ -97,13 +108,13 @@
                 <h5>Data sourced from the <a href="https://www.energy.ca.gov/data-reports/surveys/california-vehicle-survey"target="_blank" rel="noopener noreferrer">2019 California Vehicle Survey</a> conducted by California Energy Commission 
                 showed the following:                                                                                                                                                                                                                              
                 <br><br>
-                <p id="rcorners2"><b>* 63.9% of the owners are in the 35-64 age group</b>
-                <center><img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/Age_donuts.png?raw=true"></center><br><br></p>
-                <p id="rcorners2"><b>* There are more male owners than female owners and the majority of the owners have a college or post graduate degree with an average 
+                <p id="rcorners2"><b>63.9% of the owners are in the 35-64 age group</b>
+                <center><img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/Old/Age_donuts.png?raw=true"></center><br><br></p>
+                <p id="rcorners2"><b>There are more male owners than female owners and the majority of the owners have a college or post graduate degree with an average 
                        income greater than $100K</b></h5><br><br>
-                <center><img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/genderBarpng.png?raw=true">
-                <img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/EducationIncome_.Boxplots.png?raw=true"></center></p></div>
-   
+                <center><img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/Gender_dualy.png?raw=true">
+                <img src="https://github.com/RussellShelley/Energy_Analysis/blob/main/Images/Seaborn_Visual_PNGs/EducationIncome_Boxplots(cb).png?raw=true"></center></p-->
+                  
                 </div>
                 <div class="col-md-12"><br>
                     <h3 style="font-family: Audiowide" class="font-effect-shadow-multiple"><b>Summary of Findings</b></h3><br>                                                                                                                                                                             
@@ -112,12 +123,30 @@
                     <ul><span>&#8226;</span>  Overall cost of vehicle<br>
                     <span>&#8226;</span>  Accessibility to charging station or in-home charging options<br>
                     <span>&#8226;</span>  Size and capacity of vehicle (e.g. ability to fit families with multiple passengers including children)<br>
-                    <span>&#8226;</span>  Tax credits and incentives (e.g. toll free driving, carpool lane and parking access for single occupants, etc.)
+                    <span>&#8226;</span>  Tax credits and incentives (e.g. toll free driving, carpool lane and parking access for single occupants, etc.)<br>
+                    <span>&#8226;</span> General attitude to new technology
                     <br></ul>
-                    By finding the key variables and comparing those demographics to geographic data such as number of EV Charging Stations, we can propose to public policy makers where might be the next best markets for installing charging stations.
+                    In the near future as the used PEV market becomes more robust and the idea of PEV grows in familiarity, we should expect to see households with more modest incomes and 
+                    ‘late majority’ attitudes towards new tech riding in electric vehicles. 
                     
        
                     </div>
+                <div class="col-md-12"><br>
+                     <h3 style="font-family: Audiowide" class="font-effect-shadow-multiple"><b>Project Challenges and Next Steps</b></h3><br>                                                                                                                                                                             
+                        <h5 id="rcorners2">
+                            <b>Challenges with Source Data:</b><br>
+                            <p><ul><span>&#8226;</span> Information available to the public is limited and the number of respondants to surveys is small.<br> 
+                                <span>&#8226;</span> Accessibility to more information on ownership of EV with Demographic and Proximity to Charging Stations would have allowed 
+                            for the Machine Learning Model to make more robust predictions.<br>
+                            <span>&#8226;</span> For the subset of 718 PEV owners from the survey data, we were missing the question in the merged table what their proximity was to EV Charging Stations. 
+                            <br></p></ul>
+                        <b>Next Steps:</b><br>
+                        <p><ul><span>&#8226;</span> Do more research and work to include the charging station data into our Machine Learning Model as we believe it is an 
+                            important factor to determine likelihood of ownership.</ul></p> 
+
+                        
+           
+                        </div>
                 
             </div>              
             </div>
@@ -161,10 +190,10 @@
                         will be the preferred choice especially as technology improves so will the look and performance. Take a look at some future concepts that are coming to life in 2022:
                         <br><br>
                         <label><b><u>Mercedes Benz EQS</u></b></label><br>
-                        <img src="https://github.com/amylio/Project_Web_Test/blob/main/static/images/2022-EQS-CH-DR.jpg?raw=true">
+                        <img src="https://github.com/amylio/Project_Web_Test/blob/main/static/images/2022-EQS-CH-DR.jpg?raw=true" width="auto">
                         <br><br>
                         <label><b><u>BMW i4</u></b></label><br>
-                        <img src="https://github.com/amylio/Project_Web_Test/blob/main/static/images/BMW-2022-SOC-i4-Stats-Tablet.jpg?raw=true"></p>
+                        <img src="https://github.com/amylio/Project_Web_Test/blob/main/static/images/BMW-2022-SOC-i4-Stats-Tablet.jpg?raw=true" width="auto"></p>
                 </div>
                  <div class="col-md-3">
                     <li class="bg-dark text-white list-group-item">
@@ -386,15 +415,24 @@
                 <div class="row">
                      <div class="col-md-12">
                     <p>
-                        <h2><b>Better in the Long-Run, But Even EV's Have an Ecological Impact.</b></h4><br>
-                    <h10>Before exploring the nuances of electric vehicles, let's be straight: if you're going to purchase a new (or used) car, purchasing (and using) an electric vehicle will have significantly lower negative impacts to the environment than an a gasoline-powered vehice. However, that doesn't mean *no* impact - the production of any good results in some (positive or negative) environmental impact and cars - both electric and gas-powered, are massive machines that are produced on a collosal scale. In the U.S. alone (in 2018), there were 279 million registered cars on the road.<a href="https://hedgescompany.com/automotive-market-research-statistics/auto-mailing-lists-and-marketing/",title="History_of_the_electric_vehicle" target="_blank" rel="noopener noreferrer">[1]</a>
+                    <!--h4><b>"Plug-in electric vehicles (also known as electric cars or EVs) can help keep your town and your world clean. In general, EVs produce fewer emissions that contribute to 
+                        climate change and smog than conventional vehicles."</b></h4><br>
+                        <h6>Source: <a href="https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles">"Reducing Pollution with Electric Vehicles" - Energy.gov</a></h6-->
                         
-                        While electric vehicles have much greater energy efficiency as opposed to gas-powered vehicles over their entire lifespan, the CO2 expenditure required to produce one is between 15-68% greater than it's gas-poweder counterparts. Both gas-powered and EVs have similar components, but EVs also contain a large lithium-ion battery.<a href="https://www.politifact.com/factchecks/2021/may/11/viral-image/producing-electric-cars-battery-does-not-emit-same/",title="History_of_the_electric_vehicle" target="_blank" rel="noopener noreferrer">[2]</a> It is sourcing and producing these batteries can result in significant environmental impacts.</h10><br>
-                        <H4><i>So where does lithium for our electric vehicles come from?</i></H4>
-                    <H4>Explore the map below to find out.</H4></p>
-
-                    <br><br>
-                                    <!-- <!-- Leaflet CSS -->
+                    <h2 class="text-black font-effect-shadow-multiple"><b>Better in the Long-Run, But Even EV's Have an Ecological Impact.</b></h4>
+                    <h9>Before exploring the nuances of electric vehicles, let's be straight: if you're going to purchase a new (or used) car, purchasing (and using) an electric vehicle will 
+                        have significantly lower negative impacts to the environment than an a gasoline-powered vehice. However, that doesn't mean *no* impact - the production of any good 
+                        results in some (positive or negative) environmental impact and cars - both electric and gas-powered, are massive machines that are produced on a collosal scale. 
+                        In the U.S. alone (in 2018), there were 279 million registered cars on the road.
+                        <a href="https://hedgescompany.com/automotive-market-research-statistics/auto-mailing-lists-and-marketing/",title="History_of_the_electric_vehicle" target="_blank" rel="noopener noreferrer">[1]</a>
+                                    
+                        While electric vehicles have much greater energy efficiency as opposed to gas-powered vehicles over their entire lifespan, the CO2 expenditure required to produce one is 
+                        between 15-68% greater than it's gas-powered counterparts. Both gas-powered and EVs have similar components, but EVs also contain a large lithium-ion battery.
+                        <a href="https://www.politifact.com/factchecks/2021/may/11/viral-image/producing-electric-cars-battery-does-not-emit-same/",title="History_of_the_electric_vehicle" target="_blank" rel="noopener noreferrer">[2]</a> 
+                        It is sourcing and producing these batteries can result in significant environmental impacts.</h9><br><br>
+                        <H4><i>So where does the lithium for our electric vehicles come from? Explore the map below to find out:</i></H4>
+                    <br>
+                                    <!--Leaflet CSS -->
                 <div id="mapid"></div>
                 <!-- Leaflet JavaScript -->
                 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
