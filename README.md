@@ -116,9 +116,9 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
-## Dashboard/Visualization
+## [Dashboard/Visualization](https://amylio.github.io/Electrifying_AI/)
 
-We have incorporated visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as created an interactive webpage. 
+We have incorporated visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as created an [interactive webpage](https://amylio.github.io/Electrifying_AI/).
 
 The website has functionality that allows users to toggle between tabs to switch pages, as well as the ability to enter inputs. Content includes:
 * **About** - Description of the project, a review of the Machine Learning process and analysis of the results.
@@ -127,7 +127,7 @@ The website has functionality that allows users to toggle between tabs to switch
 * **Charging Station Finder** - Link to map of charging stations based on location that user can enter zipcode/address from [Openchargemap.org](https://openchargemap.org/site).
 * **Consumption and Impact** - Visual map to explore the sources of the global lithium trade.
 
-The webpage can be found [here](https://amylio.github.io/Electrifying_AI/)
+### The webpage can be found [here](https://amylio.github.io/Electrifying_AI/)
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenshotv5.png)
 
