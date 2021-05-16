@@ -7,6 +7,8 @@ Electric vehicles currently make up only about 2% of all cars sold in the US. Ma
 
 The purpose of this project is to explore an overall analysis of the electric vehicle car market, availability of charging stations, and potential climate implications. We chose this topic because of its immediate relevance as well as potential large scale global and humanitarian impact. 
 
+View an In-Depth Presentation of our Project on Google Slides [Here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1)
+
 ## Process
 
 **Data Collection**
@@ -16,7 +18,7 @@ The purpose of this project is to explore an overall analysis of the electric ve
 * This data will be consolidated into a database and the variables will be applied to a Machine Learning model to predict if household income, education, income, geographic location (county) is a factor in determining ownership. 
 
 **Analysis, Presentation, and Visualization**
-* The overall analysis will be written into a Google Slide presentation, as well as visualized on a webpage.
+* The overall analysis will be written into a Google Slide presentation viewable [here](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1), as well as visualized on a webpage [here](https://amylio.github.io/Electrifying_AI/).
 
 ## Technology
 
@@ -80,12 +82,10 @@ EV Ownership: SQL code is used to add a new column titled "ev_flag" and uses a f
 
 ![Feature Selection](https://user-images.githubusercontent.com/73972332/116827328-4bf34e00-ab4d-11eb-9f49-4c98a87264a5.png)
 
-
 ### *Training and Testing Sets*
 The dataset is split into training and testing sets. The model uses the training dataset to learn from it. It then uses the testing dataset to assess its performance. If we were to use the entire dataset to train the model, we wouldn't know how well the model will perform when it encounters unseen data. We use the SciKit Learn Library to split, train, and test the data.
 
 ![train test](https://user-images.githubusercontent.com/73972332/116827206-b8218200-ab4c-11eb-9314-e6501c021ea9.png)
-
 
 ### *Model Choice: Limitations and Benefits*
 Because we are relating many variables, we will utilize both a Supervised Decision Tree and Random Forest Machine Learning Model. Supervised Machine Learning deals with labeled datasets. This approach is appropriate for this project because we will use current demographic data with knowledge of whether or not a survey respondent owns an electric vehicle to run predictions on future unknown datasets.
@@ -116,11 +116,20 @@ There is a fundamental tension between precision and sensitivity. Highly sensiti
 
 ![Random Forest](https://user-images.githubusercontent.com/73972332/116798874-bb633200-aaa8-11eb-9fad-a43f2e36f714.png)
 
-## Visualization
+## Dashboard/Visualization
 
-We will incorporate visualizations into `Google Slides`, as well as create an interactive webpage. A working draft of webpage can be found [here](https://amylio.github.io/Project_Web_Test/)
+We have incorporated visualizations into a [Google Slides Deck](https://docs.google.com/presentation/d/1yLtCgrkCrZDrA3M79BOugkTuRkmWJuCp/edit#slide=id.p1) using `Tableau` and `Seaborn`, as well as created an interactive webpage. 
 
-![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/ALio/Visualization/Images/Webpagedraft1.png)
+The website has functionality that allows users to toggle between tabs to switch pages, as well as the ability to enter inputs. Content includes:
+* **About** - Description of the project, a review of the Machine Learning process and analysis of the results.
+* **EV Information** - History, statistics, average charging cost and latest news from [Energy.ca.gov](https://www.energy.ca.gov) website.
+* **Vehicle Population Map by Fuel Type** - Link to visual map generated using `Tableau` with the data collected of vehicle population by fuel type for the state of California.
+* **Charging Station Finder** - Link to map of charging stations based on location that user can enter zipcode/address from [Openchargemap.org](https://openchargemap.org/site).
+* **Consumption and Impact** - Visual map to explore the sources of the global lithium trade.
+
+The webpage can be found [here](https://amylio.github.io/Electrifying_AI/)
+
+![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenshotv5.png)
 
 ## Resources
 
@@ -131,19 +140,9 @@ We will incorporate visualizations into `Google Slides`, as well as create an in
 
 ## Project Team Members
 
-* Russell Shelley - [GitHub Repository Owner](https://github.com/RussellShelley/Energy_Analysis)
+* Russell Shelley - [Python/Analytics/GitHub](https://github.com/RussellShelley/Energy_Analysis)
 * Angela Haverly - [Technology Master](https://github.com/RussellShelley/Energy_Analysis/tree/a_haverly)
 * Robbe Verhofste - [Machine Learning Architect](https://github.com/RussellShelley/Energy_Analysis/tree/r_verhofste)
 * Daniele Ruiz - [Database Guru](https://github.com/RussellShelley/Energy_Analysis/tree/d_ruiz)
 * Valerie Achoa - [Data Analysis Expert](https://github.com/RussellShelley/Energy_Analysis/tree/va_achoa)
 * Amy Lio - [Visualization and Experience Manager](https://github.com/RussellShelley/Energy_Analysis/tree/ALio)
-
-## Team Communication Protocols
-* `Slack`- #final_project_energy channel
-* `Zoom`
-	* Week 1 check-in 10am Sunday, April 17th (PST)
-	* Week 2 TBD
-	* Week 3 check-in 10am Sunday, May 2nd (PST)
-
-
-
