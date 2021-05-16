@@ -131,6 +131,16 @@ The website has functionality that allows users to toggle between tabs to switch
 
 ![webpage1](https://github.com/RussellShelley/Energy_Analysis/blob/main/Visualization/Images/WebpageScreenshotv5.png)
 
+## Conclusion
+* Key Takeaway: From our regression, we found that the most important factor was household income. 
+* Key Takeaway:  Accessibility to either PUBLIC or WORKPLACE charging stations is an important aspect for EV ownership. Range anxiety and the availability of charging infrastructure are two of the top three concerns holding people back from purchasing an EV vehicle. 
+* Key Takeaway: When asked “What is your biggest concern regarding all-battery powered electrical vehicles?” 
+    * 28% of respondents answered that the lack of charging infrastructure is  A TOP priority for consumers
+    * The second concern was driving range followed by a third concern cost/premium of tax incentives. 
+* Key Takeaway: Household income and respondents general attitude to new technology are still key factors in deciding if someone will be a PEV owner.  In the near future as the used PEV market becomes more robust and the idea of PEV grows in familiarity--we should expect to see households with more modest incomes and ‘late majority’ attitudes towards new tech riding in electric vehicles.  
+* Challenges: Limited and Small Survey Data. Needed more information on ownership of EV with Demographic and Proximity to Charging Stations for the Machine Learning Model. For the subset of 718 PEV owners, we were missing the question in the merged table what their proximity was to EV Charging Stations. 
+* Next Steps: Do more research and work to include the charging station data into our Machine Learning Model as we believe it is an important factor to determine likelihood of ownership. 
+
 ## Resources
 
 * [California Energy Commission](https://www.energy.ca.gov/)
